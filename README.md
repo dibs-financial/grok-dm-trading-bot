@@ -28,3 +28,14 @@ python3 -m dm_desk check examples/candidates.json      # dry-run the gate
 python3 -m dm_desk outcome DM-20260922-01 applied-by-user
 python3 -m unittest discover -s tests
 ```
+
+## KB strategy engine
+
+`dm_desk/engine/` implements [`docs/KB_STRATEGY_ENGINE.md`](docs/KB_STRATEGY_ENGINE.md): KB-Scanner (hash-diff of `knowledge/`, triple store), Pattern-Miner (level recurrence and hold rates, regime motifs, extreme-fear forward returns, catalyst outcomes), Hybrid-Solver (classical candidates → QUBO → quantum-inspired simulated annealing → desk packets), Uniqueness-Guard (fingerprint, body hash, near-duplicate, at most one emission per day), Strategy-Emitter (daily template around the packet), Ledger-Keeper (fingerprints on the ledger). The engine only proposes; the desk gate decides, and `PACKET: NONE` remains a valid day.
+
+```bash
+python3 -m dm_desk engine mine  --data-dir /tmp/dm                       # scan + pattern atlas
+python3 -m dm_desk engine solve --data-dir /tmp/dm --candidates examples/venues.json
+python3 -m dm_desk gameplan --advisor engine --candidates examples/venues.json --tape file --tape-file examples/tape.json --locks examples/locks.json --force
+```
+`examples/venues.json` is operator-maintained; a rail missing from it leaves the DeFi checklist unknown and the gate fails it closed.

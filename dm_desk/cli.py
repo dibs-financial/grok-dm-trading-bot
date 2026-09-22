@@ -8,11 +8,12 @@ Commands:
   ledger      print the packet ledger
   outcome ID STATUS|OUTCOME   update a ledger row, e.g. outcome DM-20260922-01 applied-by-user
   check FILE  qualify candidate packets in a JSON file without posting (dry run)
+  engine scan|mine|solve   run the KB strategy engine stages standalone (writes dm_desk/data/engine/)
 
 Options:
   --tape coinbase|file  --tape-file PATH      (default coinbase)
   --drive knowledge|folder --drive-folder PATH (default knowledge)
-  --advisor null|file|grok --candidates PATH   (default null)
+  --advisor null|file|grok|engine --candidates PATH (file: candidates JSON; engine: venues JSON)
   --locks PATH   JSON with vix, cii, spy_5d_return, arm_live_would_add, front_run_suspected
   --data-dir PATH   --force (run gameplan/eod even on weekend/holiday)  --quiet
 """
@@ -66,6 +67,30 @@ def main(argv: list[str] | None = None) -> int:
         led = Ledger(f"{a.data_dir}/ledger.jsonl")
         led.update(pid, **({"status": val} if val in ("posted", "applied-by-user", "ignored", "killed") else {"outcome_eod": val}))
         print("updated", pid)
+        return 0
+    if a.command == "engine":
+        import os
+        from .engine.scanner import Scanner
+        from .engine.patterns import mine, save
+        stage = a.args[0] if a.args else "scan"
+        eng_dir = os.path.join(a.data_dir, "engine")
+        res = Scanner(data_dir=eng_dir).scan()
+        print(f"scan: changed={res['changed']} delta={ {k: len(v) for k, v in res['delta'].items()} } triples={len(res['store'].triples)}")
+        if stage in ("mine", "solve"):
+            atlas = mine(res["store"]); save(atlas, os.path.join(eng_dir, "atlas.json"))
+            print(f"atlas: as_of={atlas.as_of} levels={len(atlas.levels)} motifs={len(atlas.motifs)} catalysts={len(atlas.catalyst_outcomes)} last={atlas.last_price}")
+            top = [l for l in atlas.levels if l.recurrence >= 2][:8]
+            for l in top: print(f"  {l.id} recurrence={l.recurrence} held={l.held} failed={l.failed} roles={l.role_counts}")
+        if stage == "solve":
+            from .engine.solver import EngineAdvisor
+            from .ledger import Ledger
+            led = Ledger(os.path.join(a.data_dir, "ledger.jsonl"))
+            if not led.present:
+                led._write()
+            adv = EngineAdvisor(led, data_dir=eng_dir, venues_path=a.candidates)
+            for p in adv.propose(""):
+                print("--- candidate ---"); print(p.render())
+            print("report:", json.dumps(adv.last_report, indent=1))
         return 0
     if a.command == "check":
         with open(a.args[0]) as fh:

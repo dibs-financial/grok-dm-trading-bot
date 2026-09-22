@@ -34,6 +34,10 @@ class LedgerEntry:
     outcome_t5: str = "none"
     lesson: str = ""
     packet: dict = field(default_factory=dict)
+    fingerprint: str = ""
+    body_hash: str = ""
+    pattern_ids: list[str] = field(default_factory=list)
+    kb_citations: list[str] = field(default_factory=list)
 
 
 @dataclass
@@ -66,11 +70,16 @@ class Ledger:
         n = sum(1 for e in self.entries if e.id.startswith(prefix)) + 1
         return f"{prefix}{n:02d}"
 
-    def add(self, p: Packet, drive_date: str) -> LedgerEntry:
+    def add(self, p: Packet, drive_date: str, fingerprint: str = "", body_hash: str = "",
+            pattern_ids: list[str] | None = None, kb_citations: list[str] | None = None) -> LedgerEntry:
+        pk = p.to_dict()
+        pk["fingerprint"], pk["body_hash"] = fingerprint, body_hash
         e = LedgerEntry(id=p.packet_id, date=p.packet_id[3:11], rail=p.rail, asset=p.asset,
                         trigger_family=p.trigger_family, intent=p.intent, entry=p.entry_text(),
                         invalidation=str(p.invalidation or p.invalidation_condition),
-                        size_hint=p.size_hint_pct_defi_sleeve, drive_date=drive_date, packet=p.to_dict())
+                        size_hint=p.size_hint_pct_defi_sleeve, drive_date=drive_date, packet=pk,
+                        fingerprint=fingerprint, body_hash=body_hash, pattern_ids=pattern_ids or [],
+                        kb_citations=kb_citations or [])
         self.entries.append(e)
         self._write()
         return e

@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 from dataclasses import dataclass, field
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
@@ -338,7 +339,16 @@ class Desk:
 
         if shipped:
             text = shipped.render()
-            self.ledger.add(shipped, self.state.last_drive_date or "")
+            fp = bh = ""
+            pids: list[str] = []
+            m = re.search(r"fingerprint (\w+); patterns ([^;]+)", shipped.correlation_note)
+            if m:
+                from .engine.guard import body_hash as _bh
+                from .engine import emitter as _em
+                fp, pids, bh = m.group(1), m.group(2).split(","), _bh(shipped)
+                text = _em.render(shipped, fp, pids, shipped.novelty_ledger_id, 0.0)
+            self.ledger.add(shipped, self.state.last_drive_date or "", fingerprint=fp, body_hash=bh, pattern_ids=pids,
+                            kb_citations=[c for c in shipped.correlation_note.split() if c.startswith("[DM")])
             lines.append("")
             lines.append(text)
             self.sinks.cf(text)

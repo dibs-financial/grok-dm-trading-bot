@@ -1,0 +1,9 @@
+{
+  "spot BTC": {"protocol": "spot BTC", "version": "", "chain": "CEX", "venue": "Coinbase Exchange", "paused_or_upgrading": false,
+               "bad_debt_or_admin_key_or_unaudited": false, "slippage_edge_fraction": 0.03, "custody_path": "wallet",
+               "gas_mev_net_fraction": 0.01, "settlement_seconds": 5},
+  "spot ETH": {"protocol": "spot ETH", "version": "", "chain": "CEX", "venue": "Coinbase Exchange", "paused_or_upgrading": false,
+               "bad_debt_or_admin_key_or_unaudited": false, "slippage_edge_fraction": 0.04, "custody_path": "wallet",
+               "gas_mev_net_fraction": 0.01, "settlement_seconds": 5},
+  "_note": "Operator-maintained. A rail missing here leaves the DeFi checklist unknown, so the gate fails it closed (UNPROVEN)."
+}

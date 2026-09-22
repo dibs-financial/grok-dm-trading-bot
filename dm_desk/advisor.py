@@ -88,4 +88,10 @@ def make_advisor(kind: str = "null", path: str | None = None) -> Advisor:
         return FileAdvisor(path)
     if kind == "grok":
         return GrokAdvisor()
+    if kind == "engine":
+        from .engine.solver import EngineAdvisor
+        from .ledger import Ledger
+        import os
+        from . import config as C
+        return EngineAdvisor(Ledger(os.path.join(C.DATA_DIR, "ledger.jsonl")), venues_path=path)
     raise ValueError(f"unknown advisor kind {kind!r}")
