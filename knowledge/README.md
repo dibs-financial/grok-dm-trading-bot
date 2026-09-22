@@ -25,7 +25,7 @@ Every claim carries `[DM memo YYYY-MM-DD]` or `[DM slides YYYY-MM-DD]`. That key
 
 1. **Answer from `current` only.** Offer history in one sentence ("There is a superseded version. Ask if you want it.") and open the superseded rail only when asked how something *used* to be.
 2. **A later source supersedes an earlier one on the same label.** "Similar" is not "current".
-3. **Two current lines that disagree stay two lines.** They are listed in `conflicts`; say both, never blend into a fake average.
+3. **Disagreements are resolved, not averaged.** Each `conflicts` row carries `resolved` (the settled answer) and the losing figure as an erratum. Do not re-open them.
 4. **Every live claim needs a cite.** If there is no cite, say there is none.
 5. **Gaps are explicit.** No briefing exists for the weeks of May 25, Jun 22, Jul 6, Jul 20, Aug 24, Sep 7, Sep 14. Events in those weeks (e.g. the Sep 15 CLARITY cloture failure, the Sep 16 Fed hike, the Aug NFP and Aug CPI prints) are known only as *referenced* by later briefings.
 6. **This is research context, not a signal.** The sources describe themselves as educational and not financial advice. Levels and scenario odds are the author's framing as of that date.

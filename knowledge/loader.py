@@ -110,7 +110,15 @@ class Knowledge:
         return list(self.data["upcoming"])
 
     def conflicts(self) -> list[dict[str, Any]]:
+        """Resolved disagreements. Each row carries 'resolved' (the answer) and 'resolution_note'."""
         return list(self.data["conflicts"])
+
+    def resolution(self, conflict_id: str) -> str:
+        """The settled answer for a disagreement id, e.g. 'warsh_start' -> '2026-05-15'."""
+        for c in self.data["conflicts"]:
+            if c["id"] == conflict_id:
+                return c.get("resolved", "UNRESOLVED")
+        raise KeyError(conflict_id)
 
     # ---- text -------------------------------------------------------------
     def weekly(self, date: str) -> str:
@@ -174,7 +182,7 @@ class Knowledge:
         out.append("")
         out.append("Upcoming: " + "; ".join(f"{u['date']} {u['event']}" + (f" ({u['watch']})" if u.get('watch') else "") for u in self.upcoming()))
         out.append("Known gaps (no briefing): " + ", ".join(self.gaps()))
-        out.append("Conflicts on file: " + ", ".join(c["id"] for c in self.conflicts()) + " — see knowledge.json['conflicts'].")
+        out.append("Resolved disagreements: " + "; ".join(f"{c['id']}={c.get('resolved','?')}" for c in self.conflicts()))
         return "\n".join(out)
 
 

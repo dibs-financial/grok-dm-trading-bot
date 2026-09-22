@@ -2,7 +2,7 @@
 
 **Current as of:** the 2026-09-21 briefing (latest source in the corpus). Corpus: 15 weekly briefings, 2026-05-11 → 2026-09-21, by Tyler Hubbard, Head of Research, Decentralized Masters.
 
-**How to read this card.** Each label has one *current* line (what the latest source says) and a *superseded* rail (what earlier sources said, dated). Answer from *current* unless asked for history. Every line carries a cite of the form `[DM memo|slides YYYY-MM-DD]`, which maps to `sources/text/YYYY-MM-DD_{memo|slides}.txt` and `manifest.json`. Two current lines that disagree are kept as two lines and listed under **Conflicts**; they are never blended.
+**How to read this card.** Each label has one *current* line (what the latest source says) and a *superseded* rail (what earlier sources said, dated). Answer from *current* unless asked for history. Every line carries a cite of the form `[DM memo|slides YYYY-MM-DD]`, which maps to `sources/text/YYYY-MM-DD_{memo|slides}.txt` and `manifest.json`. Disagreements between sources were resolved on 2026-09-22 (see **Disagreements — resolved** at the end); the losing figure is kept as an erratum, never re-promoted.
 
 **Gaps.** No briefing for the weeks of May 25, Jun 22, Jul 6, Jul 20, Aug 24, Sep 7, Sep 14. Events in those weeks (e.g. the Sep 15 CLARITY cloture failure and the Sep 16 Fed hike) are known only as referenced by later sources.
 
@@ -117,7 +117,7 @@
 - 2026-06-21: Jun 16–17 FOMC (Warsh debut) held 3.50–3.75% 12–0; Warsh declined to submit a dot; 130-word statement; 9 of 18 project a 2026 hike; ~50% Sept. `[DM memo 2026-06-21]`
 - 2026-06-15: hold near-certain; watch easing-bias sentence; ECB hiked to 2.25%. `[DM memo 2026-06-15]`
 - 2026-06-08: June hold 99.4%; YE hike ~73%. `[DM memo 2026-06-08]`
-- 2026-06-01: May FOMC held 8–4 (largest dissent since Oct 1992); BofA/GS cuts to H2 2027; ~46% Dec hike. States Warsh takes over June 18 (conflict). `[DM memo 2026-06-01]`
+- 2026-06-01: May FOMC held 8–4 (largest dissent since Oct 1992); BofA/GS cuts to H2 2027; ~46% Dec hike. (Erratum: this memo says Warsh takes over June 18; resolved to May 15.) `[DM memo 2026-06-01]`
 - 2026-05-18: Warsh confirmed 54–45 May 13, chair May 15; cut odds 0%; 2026 hike ~45%; first FOMC Jun 16–17. `[DM memo 2026-05-18]`
 - 2026-05-11: Powell term ends May 15; Warsh cleared committee; core PCE 3.2%. `[DM memo 2026-05-11]`
 
@@ -149,7 +149,7 @@
 ## Oil / Iran / Hormuz
 
 **Current** `[DM memo 2026-09-21]`
-- Brent $101.71 (4th straight decline from $108.75 on Sep 15), WTI ~$99 (briefly <$100, first since August). Support $95 / $90; resistance $105 / $108.75. UNGA diplomacy deflating the premium: Trump "probably" open to meeting Pezeshkian; Iran conveyed conditions via mediators; Qatar mediating. Hormuz flows at a 6-month high (2.8M bbl/day per slides vs 700K in August — see conflicts). Saudi pipeline partial restoration.
+- Brent $101.71 (4th straight decline from $108.75 on Sep 15), WTI ~$99 (briefly <$100, first since August). Support $95 / $90; resistance $105 / $108.75. UNGA diplomacy deflating the premium: Trump "probably" open to meeting Pezeshkian; Iran conveyed conditions via mediators; Qatar mediating. Hormuz flows at a 6-month high (2.8M bbl/day vs 700K in August; resolved figure). Saudi pipeline partial restoration.
 - Rule (standing): oil is the master variable; each $10 sustained Brent ≈ 0.3–0.4% headline CPI. `[DM slides 2026-08-20]`
 
 **Superseded**
@@ -163,7 +163,7 @@
 - 2026-06-29: Jun 25–27 strikes (M/T Kiku hit), Jun 28 halt, Doha talks Jun 30; WTI $70.12 (first <$70 since Feb 27). `[DM slides 2026-06-29]`
 - 2026-06-21: Geneva talks collapsed Jun 19; WTI ~$77; timeline Feb 28 ops / Mar 4 closure / Apr 8 ceasefire framework. `[DM memo 2026-06-21]`
 - 2026-06-15: 14-point deal reported (Hormuz reopens in 30 days, sanctions lifted, nuclear dismantled); possible Jun 19 Switzerland signing; WTI $80–85. `[DM memo 2026-06-15]`
-- 2026-06-08: WTI $90–94, Brent $96–97; April WTI peak $138 (this source); 10.5M b/d April shut-ins; Aramco: normalization 2027; UAE left OPEC May 1. `[DM memo 2026-06-08]`
+- 2026-06-08: WTI $90–94, Brent $96–97; ('WTI $138 April peak' here is an erratum; resolved Brent peak ~$120–126); 10.5M b/d April shut-ins; Aramco: normalization 2027; UAE left OPEC May 1. `[DM memo 2026-06-08]`
 - 2026-06-01: tentative MoU Thu May 28, Trump demands Fri; Brent $93.37; Brent >$116 early May; US seized ~$1B Iranian crypto. `[DM memo 2026-06-01]`
 - 2026-05-18: WTI >$107; Brent $105–113; UAE drone strikes; Trump "clock is ticking." `[DM memo 2026-05-18]`
 - 2026-05-11: Brent $95.87 (week high $114); Project Freedom May 4, paused May 6; Iran rejected proposal May 11. `[DM memo 2026-05-11]`
@@ -210,7 +210,6 @@
 - 2026-08-03: MSFT +15% (Azure 43%), AMZN +8–10%, META -9.6%, AAPL -7%, INTC -7.89%, GOOG -1.2%, TSLA -4.7%; KOSPI +17.91% Jul 31; July S&P close 7,489. `[DM memo 2026-08-03]`
 - 2026-07-13: S&P ~7,530; Dow ATH Jul 6 (~53,100); VIX ~15; Q2 EPS growth 23.6%. `[DM memo 2026-07-13]`
 - 2026-06-29: KOSPI -10% Jun 23; Micron -13%; equal-weight S&P near ATH. `[DM slides 2026-06-29]`
-- 2026-06-21: S&P ~5,575 / Nasdaq ~18,100 in memo (conflict). `[DM memo 2026-06-21]`
 - 2026-06-15: S&P 7,431; SpaceX IPO Jun 12 ($135, $75B raised, closed $161.11, ~$1.77T). `[DM memo 2026-06-15]`
 - 2026-06-08: Nasdaq -4.18% Jun 5 (Broadcom AI outlook); S&P 7,383; VIX 21.51. `[DM memo 2026-06-08]`
 - 2026-06-01: S&P 7,580 (+5% May, 9th weekly gain); Dow 51,000; AI capex $670B; AI ~45% of S&P cap. `[DM memo 2026-06-01]`
@@ -249,14 +248,19 @@
 
 ---
 
-## Conflicts (kept as separate lines; not blended)
-1. **Warsh start date.** May 15 `[DM memo 2026-05-18]` `[DM memo 2026-06-15]` vs June 18 `[DM memo 2026-06-01]`. Weight of sources: May 15.
-2. **June 21 equity levels.** Memo table gives S&P ~5,575 / Nasdaq ~18,100 `[DM memo 2026-06-21]`; every surrounding source has S&P ~7,4xx and Nasdaq ~25,9xx. Treat the June 21 memo levels as erroneous.
-3. **BTC moving averages, June 21.** Memo: 200d MA $65,200 / 50d MA $65,750; slides: 200d ~$77,500 / 50d ~$69,000 `[DM slides 2026-06-21]`. Later sources use ~$65,200 / ~$65,750. Also Aug 20 slides put the 200d MA at $69,884 vs $65,200 on Aug 3.
-4. **Oil peak figures.** Brent $114 week high (May 11), ">$116 early May" (Jun 1), "WTI $138 April peak" (Jun 8), "Brent ~$120+ war peak" (Jun 21 onward), "52-wk range $58–$126" (Aug 31), "Jul 29 peak $102" (13 nights of strikes). Cite the figure with its source; do not average.
-5. **Hormuz share of global oil.** ~20% (most sources) vs ~25% oil + 20% LNG `[DM memo 2026-06-01]`.
-6. **Hormuz flow volumes.** 6–8M bbl/day, pre-conflict 22–24M `[DM memo 2026-08-31]` vs 2.8M bbl/day 6-month high, 700K in August `[DM slides 2026-09-21]`. Different measures or an error; keep both.
-7. **BTC 2026 cycle low.** $59,023 Jun 25 `[DM slides 2026-06-29]` `[DM memo 2026-08-03]`; ~$59,100 `[DM memo 2026-06-15]`; $57,700 "Jun 25 flush" `[DM slides 2026-08-17]`. Weight of sources: $59,023.
-8. **ETH levels, June 8.** Slides list support $1,980 / resistance $2,135 while price is ~$1,750 `[DM slides 2026-06-08]`; internally inconsistent, likely stale.
-9. **Iran MOU timeline.** Aug 20 slides date the MOU to Jun 17 (60-day window to Aug 17) `[DM slides 2026-08-20]`, while June sources describe Geneva talks collapsing Jun 19 and a ceasefire only on Jun 28 `[DM memo 2026-06-21]` `[DM slides 2026-06-29]`.
-10. **Warsh JH keynote day.** "Thu Aug 28" in the Aug 17 memo table vs "Aug 28 Friday AM" in Aug 20 slides; both say Aug 28.
+## Disagreements — resolved 2026-09-22
+
+Per the desk owner's direction, each disagreement between sources is settled on the weight of sources. The losing figure is kept below as an **erratum** so it can still be cited, but it is not a second current line. `knowledge.json['conflicts'][i]['resolved']` carries the same answers for code.
+
+| # | Topic | Resolved | Erratum / note |
+|---|---|---|---|
+| 1 | Warsh start as Fed Chair | **May 15, 2026** `[DM memo 2026-05-18]` `[DM memo 2026-06-15]` | June 1 memo's "June 18" is an erratum. |
+| 2 | June 21 equity levels | **S&P ~7,4xx / Nasdaq ~25,9xx** `[DM memo 2026-06-15]` `[DM memo 2026-07-13]` | June 21 memo's ~5,575 / ~18,100 are errata; excluded from snapshots. |
+| 3 | BTC 50/200-day MAs | **200d ~$65,200 / 50d ~$65,750** through early Aug `[DM memo 2026-06-21]`; **200d $69,884** as of Aug 20 `[DM slides 2026-08-20]` | June 21 slide's $77,500 / $69,000 are errata. MAs drift, so the Aug 20 value is current for that date. |
+| 4 | Wartime oil peak | **Brent ~$120–126 (Apr–May 2026)**; July secondary peak **$102** (Jul 29) `[DM slides 2026-06-21]` `[DM slides 2026-08-31]` `[DM slides 2026-07-27]` | May 11 "$114" = that week's high; June 1 ">$116 early May" = early-May observation; June 8 "WTI $138 April peak" is an erratum. |
+| 5 | Hormuz share of global oil | **~20%** `[DM memo 2026-05-11]` `[DM slides 2026-06-15]` | June 1's "25% oil + 20% LNG" treated as LNG-inclusive framing. |
+| 6 | Hormuz flow volume | **2.8M bbl/day (6-mo high) as of Sep 21; 700K in August** `[DM slides 2026-09-21]` | Aug 31's "6–8M bbl/day" superseded; bases differ and cannot be reconciled from the sources. |
+| 7 | BTC 2026 cycle low | **$59,023 (Jun 25)** `[DM slides 2026-06-29]` `[DM memo 2026-08-03]` | ~$59,100 is a rounding; Aug 17 slide's $57,700 is an erratum. |
+| 8 | ETH levels, June 8 | **none for June 8**; next valid ETH levels are June 21 `[DM memo 2026-06-21]` | June 8 slide's $1,980 / $2,135 were stale vs a ~$1,750 price; dropped. |
+| 9 | Iran MOU timeline | **Window opened ~Jun 17–18, expired Aug 17 (60 days)** `[DM memo 2026-08-17]` `[DM slides 2026-08-20]` | Jun 19 Geneva collapse and Jun 25–28 strikes/halt are talks failing and re-escalation inside the window, not contradictions. |
+| 10 | Warsh JH keynote day | **Friday Aug 28, 2026** `[DM slides 2026-08-20]` | Aug 17 memo table's "Thu" is a typo; both sources say Aug 28. |
