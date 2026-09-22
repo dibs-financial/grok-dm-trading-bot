@@ -1,0 +1,130 @@
+
+===== PAGE 1 =====
+DM MARKET UPDATE
+RESEARCH MEMO
+Decentralized Masters
+Monday, June 15, 2026
+Tyler Hubbard, Head of Research
+BTC
+~$64,000
+-50% from $126K ATH
+ETH
+~$1,670
+Glamsterdam delayed Q3
+WTI CRUDE
+$80-85/bbl
+Iran deal optimism
+GOLD (XAU)
+~$4,310
+2nd consec. wkly decline
+S&P; 500
+7,431
++0.5% Fri; SpaceX IPO
+boost
+FEAR & GREED
+20-25
+Fear - CMC: 25 /
+CryptoRank: 20
+CRYPTO
+Bitcoin (BTC)
+Trading ~$63K-$65K; recovered from a June cycle low of ~$59,100
+after $3B+ in liquidations. MVRV ~1.1 (CryptoQuant), just above the
+historical undervaluation zone matching 2015/2019/2022 lows. Perp
+funding flipped slightly positive after months negative. ETF outflows
+hit a record ~$3.4B in a single week (IBIT alone: ~$1.34B); pace
+slowed in the June 8-13 window. Support: $60K-$62K. Resistance:
+$66K-$68K, then 200-day EMA ~$76K-$80K.
+Ethereum (ETH)
+~$1,620-$1,720, down ~62% from its $4,953 ATH (Aug 2025).
+Glamsterdam upgrade slipped from June to Q3 2026, removing the
+main near-term catalyst (gas limit 60M to 200M, 78% smart-contract
+gas reduction, EIP-7732). L2 adoption and DeFi revenues
+structurally intact.
+Hyperliquid (HYPE)
+~$58-$63, off ATH of $75.52 (Jun 2) but still +160% YTD. Three
+competing US ETFs live: 21Shares THYP (0.30%), Bitwise BHYP
+(0.34%), Grayscale HYPG (0.29% + ~2.2% staking yield). ~99% of
+fees go to HYPE buybacks; $1B+ cumulative. ~60% of global
+on-chain perp OI.
+Zcash (ZEC)
+~$530, recovering strongly from a ~50% crash after the Orchard
+shielded pool vulnerability disclosure. Pre-exploit peak ~$543 on
+Multicoin Capital's privacy thesis (CBDC/surveillance concerns).
+Emergency fix applied; Ironwood upgrade targets July. June 14
+external audit: clean, no new bugs found. Core thesis intact; chart
+still repairing.
+Solana + Altcoins
+SOL (~$64-$67): tokenized RWA hit $2.7B ATH Jun 10 (+34% from
+Q1); tokenized SpaceX shares launched on Solana. Alpenglow
+upgrade (~150ms finality) targets Q3. Humanity Protocol H token:
+private-key exploit Jun 8 wiped ~$1B. Custody hygiene is
+non-negotiable.
+MACRO
+May CPI: 4.2% Headline, 2.9% Core
+Released Jun 10. Headline +0.5% MoM / +4.2% YoY - highest since April
+2023; energy accounted for 60%+ of monthly increase (+3.9% MoM,
++23.5% YoY) on Hormuz disruption. Core +0.2% MoM / +2.9% YoY, one
+tick below the 0.3% consensus. PPI (Jun 11): +1.1% MoM / +6.5% YoY -
+highest since Nov 2022; core PPI 0.4% MoM, below estimates. The
+130bp headline-vs-core gap is the central tension: energy-driven, not yet
+broad demand-side.
+Fed: Warsh's First Meeting (Jun 16-17)
+Hold at 3.50-3.75% near-certain (CMC: 96.3%; Polymarket: 99.6%).
+Warsh's first press conference as Chair (Wed 2:30pm ET) is what
+markets are actually trading. Key watch: does the statement drop the
+easing-bias sentence? Warsh is known for price-stability hawkishness.
+Updated dot plot will flag whether a year-end hike is formally on the table.
+ECB hiked to 2.25% (effective Jun 17) - first major central bank hike since
+Sept 2023.
+Equities and SpaceX IPO
+S&P; 500: 7,431 (+0.5% Fri). Nasdaq: 25,889. Dow: 51,202. Recovered
+from Jun 5 chip selloff (-4.18% Nasdaq). SpaceX IPO Jun 12: priced
+$135/share, raised $75B (largest IPO in history, 2x+ Saudi Aramco
+2019). Opened $150, closed $161.11 (+19%), valued ~$1.77T. Ineligible
+for S&P; 500 until Jun 2027 (seasoning rule). SOX semiconductor index
+is the key directional tell for tech this week.
+Oil, Geopolitics, Gold and Dollar
+WTI ~$80-$85/bbl, Brent ~$84-$88/bbl - lowest since early March on
+reports of an imminent US-Iran 14-point deal (Hormuz reopens in 30
+days, sanctions lifted, nuclear program dismantled). Possible Switzerland
+signing Jun 19. A confirmed deal is the most deflationary macro event of
+2026.
+Gold ~$4,310/oz, 2nd consecutive weekly decline - rate-hike
+expectations overriding safe-haven bid. 10Y yield ~4.49-4.50%. DXY
+~99.75, firm but range-bound.
+Key Risks: Warsh drops easing bias + hawkish dots = yields spike,
+BTC tests $60K; Iran deal collapses = oil re-spikes, hike odds surge;
+continued ETF outflows; Glamsterdam delay triggers further ETH
+selling; semis fail to recover.
+Catalysts: Iran deal signed Jun 19 = oil falls hard, CPI trajectory reverses,
+risk-on rally; Fed retains easing bias = relief across crypto/equities; ETF
+outflow pace continues slowing; MVRV at 1.1 attracts on-chain
+accumulation.
+WEEK AHEAD | KEY EVENTS
+DATE
+EVENT
+WHY IT MATTERS
+Mon Jun 15
+FOMC Meeting Day 1
+Two-day meeting begins. Watch for pre-meeting Warsh signals.
+
+
+===== PAGE 2 =====
+Wed Jun 17
+FOMC Decision + May Retail Sales
+Hold near-certain. Key: easing-bias language survives? Warsh press conf. 2:30pm
+ET. Retail sales pre-open = consumer health. Most market-moving day of the week.
+Thu Jun 18
+Weekly Jobless Claims
+Labor market health. Strong = more hike pressure. Weak = Fed breathing room.
+Fri Jun 19
+Juneteenth - Markets CLOSED +
+Possible Iran Signing
+US stocks + bonds closed. Crypto/oil trade 24/7 and price the deal first. Switzerland
+signing of US-Iran deal reportedly targeting this date.
+Ongoing
+US-Iran Deal Watch
+The override event. Signed = oil collapses, disinflation, risk-on for BTC. Collapse = oil
+re-spikes, hawkish Fed, BTC retests $59,100.
+Supplement to the DM Market Update video, Monday June 15, 2026. Educational purposes only. Not financial advice. Crypto involves significant risk. Figures
+approximate; sourced from public data as of June 13, 2026.

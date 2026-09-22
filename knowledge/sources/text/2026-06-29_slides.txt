@@ -1,0 +1,314 @@
+
+===== PAGE 1 =====
+DECENTRALIZED MASTERS
+DM MARKET UPDATE
+Weekly Research Briefing
+June 29, 2026
+Tyler Hubbard
+Head of Research, Decentralized Masters
+MACRO
+CRYPTO
+NFP WEEK
+
+
+===== PAGE 2 =====
+MACRO SNAPSHOT
+Week of June 22–29, 2026
+DXY (Dollar)
+101.3
+14-month high
++0.3% wk
+Gold (Spot)
+$4,026
+per ounce
+-2.6% wk
+WTI Crude
+$70.12
+per barrel
+~-9% wk
+10-yr Treasury
+4.38%
+yield
+-7bps
+PCE Confirmed 4.1% YoY / 3.4% Core:
+Headline matched estimates; monthly came in a touch soft. Markets now price THREE 2026 hikes; Sept probability at ~62%. Analysts calling May the potential inflation 
+peak.
+Equity Volatility — Tech Hit Hard:
+BoA 3-hike note + South Korean KOSPI crash triggered global chip selloff. Micron -13% Tue. S&P -1.44% Tue. Now bouncing: S&P +0.7%, Nasdaq +1% today. AI trade 
+re-entering.
+Iran: Weekend Escalation Then Ceasefire:
+Thu–Sat: fresh US-Iran strikes in Hormuz; M/T Kiku tanker hit. Sunday: ceasefire agreed. Doha talks Tuesday. Oil hit below $70 Friday (first time since Feb 27, day 
+before war started).
+Gold -10% in June — Worst Month of 
+Cycle:
+4th consecutive weekly decline; rate hike expectations dominating over geopolitical bid. Watch NFP Thursday for potential reversal catalyst.
+
+
+===== PAGE 3 =====
+MAY PCE: CONFIRMED — AND POSSIBLY THE PEAK
+June 25, 2026
+Headline PCE (YoY)
+4.1%
+Est: 4.1%
+Prior: 3.8%
+In-line
+Core PCE (YoY)
+3.4%
+Est: 3.3%
+Prior: 3.3%
+Hot
+Headline PCE (MoM)
+0.4%
+Est: 0.5%
+Prior: 0.4%
+Soft
+Core PCE (MoM)
+0.37%
+Est: 0.30%
+Prior: 0.24%
+Hot
+RATE HIKE PRICING NOW
+Markets pricing:
+3 hikes by year-end
+September hike:
+~62% probability
+Deutsche Bank base case:
+2 hikes in 2026; no cuts until 2028
+THE INFLATION PEAK ARGUMENT
+Oil has fallen ~15% in June as Hormuz partially reopens
+May PCE monthly was softer than expected (0.4% vs 0.5%)
+NY Fed's Williams: expects inflation to edge lower in coming quarters
+June PCE (out late July) should show lower energy costs
+
+
+===== PAGE 4 =====
+EQUITIES: AI SELLOFF, BOUNCE, AND ROTATION
+Week Recap
+↓  Mon Jun 22
+BoA: Up to 3 hikes possible
+↓  Tue Jun 23
+KOSPI -10%; Nasdaq -2.21%; 
+Micron -13%; VIX 19.5
+→  Wed Jun 24
+Micron earnings beat; $25B 
+SpaceX debt raise
+→  Thu Jun 25
+Apple + MSFT price hikes; PCE 
+in-line; OpenAI IPO delay
+↑  Fri Jun 26
+PCE bounce; Brent -10% weekly 
+(Hormuz flow recovery)
+KEY MOVERS LAST WEEK
+Micron (MU)
+-13% Tue → +4% aft-hours
+Nvidia (NVDA)
+-3.2% Tue; recovering today
+SpaceX (SPCX)
+$25B debt raise; post-IPO vol.
+Comcast (CMCSA)
++20% today (NBCUniversal spin)
+S&P 500
+-1.44% Tue; +0.7% today
+THE KEY INSIGHT: ROTATION
+Equal-weight S&P 500 near all-time highs — breadth actually improving
+AI mega-caps sold, money rotated into rest of market
+Russell 2000 showed relative strength this week
+Market not abandoning AI — demanding proof on earnings, then re-entering
+OpenAI IPO delay removes one source of uncertainty from the calendar
+
+
+===== PAGE 5 =====
+OIL & IRAN: WEEKEND ESCALATION, THEN CEASEFIRE
+Jun 19 (Fri)
+Geneva talks collapse; Trump threatens more strikes
+Jun 25 (Thu)
+Iran strikes container ship in Hormuz
+Jun 26 (Fri)
+US retaliatory strikes on Iranian targets
+Jun 27 (Sat)
+US strikes after Iran hits M/T Kiku (2M bbl crude)
+Jun 28 (Sun)
+Both sides halt attacks; Doha talks Tuesday
+Jun 30 (Tue)
+US-Iran Doha talks (Iran denied; US confirmed delegation)
+Pre-War WTI
+~$65
+Feb 2026 baseline
+War Peak
+~$120+
+Hormuz closure peak
+Last Week
+~$77
+Jun 22, pre-escalation
+Today (Mon)
+~$70
+First below $70 since Feb
+↓ from $77
+⚠  ING WARNING:
+Traders appear 'too optimistic' on recovery timeline — complacency leaves 'significant upside risk if supply recovery proves slow.' Market pricing best case, 
+not base case.
+
+
+===== PAGE 6 =====
+GOLD: -10% IN JUNE — WORST MONTH OF THIS CYCLE
+Jan 28 ATH
+$5,589
+Last Week
+$4,150
+Today
+$4,026
+Drawdown (ATH)
+-28.0%
+June return
+-10.2%
+GS Year-End
+$4,900
+WHY GOLD IS FALLING
+Rate Hike Pricing
+3 hikes now priced by year-end. Gold yields nothing — bonds become relatively more attractive 
+when rates rise.
+DXY at 14-Month Highs
+Dollar at ~101.3 makes gold expensive for non-US buyers, suppressing global demand.
+Oil Retreat Reduces 
+Geopolitical Bid
+Gold's war premium deflates as Hormuz traffic recovers and ceasefire holds (tentatively).
+Falling Real Yields Needed
+For gold to rally, either: (1) inflation expectations fall faster than nominal yields, or (2) a growth 
+scare resets hike narrative.
+What Could Reverse It
+Weak NFP Thursday → rate hike odds fall → dollar softens → gold bounces. This is the fastest 
+path.
+STRUCTURAL THESIS UNCHANGED:
+US debt >$37T, CB buying near record pace, dollar reserve share declining. This is a cyclical pullback inside a structural bull market — 
+not a reversal.
+
+
+===== PAGE 7 =====
+THIS WEEK'S CALENDAR — NFP THURSDAY, HOLIDAY FRIDAY
+MON
+Jun 29
+Warsh remarks
+(watch rate signals)
+TUE
+Jun 30
+★ Iran-US
+Doha Talks
+Consumer
+Confidence (CB)
+WED
+Jul 1
+ADP Employment
+(Jun)
+ISM Mfg.
+PMI (Jun)
+THU
+Jul 2
+★★ June NFP
+★★ Unemployment
+Rate
+Hourly Earnings
+FRI
+Jul 3
+MARKETS
+CLOSED
+Independence
+Day Holiday
+★★ NFP THURSDAY: Last major data before July 29 FOMC. Hot print (180K+ / strong wages) → July hike odds above 40%. Weak print (<120K) → rate cut talk returns. Holiday Friday = 
+Thursday's reaction holds into long weekend.
+
+
+===== PAGE 8 =====
+CRYPTO OVERVIEW — BRUTAL WEEK CONTINUES
+June 29, 2026
+Bitcoin (BTC)
+$59,800
+~$1.18T Mkt Cap
+-6.3% wk
+Ethereum (ETH)
+$1,565
+~$188B Mkt Cap
+-11.1% wk
+Fear & Greed
+12
+Extreme Fear
+↓ from 23
+BTC ETF AUM
+$77.5B
+Was $113B Jan 1
+7 wks outflows
+THE WEEK THAT BROKE $60K
+June 24-25: BTC dropped to $59,023 — lowest since Oct 10, 2024. ~$1B liquidated: $780M long, $220M short.
+7 consecutive weeks of ETF outflows. ETF AUM fell from $113B (Jan 1) to $77.5B. Issuers selling physical BTC to fund redemptions.
+Whale wallets (10-10K BTC) dumped 45,074 coins in the 8 days leading up to the flush. CZ attributes crypto's -50% year to AI rotation, geopolitics, 4-year cycle.
+Strategy (MicroStrategy) market value fell below BTC holdings — the premium is gone. Ripple CEO calls the model 'financial engineering that hurt crypto.'
+
+
+===== PAGE 9 =====
+BITCOIN: THE JUNE 24 FLUSH & WHAT COMES NEXT
+BT
+C
+THE JUNE 24-25 LIQUIDATION
+BTC low hit
+$59,023
+Total liquidations
+~$1.0B
+Long liq.
+$780M
+Short liq.
+$220M
+BTC-specific liq.
+$413M
+ETH-specific liq.
+$226M
+$1.6B long positions still sitting below $58,000 → danger zone
+KEY LEVELS
+Resistance 2: $63,000
+Structure repair needed
+Resistance 1: $61,000–61,750
+First escape gate
+Current Price: $59,800
+Post-flush stabilizing
+Support 1: $58,000–58,400
+Absorption zone; holds
+Danger Zone: Below $58K
+$1.6B long cluster
+THE CLARITY ACT — UNDERRATED CATALYST
+Senate vote expected within ~5 weeks before Congress recess
+If passed: institutional capital unlocked — regulatory clarity removes the biggest 
+entry barrier
+If delayed to fall: catalyst disappears for months, another quarter of limbo
+Watch Senate floor schedule — this is flying under the radar
+
+
+===== PAGE 10 =====
+OUTLOOK & WHAT TO WATCH
+Week Ahead
+01
+June NFP — Thursday
+Last Print Before July 29 FOMC
+Hot (180K+ / strong wages): July hike odds spike, 
+Sept above 75%. DXY up, BTC pressure on $58K 
+cluster.
+Soft (<120K): Rate cut talk re-enters for late 2026. 
+Dollar softens, gold and BTC get relief.
+Holiday Friday = Thursday's market reaction holds 
+into 3-day weekend — position accordingly.
+02
+Doha Talks — Tuesday
+Iran-US: Oil & Inflation Wildcard
+US confirmed delegation; Iran publicly denied 
+meeting. Divergence adds uncertainty.
+Success: oil stays sub-$73, peak inflation thesis 
+builds, Fed hike pricing may soften.
+Failure / escalation: oil spikes back toward $80+, 
+inflation outlook worsens, risk-off.
+03
+Bitcoin $58K Zone
+Absorption or Continuation Lower?
+$58-59K showing buyer absorption but not 
+confirmed accumulation — needs higher migration.
+Below $58K: $1.6B long cluster triggers, cascade risk 
+accelerates toward $55K.
+Also watch: CLARITY Act Senate news + any ETF 
+inflow reversal as early green shoots.
+Tyler Hubbard, Head of Research — Decentralized Masters  |  June 29, 2026  |  For educational purposes only. Not financial advice.

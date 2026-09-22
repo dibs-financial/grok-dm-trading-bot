@@ -1,0 +1,326 @@
+
+===== PAGE 1 =====
+DECENTRALIZED MASTERS
+MARKET UPDATE
+Weekly Research Briefing
+July 13, 2026
+Tyler Hubbard
+Head of Research, Decentralized Masters
+NFP SHOCK
+WARSH TUESDAY
+ETF REVERSAL
+
+
+===== PAGE 2 =====
+MACRO SNAPSHOT
+Week of July 6–13, 2026
+WTI Crude Oil
+$74.70
+per barrel
++4.6% today
+Gold (Spot)
+$4,068
+per ounce
++1.5% wk
+DXY (Dollar)
+~101.3
+near 13-mo high
+-0.3% wk
+10-yr Treasury
+4.50%
+yield
++8bps wk
+57K NFP Miss — Worst Since Late 2025:
+June jobs: 57K vs 110K+ expected. Prior months revised -74K combined. Participation rate fell to 61.5%, lowest since Mar 2021. Household employment -507K. Dollar 
+fell, gold +2%, rate hike bets pared.
+Iran: Ceasefire Cancelled, Oil Surging 
+Today:
+Fresh US-Iran strikes over the weekend — 4th US strike in a week. Iran attacked Cyprus-flagged container ship Sunday. WTI +4.6% today to $74.70. Brent ~$79.50. 
+Hormuz shipping significantly slowed.
+FOMC June Minutes: 'No Urgency to 
+Hike':
+Minutes (July 8) were sparse — Warsh design. Committee saw 'no urgency' given cooling labor. NY Fed's Williams: policy 'in a good place,' not considering July hike. 
+Sept hike odds: ~60-70%.
+Equities — Dow ATH, AI Fatigue 
+Growing:
+S&P +1%, Nasdaq +2% last week (2nd positive week). Dow hit intraday ATH. But S&P tech sector -10% from peak. Q2 earnings season opens Tuesday. FactSet forecasts 
+23.6% YoY earnings growth.
+
+
+===== PAGE 3 =====
+JUNE NFP: +57K — A MAJOR LABOR MARKET MISS
+July 2, 2026
+ACTUAL
++57K
+Jobs added in June
+Consensus: ~110-115K
+Prior 2-mo revisions: -74K
+First-half avg: +92K/mo
+Unemployment Rate
+4.2%
+↓ from 4.3% — bad reason: participation fell
+Labor Force Participation
+61.5%
+Lowest since March 2021
+Household Employment
+-507K
+Large drop — people left workforce
+Leisure & Hospitality
+-61K
+World Cup seasonal effect
+Avg Hourly Earnings (YoY)
+3.5%
+↑ from 3.4% — wages still sticky
+MARKET REACTION — THURSDAY JULY 2
+US Dollar
+↓ 2-week low
+Gold
++2% to $4,120
+10yr Yield
+Fell sharply
+Sept Hike %
+Pared back
+Then Iran struck again over the holiday weekend — erasing much of the dovish repricing.
+
+
+===== PAGE 4 =====
+IRAN: CEASEFIRE CANCELLED — OIL SURGES AGAIN
+Jun 30
+Doha talks — 'positive progress'
+next meeting after Khamenei 
+funeral
+Jul 7
+Iran strikes Al-Rekayyat
+(Qatari LNG tanker)
+Jul 8
+US strikes 80+ Iranian targets
+Trump: ceasefire 'over' at NATO
+Jul 9-11
+Weekend: Iran hits Cyprus tanker
+US 4th strike in a week
+Jul 12-13
+Iran: 'Hormuz closed'
+(US CENTCOM disputed)
+Oil +4.5% today
+Pre-War WTI
+~$65
+Feb 2026 baseline
+War Peak
+~$120+
+Hormuz closure peak
+June lows (Reopening)
+~$67
+Hormuz partially open
+Today (Iran Re-Esc.)
+~$74.70
++4.6% this morning
+⚠  THE CPI PROBLEM:
+Tuesday's June CPI is expected to show energy deflation driven by June's lower oil prices (Hormuz partial reopening). But oil is already +4.6% this morning. If Iran keeps Hormuz 
+disrupted through July, the June CPI energy drop becomes a one-month artifact — and the inflation peak thesis collapses into July's data.
+
+
+===== PAGE 5 =====
+FED WATCH: MINUTES, WARSH, AND JULY 29 SETUP
+JUNE FOMC MINUTES (Jul 8)
+Scant on details — Warsh design; no forward guidance
+Committee: 'no urgency to hike' given cooling labor market
+But acknowledged inflation remains well above the 2% target
+NY Fed's Williams (Jul 7): policy 'in a good place' — NOT considering July hike
+9 of 18 officials still project at least one 2026 hike in the dot plot
+Iran re-escalation since June meeting = unknown variable Warsh must address
+RATE HIKE PROBABILITIES
+July 29 FOMC
+~5-10%
+Not live — Williams said 'no urgency'
+September FOMC
+~60-70%
+Oscillating: NFP pushed down, Iran re-escalation pushing back up
+December 2026
+~40-50%
+Fully in play; depends on inflation trajectory
+★★ WARSH CONGRESSIONAL TESTIMONY — TUESDAY 10AM ET
+House Financial Services Committee Tuesday; Senate Banking Committee Wednesday. First time before Congress as Fed Chair.
+CPI data drops at 8:30am — Warsh testifies 90 minutes later. He will know the June inflation number when he enters the chamber.
+Key questions markets will be parsing: Does he endorse the 9-hike-dot view? Does he give any July 29 signals? How does he characterize Iran?
+Warsh has signaled end of forward guidance era — expect measured, non-committal language. Q&A sessions are the real risk.
+
+
+===== PAGE 6 =====
+EQUITIES: DOW ATH, AI FATIGUE, EARNINGS OPEN
+S&P 500
+~7,530
++1.0% wk
+Nasdaq
+~26,100
++2.0% wk
+Dow Jones
+~53,100
+ATH July 6
+VIX
+~15.0
+6-month low
+WHAT HAPPENED LAST WEEK
+Dow hit intraday ATH July 6 — Industrials and Financials leading
+S&P tech sector -10% from recent peak — AI capex doubts building
+Ed Yardeni: 'AI fatigue' as market questions infrastructure ROI
+VIX at 15 — near 6-month lows — market not pricing much fear
+63% of S&P 500 stocks above 50-day MA (up from 50% a month ago)
+Equal-weight S&P near ATH — breadth is actually improving
+Q2 EARNINGS THIS WEEK
+Tue Jul 14
+JPM, BAC, GS, WFC, Citi — Big Banks
+Credit quality, NIM, loan growth
+Wed Jul 15
+ASML, Morgan Stanley, Netflix, UAL
+AI chip orders; streaming vs. travel
+Thu Jul 16
+TSMC, GE Aerospace, UNH, Netflix
+TSMC AI guidance = key market driver
+Fri Jul 17
+No major earnings expected
+Focus on Mich. Sentiment instead
+FactSet consensus: Q2 S&P 500 earnings growth 23.6% YoY — second consecutive quarter above 20%. Strong fundamental backdrop even in challenging macro.
+
+
+===== PAGE 7 =====
+THIS WEEK: BIGGEST TUESDAY OF 2026
+MON
+Jul 13
+No major data
+Iran weekend strikes
+already in market
+TUE
+Jul 14
+★★ June CPI (8:30)
+★★ Warsh House
+Testimony (10:00)
+JPM BAC GS WFC C
+Earnings
+WED
+Jul 15
+PPI (8:30)
+Warsh Senate
+Testimony
+ASML MS NFLX
+UAL Earnings
+THU
+Jul 16
+Retail Sales
+Initial Claims /
+Philly Fed
+TSMC GE UNH
+Earnings
+FRI
+Jul 17
+U. Mich.
+Sentiment (prelim)
+Industrial Prod /
+Housing Starts
+--
+TUESDAY: CPI at 8:30  |  Warsh at 10:00  |  JPM / GS / BAC earnings — three simultaneous market-moving catalysts. Most consequential single day since the June FOMC.
+
+
+===== PAGE 8 =====
+CRYPTO OVERVIEW: 8-WEEK OUTFLOW STREAK ENDS
+July 13, 2026
+Bitcoin (BTC)
+$63,042
+~$1.25T Mkt Cap
++5.5% (2wk)
+Ethereum (ETH)
+$1,820
+~$220B Mkt Cap
++16.2% (2wk)
+BTC ETF Inflows
+$197M
+Week of Jul 7-11
+First +ve week in 8
+ETH ETF Inflows
+$84M
+8-wk streak broken
+Both assets reversed
+THE 8-WEEK OUTFLOW CONTEXT
+$9.46 BILLION OUT over 8 consecutive weeks (May 15 – July 4)
+$282M IN — week of July 7-11 (3% of the outflows recovered)
+Inflow catalyst: June 2 NFP miss pared rate hike bets → ETF inflows started July 2, peaked at $265M on July 7.
+USDT dominance retreated from 4-year highs (9.35% → 8.54%) — positive signal for broader risk appetite.
+Average ETF holder cost basis: ~$83,800, well above $63K. That gap creates psychological overhang — holders still in loss.
+Swissblock: 'Most overwhelming ETF distribution wave of this bear market has ended.' — Note the language: ended, not reversed.
+
+
+===== PAGE 9 =====
+BITCOIN: RECOVERY + WHAT HAPPENS NEXT
+BT
+C
+KEY PRICE LEVELS
+200-day MA: ~$65,200
+Overhead resistance — key structural test
+50-day MA: ~$65,750
+Overhead resistance — above 200-day
+Key Resistance: $65,000
+Psychological + technical zone
+Current Price: $63,042
+Up ~7% from $59,023 June 25 flush
+Support 1: $61,000–$61,750
+First repair zone; needs to hold
+Support 2: $59,000
+June 25 flush low — structural
+TWO-WEEK RECOVERY
+Jun 25 flush low
+$59,023
+Jun 29
+$59,800
+Jul 7
+$62,900
+Today (Jul 13)
+$63,042
+THE CLARITY ACT — AUG 7 DEADLINE
+Congress recess August 7 — 25 days away
+If passed: regulatory clarity → institutional floodgates
+If delayed: pushed to midterm cycle = months of limbo
+CFTC Chair Selig publicly pressuring Senate to act now
+Partisan friction: Trump's $1.4B digital asset revenues
+ETH AT $1,820:
+Up +16% from $1,565 low. ETH ETF inflows proportionally stronger than BTC last week. ETH/BTC ratio recovering from 0.026 multi-year lows. Glamsterdam devnet on schedule. BitMine 
+holds 5.62M ETH unchanged. Medium-term thesis intact — macro still in control near-term.
+
+
+===== PAGE 10 =====
+OUTLOOK & WHAT TO WATCH
+Week Ahead
+01
+CPI + Warsh Tuesday
+The Week's Defining Catalyst
+June CPI est. 3.8% YoY (from 4.2%) — energy-driven 
+drop. Core: ~2.9% (stable). Soft print = meaningful 
+relief.
+Warsh testifies 90 min after CPI drops — Q&A 
+sessions are the real risk. No forward guidance 
+expected, but watch tone.
+Scenario A: Soft CPI + patient Warsh → Sept hike 
+odds fall, BTC targets $65K, ETF inflows build for 
+week 2.
+02
+Iran: Hormuz Again
+Oil Is Already Responding
+WTI +4.6% today on weekend strikes. Brent 
+~$79.50. Iran claims Hormuz 'closed'; US CENTCOM 
+disputes it.
+If oil holds above $78-80, June CPI energy deflation 
+becomes a one-month anomaly — Warsh must 
+address.
+Watch for Qatar/Pakistan mediation update — 
+Khamenei funeral period ended; diplomatic window 
+may re-open.
+03
+ETF Flows + TSMC
+Build Conviction or One-Week Bounce?
+$282M in last week. Week 2 of inflows would 
+materially change the narrative from tactical to 
+strategic.
+TSMC earnings Thursday: AI chip demand guidance 
+is the most important single corporate data point 
+for crypto's macro backdrop.
+CLARITY Act: August 7 recess deadline is 25 days 
+away — Senate floor schedule matters.
+Tyler Hubbard, Head of Research — Decentralized Masters  |  July 13, 2026  |  For educational purposes only. Not financial advice.

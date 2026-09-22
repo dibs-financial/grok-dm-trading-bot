@@ -1,0 +1,315 @@
+
+===== PAGE 1 =====
+DECENTRALIZED MASTERS
+MARKET UPDATE
+Weekly Research Briefing
+July 27, 2026
+Tyler Hubbard
+Head of Research, Decentralized Masters
+IRAN PAUSE
+OIL -6%
+FOMC WED
+MSFT/META/AAPL/AMZN
+
+
+===== PAGE 2 =====
+MACRO SNAPSHOT
+Week of July 27, 2026
+WTI Crude
+~$83
+per barrel
+-6% today
+Brent Crude
+~$90
+per barrel
+-7% today
+Gold (Spot)
+$4,116
+per ounce
++0.6% today
+FOMC Jul 29
+~80%
+Hold probability
+20% hike risk
+Iran: US Paused Strikes Late Friday:
+No official announcement. Iran confirmed pause. Brent had hit $102 last week — now down to ~$89-92. Oil fell 5-7% at open. Markets risk-on.
+Intel Q2 — Beat Massive, Stock Still 
+-7.89%:
+Revenue $16.1B (+25%), EPS $0.42 (nearly doubled). But capex raised from $18B to >$20B. Same pattern as TSMC, Alphabet — sell the capex raise.
+FOMC: Hold Probability Recovering:
+Fell to 64% as Brent hit $102. Now recovering toward ~75-80% with oil retreat. Warsh press conference Wednesday 2pm is the week's key communication.
+Week: FOMC + MSFT + META + GDP + 
+PCE + AAPL + AMZN:
+The most information-dense single week of Q2 2026. Every major AI hyperscaler reports, plus the rate decision and key economic data.
+
+
+===== PAGE 3 =====
+IRAN: US PAUSES STRIKES — OIL FALLS 5-7%
+Start of July
+~$70
+Post-June ceasefire MoU
+Last Week Peak
+$102
+Brent; 13 nights of strikes
+Friday Close
+~$98
+Still up 12%+ for week
+Today (Mon)
+~$90
+Iran pause; down 7%
+What happened:
+US paused strikes vs. Iran starting late Friday with no official announcement. Iran told Reuters it would halt retaliatory strikes as long as US pause holds. Trump open to 
+Oman-mediated talks.
+What caused the pause:
+Reports indicate US military was running low on viable targets and interceptor supplies after 13 consecutive nights of strikes. Not a diplomatic breakthrough — a practical pause.
+What's still active:
+Houthis claimed Red Sea attacks on Saudi Aramco facilities in Jizan and Yanbu over the weekend. No formal ceasefire. Hormuz still below pre-war traffic levels. The structural 
+supply disruption persists.
+What it means for FOMC:
+Oil at $83 WTI vs $102 Brent peak changes the rate hike calculus significantly. Hold probability recovering from 64% toward 75-80%. Warsh still has July CPI risk ahead (out 
+mid-August).
+The key risk:
+Iran-backed forces or fresh diplomatic collapse could re-escalate rapidly. No signed framework exists. This is a fragile pause, not a resolution.
+
+
+===== PAGE 4 =====
+INTEL Q2: BEAT OF THE YEAR — STILL SOLD ON CAPEX
+Revenue
+$16.1B
+vs $14.4B est.
++12% beat
+Non-GAAP EPS
+$0.42
+vs $0.21-0.22 est.
+Near doubled
+DC & AI Segment
++59%
+YoY growth
+AI server demand
+2026 Capex
+>$20B
+was $18B guidance
+Raised again
+THE AI CAPEX FEAR PATTERN — CONSISTENT ACROSS ALL NAMES
+TSMC
+-3.64%
+Capex $60-64B
+Alphabet
+-1.2%
+Capex $195-205B
+Tesla
+-4.7%
+Opex +47%
+Intel
+-7.89%
+Capex >$20B
+THE CLEAN POSITIVE:
+Q3 guidance $16.3B midpoint (above $14.4B consensus). CEO: 'AI driving unprecedented compute demand.' Seventh consecutive quarter of exceeding own guidance. Foundry 
+18A progress on track — Apple + Microsoft design partnerships confirmed. Intel is winning. The market is just afraid of the bill.
+
+
+===== PAGE 5 =====
+FOMC JULY 29: HOLD EXPECTED — STATEMENT IS THE INFO
+HOLD PROBABILITY TRAJECTORY
+Jul 13 (post-CPI)
+83%
+Jul 17
+87%
+Jul 24 (Brent $102)
+64%
+Jul 27 (Iran pause)
+~80%
+Hold + Neutral Statement
+~60%
+BTC: $66,800 → $70K target
+Warsh: brief, no Sept signal. Risk-on across assets.
+Hold + Hawkish Language
+~25%
+BTC: Range $63-66K
+'Upside inflation risk' phrase = Sept hike signal.
+Surprise 25bp Hike
+~15%
+BTC: $61-63K re-test
+Oil at $83 makes this very unlikely. Tail risk only.
+ALSO ON THURSDAY (Jul 30)
+US Q2 GDP (Advance)
+First read on Q2 growth rate — labor softening vs. AI capex boom
+June PCE Price Index
+Fed's preferred gauge; June = partial Hormuz reopening energy drop
+Bank of England Decision
+3.75% expected hold; hawkish 7-2 Jun vote; energy inflation watch
+Apple + Amazon (AH)
+Consumer AI cycle + AWS enterprise AI workload read-through
+
+
+===== PAGE 6 =====
+THE BUSIEST WEEK OF THE QUARTER: FOMC + 4 HYPERSCALERS
+MON
+Jul 27
+Iran pause
+markets risk-on
+Oil -6%
+TUE
+Jul 28
+FOMC Day 1
+no announcements
+Durable Goods
+WED
+Jul 29
+★★★ FOMC 2pm
+★★ Microsoft
+(AH)
+★★ Meta (AH)
+THU
+Jul 30
+★★ Apple (AH)
+★★ Amazon (AH)
+Q2 GDP + PCE
+FRI
+Jul 31
+ExxonMobil
+Chevron Earnings
+End of
+Q2 earnings
+
+
+===== PAGE 7 =====
+CRYPTO OVERVIEW — CATCHING THE IRAN PAUSE BID
+July 27, 2026
+Bitcoin
+$65,333
++1.6% today
++1.6% today
+Ethereum
+~$1,953
++4.3% today
++4.3% today
+Solana
+~$76.12
++1.5% today
++1.5% today
+ETF Inflows
+Wk 3+
+Streak continues
+Streak continues
+THE WEEK'S CRYPTO CONTEXT
+Iran pause + oil falling → lower rate hike odds → risk-on → crypto catches the bid. BTC +1.6%, ETH +4.3% this morning.
+ETH outperforming BTC (ETH/BTC 0.030) is a risk-on signal within crypto — capital rotating from BTC toward alts/ETH.
+BTC ETF inflow streak now tracking week 3+ — modest daily flows but the sustained streak is the institutional signal.
+FOMC Wednesday is the binary: neutral hold = BTC targets $66,800+ and $70K. Hawkish language = ceiling at $65-66K. Surprise hike = $61-63K.
+
+
+===== PAGE 8 =====
+BITCOIN: $65,333 — THE FOMC IS THE NEXT CATALYST
+BT
+C
+KEY PRICE LEVELS
+Target (FOMC hold): $66,800 → $70K
+Neutral statement unlocks this range
+50-month EMA: ~$65,600
+Now acting as support after multiple holds
+200-day MA: ~$65,200
+Clustered with 50-mo EMA — zone is support
+Current Price: $65,333
+Holding in the EMA zone; +1.6% today
+Support 1: $63,000-64,000
+Week's low range; first defense level
+Support 2: $61,000-61,750
+Key structural zone on FOMC downside
+ETF FLOWS — WEEK 3 STATUS
+Jul 7-11 (Wk 1)
+$282M net
+8-wk streak ended
+Jul 14-18 (Wk 2)
+$75M net
+Volatile but positive
+Jul 21-25 (Wk 3)
+Positive
+Streak continues
+Jul AUM
+~>$79B
+Was $71B in late June
+FOMC WEDNESDAY — BTC SCENARIOS
+Neutral hold
+$66,800 → $70K
+60%
+Hawkish hold
+$63-66K range
+25%
+Surprise hike
+$61-63K
+15%
+ETH + CLARITY:
+ETH $1,953 (+4.3% today) outperforming BTC — risk-on signal. ETH/BTC 0.030, recovering. CLARITY Act: 11 days to Aug 7 recess. No cloture motion filed yet. Cloture filing = Thune has 
+60 votes = passes. Watch Senate floor schedule this week.
+
+
+===== PAGE 9 =====
+CLARITY ACT + AI EARNINGS — THE WEEK'S TWIN CATALYSTS
+CLARITY ACT — 11 DAYS
+AUGUST 7 RECESS = HARD DEADLINE — 11 DAYS
+Bill at Senate Calendar No. 423 — eligible for floor, no cloture filed
+Majority Leader Thune has not allocated floor time
+Polymarket passage odds: 43-48% (down from 55% earlier in month)
+Need 60 votes for cloture; 53 R seats; Hawley + Paul = No votes
+Democratic ask: ethics/conflict rules targeting officials' crypto assets
+Key trigger: Cloture motion filing by Jul 30 = Thune has 60 votes counted
+If no cloture by Jul 30 → September at EARLIEST → midterm climate
+This week's FOMC/earnings distraction works against legislative focus
+MSFT/META/AAPL/AMZN — THE AI VERDICT
+Microsoft (MSFT) — Wed AH
+DECISIVE for AI narrative
+Azure growth rate (guided 39-40% CC). Copilot 20M+ paid seats. FY27 capex ~$262B analyst model. 
+MSFT -21% YTD on capex fears.
+Meta (META) — Wed AH
+AI monetization check
+AI ad targeting revenue. Llama ecosystem adoption. 2026 capex guidance. Llam 3.1 scaling results. 
+User engagement metrics.
+Apple (AAPL) — Thu AH
+Consumer AI demand
+AI feature adoption driving upgrade cycles? iPhone 17 pre-orders? Services revenue. Consumer AI 
+assistant penetration.
+Amazon (AMZN) — Thu AH
+Enterprise AI ROI
+AWS AI workload growth. Operating leverage from cloud. Kuiper satellite. Advertising AI. Operating 
+margin expansion.
+If MSFT Azure 42%+ + Copilot revenue = AI narrative FLIPS. Tech rally, crypto tailwind. 
+If miss or high capex = AI fear extends. SOX down again.
+
+
+===== PAGE 10 =====
+OUTLOOK & WHAT TO WATCH
+Week Ahead
+01
+FOMC — Wednesday 2pm
+Hold Very Likely. Statement Decides BTC Direction.
+~80% hold probability with oil now at $83. Oil falling 
+today means hike odds continue to ease.
+Watch for 'upside risk to inflation outlook' in the 
+statement — that phrase = September hike live = 
+ceiling on rally.
+Clean neutral hold: BTC breaks $66,800, targets 
+$70K. ETF inflows extend. Risk-on environment.
+02
+MSFT + META Wednesday AH
+The AI Revenue Verdict
+Azure growth rate vs capex is the defining data 
+point of Q2 earnings season. MSFT -21% YTD on 
+capex fears.
+Beat on Azure (42%+ CC) + Copilot revenue 
+evidence = AI narrative flips. SOX recovery, crypto 
+tailwind.
+Miss or capex raise only = fear narrative extends. 
+TSMC/Alphabet/Intel pattern repeats a 4th time.
+03
+CLARITY Act + AAPL/AMZN
+11 Days / Consumer + Cloud AI
+Watch Senate floor announcements for cloture 
+motion filing — the only signal that matters before 
+Aug 7.
+Apple: consumer AI adoption story; Amazon: AWS 
+operating leverage — both feed into the broader 
+risk narrative.
+FOMC hold + MSFT beat + CLARITY progress = BTC 
+targets $70K+ this week. All three needed.
+Tyler Hubbard, Head of Research — Decentralized Masters  |  July 27, 2026  |  For educational purposes only. Not financial advice.

@@ -1,0 +1,342 @@
+
+===== PAGE 1 =====
+DECENTRALIZED MASTERS
+MARKET UPDATE
+Weekly Research Briefing
+August 3, 2026
+Tyler Hubbard
+Head of Research, Decentralized Masters
+FOMC 9-3
+MSFT VALIDATES AI
+KOSPI +17.9%
+COLDCARD $89-110M
+
+
+===== PAGE 2 =====
+MACRO SNAPSHOT
+Week of July 27 – Aug 3, 2026
+FOMC Outcome
+Hold 9-3
+3 dissenters wanted hike
+Sept Hike Odds
+~57%
+Up from 35% a month ago
+30-yr Treasury
+5.19%
+Highest since 2007
+KOSPI Jul 31
++17.91%
+Largest 1-day gain ever
+FOMC: Most Divided Fed Since 2016 — 
+Warsh Confuses Markets:
+Held 9-3 but three dissenters wanted hike. Press conference 'internally contradictory' per AllianceBernstein. Dow fell 1,153 pts. 30-yr yield hit 2007 high. September 
+hike ~57%.
+AI Earnings Split: MSFT + AMZN Validate, 
+META + AAPL Miss:
+Azure 43% growth (beat 40%), crossed $100B annual — stock +15%. Amazon AWS strong +8-10%. Meta FCF $784M (from $8.5B); capex $31.1B ≈ all operating CF, 
+-9.6%. Apple supply guidance miss, -7%.
+KOSPI +17.91% on July 31 — Largest 
+Single-Day Gain in History:
+SK Hynix + Samsung exploded as Trump deescalated on Iran and MSFT proved AI chip demand is real. Shows depth of fear priced in — and how fast it reverses.
+Coldcard Firmware Hack: $89-110M in 
+BTC Drained — Still Ongoing:
+5-year-old firmware flaw (2021) allowed offline private key reconstruction. Three attack waves July 30-Aug 3: 1,367-1,755 BTC, 4,585-5,000 wallets. Patched firmware 
+released Aug 1.
+
+
+===== PAGE 3 =====
+FOMC JULY 29: 9-3 HOLD — THE FED IS DIVIDED
+VOTE: 9-3 HOLD
+9 Members
+HOLD at 3.5%-3.75%
+Lorie Logan
+Dallas Fed — HIKE
+Beth Hammack
+Cleveland Fed — HIKE
+Neel Kashkari
+Minneapolis Fed — HIKE
+Most dissents since September 2016
+Warsh: 'I asked for a good family fight and I got 
+one'
+WARSH'S PRESS CONFERENCE
+Called June CPI (-0.4% MoM, 3.5% YoY) 'not much' of a consideration
+Affirmed inflation 'elevated' despite the best print in 6 years
+Statement nearly identical to June — no new information
+Press conference described as 'confusing and internally contradictory' 
+(AllianceBernstein)
+Markets reacted by LOWERING near-term hike odds BUT RAISING long-end yields
+30-year Treasury hit highest since 2007 — yield curve steepened
+MARKET REACTION — WEDNESDAY JULY 29
+Dow Jones
+-1,153 pts
+30-yr Yield
+2007 High (5.19%)
+Sept Hike
+~57% prob.
+Near-term hike
+LOWERED
+THE YIELD CURVE SIGNAL:
+Short-term yields fell (near-term hike odds lower). Long-term yields rose (structural inflation priced in for years). This is the curve steepening that markets price when they believe the Fed is 
+behind the curve — not just delaying a hike, but potentially making a policy error that allows inflation to become entrenched.
+
+
+===== PAGE 4 =====
+AI EARNINGS VERDICT: SPLIT — BUT MSFT IS THE SIGNAL
+Microsoft
+MSFT
++15%
+Azure 43% (beat 40%). $100B annual 
+revenue milestone. Copilot 30M paid seats. 
+Q1 FY27 guided at 45%.
+Amazon
+AMZN
++8-10%
+AWS AI workloads strong. Operating leverage 
+improving. Enterprise AI ROI materializing.
+Meta
+META
+-9.6%
+Rev beat but FCF: $784M (was $8.5B). Capex 
+$31.1B ≈ operating CF. FY capex $130-145B.
+Apple
+AAPL
+-7%
+Revenue beat but current-quarter guidance 
+miss due to supply constraints. AI device 
+cycle delayed?
+WHAT THE SPLIT VERDICT MEANS
+MSFT Azure +43% with $100B annual revenue CONFIRMS the AI capex-to-revenue conversion is real. Demand exceeds Azure capacity. Copilot is past trial mode at 30M paid 
+seats.
+META is spending all of its operating cash flow on infrastructure and has nothing left for shareholders. $130-145B capex FY guidance is unprecedented. FCF went from $8.5B to 
+$784M.
+The AI revenue story exists — it just requires execution quality to convert spend into profit. Microsoft has it. Meta doesn't have it yet. That's the lesson from earnings season.
+Also: Intel rev $16.1B (+25%, beat $14.4B). EPS $0.42 (doubled). DC&AI +59%. AH +12-13%, then closed -7.89% as capex raised to >$20B. Same pattern as all others.
+
+
+===== PAGE 5 =====
+KOSPI +17.91% + IRAN PAUSE CYCLE REPEATS
+KOSPI JULY 31 — LARGEST SINGLE-DAY GAIN IN HISTORY
++17.91%
+6,595.45 close | Previous: ~5,594
+SK Hynix and Samsung led — South Korean chipmakers had been hammered all 
+July
+Catalyst 1: Trump deescalated on Iran July 30 — threat of 'massive attack' 
+withdrawn
+Catalyst 2: Microsoft Azure 43% confirmed AI chip demand is real and 
+accelerating
+KOSPI had fallen over 25% from its June peak — this was a compression release
+KOSDAQ also surged: +11.63% on the same day
+Shows: fear-of-Iran + AI-capex-doubt had been brutally overpriced into Korean 
+stocks
+IRAN: SECOND PAUSE CYCLE
+Pause #1
+Jul 27
+$84-90
+Trump pauses strikes; Iran confirms; markets risk-on
+Re-escalation
+Jul 28-31
+$87-102
+Hostilities resume; Houthis hit Red Sea; KOSPI -25%
+Pause #2
+Aug 2
+Lower today
+Trump steps back again; no formal deal; Houthis still active
+July close
+Jul 31
+$87.93 Brent
+July oil range: $72-102. July CPI (mid-Aug) reflects this
+⚠  KEY PROBLEM: July CPI (mid-August) will reflect $72-102 Brent during July. June CPI 
+energy relief was a one-month snapshot. July oil prices re-accelerate inflation data. 
+September hike at 57%.
+
+
+===== PAGE 6 =====
+THIS WEEK + AHEAD: NFP FRIDAY, CLARITY ACT DEADLINE, JACKSON HOLE
+MON
+Aug 3
+Iran pause in market
+Coldcard hack ongoing
+BTC ~$62,643
+TUE
+Aug 4
+Coinbase (COIN)
+Q2 Earnings (AH)
+ISM Services
+Index
+WED
+Aug 5
+CLARITY ACT:
+Cloture deadline
+(practical)
+Trade balance +
+secondary data
+THU
+Aug 6
+Jobless Claims
+Secondary data
+FRI
+Aug 7
+★★★ July NFP
+(8:30am)
+★★★ CLARITY ACT
+Senate Recess
+★★★ FRIDAY NFP — JULY JOBS
+Hot print (150K+, wages):
+Sept hike to 70%+; BTC to $59-60K
+Soft print (sub-100K):
+Sept hike to 40%; BTC recovers $65K
+LOOKING AHEAD — KEY UPCOMING EVENTS
+Mid-August:
+July CPI: reflects $72-102 Brent → re-acceleration
+Sep 16-17:
+FOMC: September hike at ~57% currently
+Aug 27-29:
+Jackson Hole: 'Financial Innovation' theme — crypto 
+relevance
+
+
+===== PAGE 7 =====
+CRYPTO OVERVIEW — HOLDING DESPITE THE COLDCARD HACK
+August 3, 
+2026
+Bitcoin (BTC)
+$62,643
+~$1.31T Mkt Cap
+-1.7% wk
+Ethereum (ETH)
+~$1,840
+Opened $1,883, pulled back
+-2.2% wk
+Fear & Greed
+27
+Fear territory
+from 51 (Neutral)
+July Close
+$63,700
+Best monthly return (+7%)
+Since cycle started
+THE STORY BEHIND THE NUMBERS
+BTC +7% in July was the best monthly return since the current cycle began. Then August opened with a $89-110M hardware wallet hack. Down ~1.7% from the July close — 
+resilient given the magnitude.
+ETH opened at $1,883 this morning (+2.2% vs Sunday) then reversed to $1,840. The Iran pause bid faded quickly. The Coldcard story is the specific crypto headwind today.
+Fear & Greed at 27 (Fear) vs. 51 (Neutral) last week. The hack knocked sentiment back. The FOMC confusion and elevated September hike odds are the macro weights.
+CLARITY Act odds fell to 30-38% from 43-48% — legislative window closing fast. Jackson Hole Aug 27-29 could be the next major policy catalyst for crypto.
+
+
+===== PAGE 8 =====
+COLDCARD FIRMWARE EXPLOIT: $89-110M DRAINED — WHAT IT MEANS
+THREE ATTACK WAVES
+Wave 1 — Jul 30
+594 BTC
+~$38M
+Drained in under 30 min; dormant addresses
+Wave 2 — Jul 31-Aug 1
+1,158 BTC
+~$75M
+Galaxy Research tracking; second attacker or same?
+Wave 3 — Aug 2
+1,367 BTC
+~$89M
+Smaller balances; more complex transaction patterns
+By Mon Aug 3 (Bloomberg)
+~1,755 BTC
+~$110M
+Still evolving; fixed firmware released Aug 1
+THE VULNERABILITY EXPLAINED
+Affected
+Coldcard Mk3, firmware 4.0.1-4.1.9 (March 2021)
+The flaw
+Software RNG used instead of hardware RNG for key 
+generation
+How exploited
+Private keys mathematically reconstructed using device serial 
+numbers — no physical device needed
+Who is at risk
+Anyone who generated their seed phrase on an affected 
+Coldcard before the 2021 firmware fix
+Fix
+Patched firmware released Aug 1. Update immediately. Move 
+funds from potentially compromised wallets
+Not at risk
+Bitcoin itself is secure. This is a hardware wallet vendor 
+implementation flaw, not a protocol issue
+ON-CHAIN READ: HOLDERS MIGRATING, NOT PANIC SELLING
+CryptoQuant: BTC sending addresses spiked to early-2024 levels on Friday. Exchange reserves rose from 2.706M to 2.718M BTC — a 12K BTC increase (modest). Glassnode: 
+holders are moving coins to NEW wallets after learning their Coldcard may be compromised — not selling. BTC has held relatively flat despite the hack magnitude. The market is 
+treating this as a wallet migration event, not a sell event.
+
+
+===== PAGE 9 =====
+BITCOIN: NFP FRIDAY + CLARITY DEADLINE + JACKSON HOLE
+BT
+C
+KEY PRICE LEVELS
+50-month EMA: ~$65,600
+Overhead resistance — held multiple times
+200-day MA: ~$65,200
+Clustered resistance zone above current price
+Current Price: $62,643
+July closed $63,700; slightly below on Coldcard/FOMC
+Support 1: $60,000
+Psychological round number; key defense
+Support 2: $59,023
+June 25 flush low — structural floor
+NFP Soft → Target: $65K+
+Sub-100K print → rate hike odds fall → BTC recovery
+CLARITY ACT — 4 DAYS
+Aug 7 recess = hard deadline: No cloture filed yet; ~30-38% odds
+Updated bill (Jul 22): Ethics ban on officials issuing crypto — lost some Dem votes
+If passes before Aug 7: Institutional capital unlocked; regulatory certainty
+If fails: Year-end rider or 2027 election-year — much harder path
+JACKSON HOLE — AUG 27-29
+Theme: 'Financial Innovation: Implications for Payments and Policy'
+Warsh could directly address digital assets, CBDCs, or crypto regulation
+First time Jackson Hole could move Bitcoin on policy content, not just rates
+Historically Warsh uses Symposium to signal major policy shifts
+ETH + ETF CONTEXT:
+ETH ~$1,840 — July closed best month since current cycle began. 3+ weeks of net positive BTC ETF flows continued through July. Coldcard hack caused spike in sending addresses but 
+Glassnode says wallet migration, not exchange selling. BTC ETF AUM >$79B still.
+
+
+===== PAGE 10 =====
+OUTLOOK & WHAT TO WATCH
+Week Ahead
+01
+NFP Friday — August 7
+Last Major Data Before Jackson Hole
+Soft (sub-100K): Sept hike odds fall → BTC recovers 
+toward $65K; dollar weakens; CLARITY Act could 
+pass same day as positive setup.
+Hot (150K+, wages): Sept hike to 65-70%; DXY up; 
+BTC risks $59-60K re-test; Coldcard + hot jobs = 
+rough week.
+July NFP is particularly important: June was 57K 
+(terrible miss). Does that weakness persist or was 
+June seasonal?
+02
+CLARITY Act — Aug 7 Deadline
+30-38% Odds — 4 Days Left
+Watch for Thune floor announcement by 
+Wednesday — cloture filing = Thune has 60 votes = 
+passes.
+Fails: year-end rider or 2027 election-year (much 
+harder). Institutional capital stays sidelined for 
+months.
+The updated bill (Jul 22 ethics provisions) may have 
+cost exactly the Democratic votes needed for the 
+60-vote threshold.
+03
+September Setup + Jackson Hole
+The Month's Defining Sequence
+September hike at ~57%. July CPI (mid-August) is 
+the decisive data — oil $72-102 in July means 
+re-acceleration.
+Jackson Hole Aug 27-29: 'Financial Innovation + 
+Payments + Policy' theme. Warsh could address 
+crypto directly — a first.
+Worst case: July CPI hot + Warsh hawkish at Jackson 
+Hole = September hike locks in, BTC to $58-60K. 
+Best case: oil continues to ease + Warsh 
+dovish/neutral = rate hike fears fade, BTC to 
+$68-70K.
+Tyler Hubbard, Head of Research — Decentralized Masters  |  August 3, 2026  |  For educational purposes only. Not financial advice.

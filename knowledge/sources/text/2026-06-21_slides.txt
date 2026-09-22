@@ -1,0 +1,274 @@
+
+===== PAGE 1 =====
+DECENTRALIZED MASTERS
+MARKET UPDATE
+Weekly Research Briefing
+June 21, 2026
+Tyler Hubbard
+Head of Research, Decentralized Masters
+
+
+===== PAGE 2 =====
+MACRO OVERVIEW
+Week of June 16–21, 2026
+DXY (Dollar Index)
+100.85
+1-yr High
++1.1% wk
+Gold (Spot)
+$4,150
+per ounce
+-2.8% wk
+WTI Crude Oil
+$77.00
+per barrel
+-1.4% wk
+10-yr Treasury
+4.45%
+yield
++12bps
+Fed FOMC (June 16-17):
+Warsh's debut — held at 3.5%-3.75%, hawkish dot plot. 9 of 18 officials project at least one 2026 rate hike.
+Rate Hike Probability:
+Markets now pricing ~50% odds of a 25bp hike in September. Rate cut thesis has been retired.
+Iran-US Tensions:
+Friday's Geneva talks cancelled. Trump threatened fresh strikes. Hormuz traffic remains below pre-war levels.
+S&P 500 +0.93% / Nasdaq +2.43%:
+Markets held up despite hawkish Fed. Narrow leadership — AI and energy. Breadth weak at ~58%.
+
+
+===== PAGE 3 =====
+FEDERAL RESERVE: WARSH'S FIRST MOVE
+June 16–17 FOMC
+RATE HELD
+3.5%–3.75%
+Fed Funds Target Range
+Vote: 12-0 Unanimous
+Warsh declined to
+submit his dot
+DOT PLOT SHIFT
+9 of 18 officials: expect hike
+~50% Sept hike probability
+Rate CUTS off the table
+Warsh: terse 130-word statement
+MARKET REACTION
+DXY
++1.1%
+10yr Yield
++12bps
+Gold
+-2.8%
+BTC
+-4.2%
+KEY TAKEAWAY
+Warsh inherited a Fed still above its 2% target after years of sticky inflation. His first meeting sent a clear signal: no cuts coming. The debate has shifted from 'when 
+do we cut?' to 'do we hike?' This is the macro environment crypto, gold, and equities must navigate.
+
+
+===== PAGE 4 =====
+OIL & GEOPOLITICS: IRAN-US CONFLICT
+Ongoing
+Feb 28
+US & Israel launch operations against Iran
+Mar 4
+Iran closes Strait of Hormuz
+Apr 8
+Ceasefire framework signed
+May-Jun
+MoU negotiations; oil declining
+Jun 19
+Geneva talks collapse
+Pre-War
+~$65
+WTI baseline (Feb 2026)
+Peak
+~$120+
+Brent at Hormuz closure peak
+Current
+~$77
+WTI as of Jun 21 (↑ on reopened risk)
+Strait of Hormuz handles ~20% of global oil and significant LNG — IEA called the closure the 'largest supply disruption in history'.
+Saudi Arabia and UAE rerouted some volumes via overland pipelines. IEA coordinated a record release. These buffers are limited.
+Friday's Geneva talks cancelled after Trump threatened fresh strikes on Hezbollah. Oil is ticking higher today on that news.
+Sticky energy-driven inflation (CPI 4.2% YoY May) is one reason Warsh can't cut. The two stories — Iran and the Fed — are directly linked.
+
+
+===== PAGE 5 =====
+GOLD: CORRECTION INSIDE A BULL MARKET
+Metals
+CURRENT SETUP
+Jan 28 ATH
+$5,589
+Current Price
+$4,150
+Drawdown
+-25.8%
+GS Year-End
+$4,900
+JPM Year-End
+$6,000+
+3 consecutive weekly declines
+STRUCTURAL BULL CASE
+US Debt
+Exceeds $37T, annual interest >$1T
+CB Buying
+244 net tonnes Q1 2026 alone; 45% of CBs plan to add more
+Dollar Reserve Share
+Declining for two decades — gold is the alternative
+No Counterparty Risk
+Physical gold cannot be margin-called or devalued
+Short-Term Driver
+Rate hike expectations + strong DXY = near-term headwind
+
+
+===== PAGE 6 =====
+THIS WEEK'S CALENDAR & KEY EVENTS
+June 22–26, 2026
+MON
+Jun 22
+No major
+data releases
+TUE
+Jun 23
+Consumer
+Confidence (CB)
+WED
+Jun 24
+Q1 GDP
+Final Revision
+THU
+Jun 25
+★ May PCE (MoM)
+★ Core PCE (YoY)
+Jobless Claims
+FRI
+Jun 26
+Micron (MU)
+Earnings
+FedEx (FDX)
+Earnings
+⚠  THURSDAY PCE IS THE WEEK'S KEY CATALYST
+May PCE YoY est. +4.1% | Core PCE YoY est. +3.4%  |  Hot print = DXY up, risk assets down  |  Soft print = relief rally potential
+
+
+===== PAGE 7 =====
+CRYPTO MARKET OVERVIEW
+June 21, 2026
+Bitcoin (BTC)
+$63,800
+~$1.26T Mkt Cap
+-4.2% wk
+Ethereum (ETH)
+$1,760
+~$212B Mkt Cap
+-3.8% wk
+ETH/BTC Ratio
+0.027
+2021 peak: 0.088
+Lowest since 2023
+Fear & Greed
+23
+Scale: 0-100
+EXTREME FEAR
+CONTEXT: HOW DID WE GET HERE?
+May spot ETF outflows: $2.3B — largest monthly outflow of 2026, steepest since November 2025.
+Week of June 5: $2.7B ETF outflows + BTC broke $62K support, triggering $1.5B in long liquidations in one session.
+Bitcoin has since recovered to ~$63,800 — but has not reclaimed either the 50-day MA ($65,750) or 200-day MA ($65,200).
+Markets are macro-correlated: the FOMC signal + dollar strength + Iran/oil narrative are all weighing on risk assets including crypto.
+
+
+===== PAGE 8 =====
+BITCOIN: TECHNICAL LEVELS & ETF FLOW STORY
+BTC
+SPOT ETF FLOWS
+March 2026
++$1.32B
+April 2026
++$1.97B
+May 2026
+-$2.30B
+Wk Jun 5
+-$2.70B
+Cumul. 2026
+$55.79B
+May outflow ~10x larger than price decline would suggest — institutional derisking
+TECHNICAL LEVELS
+50-day MA: ~$69,000
+Overhead resistance
+200-day MA: ~$77,500
+Overhead resistance
+Current Price: $63,800
+Grinding sideways
+Support 1: $62,000
+Line in the sand — June 5 break
+Support 2: $60,000
+Psychological / structural
+On-chain: Funding rates normalized post-flush. LTH began distributing in late May. MVRV 
+neutral — not a screaming buy.
+
+
+===== PAGE 9 =====
+ETHEREUM: FUNDAMENTALS VS. PRICE
+ETH
+ETH Price
+$1,760
+~$210B Mkt Cap
+-3.8% wk
+ETH/BTC Ratio
+0.027
+Lowest since Jan 2023
+-19% from April
+Q1 Monthly Users
+13.2M
++53.5% QoQ
+All-time high
+MVRV Band
+< 0.8
+Historical accum. zone
+Historically bullish
+HEADWINDS
+ETH spot ETF outflows: -$401M in May (3rd largest monthly outflow ever)
+Trading below all major EMAs — no momentum confirmation
+ETH/BTC at 0.027 suggests market prefers BTC in a risk-off environment
+Glamsterdam base fees down ~50% — short-term fee revenue sacrificed for 
+scale
+TAILWINDS (MEDIUM-TERM)
+Glamsterdam upgrade (largest since Merge) in final devnet — all 10 EIPs included. 
+Mainnet H2 2026.
+BitMine holds 5.62M ETH (4.66% of supply), $4.7B staked. Smart money accumulating.
+~500K ETH left exchanges in week ending June 14 — classic supply removal
+MVRV below 0.8: historically this is where long-term holders accumulate; strong hands 
+buying
+Standard Chartered: $4,000 year-end target on tokenized RWA demand
+
+
+===== PAGE 10 =====
+OUTLOOK & WHAT TO WATCH
+Week Ahead
+01
+Thursday PCE Print
+The Week's Defining Data Point
+May PCE YoY est. +4.1% (energy-driven); Core PCE 
+YoY est. +3.4%
+Hot print: DXY strengthens, Sept hike priced in 
+harder, $62K BTC re-test
+Soft print: Rate hike odds fade, dollar softens, risk 
+assets can breathe
+02
+Iran-US Negotiations
+Oil & Inflation Wild Card
+Geneva talks collapsed Friday — Trump threatening 
+fresh strikes
+Strait of Hormuz still below pre-war traffic levels
+Any deterioration: oil spikes, inflation expectations 
+re-ignite, risk-off
+03
+Bitcoin $62K Support
+The Crypto Line in the Sand
+BTC grinding at ~$63,800, near 200-day MA 
+(~$65,200)
+ETF flows need to turn positive for sustained 
+recovery thesis
+Watch: ETH/BTC ratio and any Glamsterdam testnet 
+news for ETH catalyst
+Tyler Hubbard, Head of Research — Decentralized Masters  |  June 21, 2026  |  For educational purposes only. Not financial advice.

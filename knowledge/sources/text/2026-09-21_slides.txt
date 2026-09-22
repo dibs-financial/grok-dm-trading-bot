@@ -1,0 +1,288 @@
+
+===== PAGE 1 =====
+MARKET UPDATE
+Monday Edition
+September 21, 2026
+Tyler Hubbard
+Head of Research  |  Decentralized Masters
+BTC $86.2K BREAKOUT  |  +12.5% FROM THU  |  $746M SHORTS LIQUIDATED  |  HYPE NEW ATH $96  |  HORMUZ 6MO 
+HIGH
+BRENT $102 ↓
+HYPE NEW ATH $96→$93.5
+TRUMP-XI WED-THU DC
+HORMUZ 6-MO HIGH
+SOL $118 | ETH $2.75K
+DM Market Update  |  September 21, 2026  |  Tyler Hubbard, Head of Research
+
+
+===== PAGE 2 =====
+WEEK AT A GLANCE
+Sep 14 - Sep 21, 2026
+BITCOIN (BTC)
+$86,200+
+BREAKOUT  |  +11% from Thu low  |  
++44% Q3
+ETHEREUM (ETH)
+$2,700
+$2,750 | Highest since January 2026  |  
+ETH leading today
+BRENT / WTI
+$101 / $99
+4th straight decline  |  WTI briefly 
+sub-$100
+GOLD / S&P FUTURES
+$4,346 / 
++0.7%
+Gold -0.7%; equities risk-on today
+BTC breaks $86,200 on its first weekly close above the 50-week MA in 45 weeks
+$746M in futures liquidations, $647M from shorts. BTC +44% Q3 -- best quarter since Q4 2024. HYPE set new ATH $96 this morning (now $93.5). No meaningful friction until 
+~$97K.
+Oil falls for 4th straight session -- Iran UNGA talks deflating risk premium
+Trump says "probably" open to meeting Iran president at UNGA. Brent $101.71, WTI briefly below $100. Direction of travel now lower.
+Trump-Xi summit Thursday -- Bessent met Chinese VP He Lifeng Sunday
+Tariff truce framework in discussion. AI safety notification mechanism proposed. S&P futures +0.7%, Nasdaq +1% on risk-on sentiment.
+BTC ETF Friday rescue: $433M single-day inflow -- largest since Sep 3
+Fidelity FBTC $310.7M, BlackRock IBIT $108.4M. Week net: $6.2M positive. ZEC ZCSH ETF: $37.67M inflows Friday -- strong for a sub-4-week-old fund.
+DM Market Update  |  September 21, 2026  |  Tyler Hubbard, Head of Research  |  Educational purposes only
+
+
+===== PAGE 3 =====
+MACRO  |  OIL & GEOPOLITICS
+Oil: Four Days Down, Iran Talking at UNGA
+BRENT CRUDE TODAY
+$101.71
+4th straight decline | Down from $108.75 Tue
+WTI TODAY
+~$99
+First time below $100 since August
+FROM PEAK
+-6.5%
+In 4 trading sessions | Fastest decline since Jun
+Trump said over the weekend he would "probably" be open to meeting Iran president Pezeshkian at UNGA.
+Iran's security chief conveyed conditions to mediators for re-engaging in negotiations. Conditions not published = 
+opening, not agreement.
+Qatar PM urged Gulf states to cooperate. Messages being exchanged between Washington and Tehran.
+Saudi pipeline: partial restoration underway. Hormuz flows hit 6-month high (2.8M bbl/day, vs 700K in August).
+DM Market Update  |  September 21, 2026  |  Tyler Hubbard, Head of Research
+
+
+===== PAGE 4 =====
+MACRO  |  US-CHINA
+Trump-Xi: Xi Arrives DC Wed Evening, Summit Thu
+WED
+→THU
+Xi arrives DC Wed eve | Summit 
+Thu Sep 24 in DC
+Treasury Secretary Bessent met Chinese VP He Lifeng for hours Sunday -- pre-summit 
+preparation.
+US proposed AI safety notification mechanism; China described meetings as covering 
+"AI and trade."
+Tariff truce extension framework in discussion. Markets pricing a constructive 
+outcome.
+Xi skipped UNGA to come directly to DC -- the strongest signal that this summit 
+matters.
+Also Wed Sep 23: Flash PMIs. Aug showed mfg 53.9, services 56.5. Expansion means Dec hike stays live; any sub-50 reading = major risk-on 
+catalyst.
+DM Market Update  |  September 21, 2026  |  Tyler Hubbard, Head of Research
+
+
+===== PAGE 5 =====
+CRYPTO  |  BITCOIN BREAKOUT
+The $85K Breakout: Five Catalysts Converging
+01
+50-Week MA 
+Reclaimed
+First weekly close above 
+50wk MA in 45 weeks at 
+$78,786. Galaxy 
+Research confirmed 
+close at $81,159. 
+Historically reliable 
+trend-change signal.
+02
+$746M Short 
+Squeeze
+$647M of $746M in 
+futures liquidations 
+came from shorts. 
+Mechanical buying as 
+positions at $82K-$86K 
+were margin-called.
+03
+Oil Declining
+Brent $108 -> $101 in 4 
+days. Lower oil = lower 
+December hike odds = 
+lower discount rate for 
+BTC = higher price.
+04
+Call Wall at $85K 
+Cleared
+Glassnode identified 
+heavy options call wall 
+at $85K. When broken 
+upside, delta-hedging by 
+market makers creates 
+additional buying 
+pressure.
+05
+No Overhead 
+Friction
+CoinDesk: limited 
+trading history between 
+$84K and $97K. Wide 
+open runway for fast 
+price discovery if 
+momentum holds.
+DM Market Update  |  September 21, 2026  |  Tyler Hubbard, Head of Research
+
+
+===== PAGE 6 =====
+CRYPTO  |  BITCOIN TECHNICAL
+BTC Technical: $85K Cleared, $97K Is the Next Real Resistance
+$86,200+
+Above every major moving average  |  Outside upper Bollinger Band  |  
+RSI 71.58 daily
+Next Big Target
+~$97K
+No meaningful overhead 
+friction until here
+Daily R1
+$86,583
+Key daily level -- close 
+above opens $97K runway
+Hourly R1
+$85,620
+Immediate overhead; being 
+tested now
+CURRENT PRICE
+$86,200+
+Above all major MAs, all 
+Bollinger Bands
+First Support
+$82,400
+Aug high now flipped to 
+support
+50-Week MA
+$78,786
+First weekly close above in 
+45 weeks
+JH Floor
+$76,877
+Held through every 
+September test
+DM Market Update  |  September 21, 2026  |  Tyler Hubbard, Head of Research
+
+
+===== PAGE 7 =====
+CRYPTO  |  BITCOIN ETF
+ETF Flows: From Crisis to Recovery in Five Days
+Mon Sep 14
++$160M
+NET INFLOW
+Tue Sep 15
+(CLARITY)
+-$450M
+NET INFLOW
+Wed Sep 16
+(FOMC)
+-$296M
+NET INFLOW
+Thu Sep 17
++$159.5M
+NET INFLOW
+Fri Sep 18
++$433M
+NET INFLOW
+WEEK NET: +$6.2M  |  Barely positive, but recovered from -$746M hole  |  Fidelity FBTC led Friday at $310.7M  |  BlackRock IBIT +$108.4M
+Friday's $433M was the largest single-day inflow since Sep 3. Confirmation that institutional buyers re-engaged after 
+CLARITY/FOMC shock.
+ZEC ZCSH Grayscale ETF: $37.67M in Friday inflows. Strong for a fund under 4 weeks old. Demand thesis for privacy coins 
+intact.
+ETH ETFs: -$140.6M on the week. BTC/ETH flow divergence is notable -- capital rotating within crypto toward Bitcoin.
+DM Market Update  |  September 21, 2026  |  Tyler Hubbard, Head of Research
+
+
+===== PAGE 8 =====
+CRYPTO  |  ALTCOINS
+ZEC & HYPE: Post-ATH Update in a $85K World
+ZCASH (ZEC)
+$1,500 ↓
+Temp breakout $1,570 → back to $1,500  |  Slightly weak vs BTC/ETH/SOL  
+|  ZCSH ETF $37.67M
+ZEC briefly broke out to $1,570 (new 2026 high above 
+prior ATH range) then pulled back to $1,500.
+Slightly underperforming BTC, ETH, SOL today -- 
+capital concentrated in most liquid assets.
+Holding ABOVE prior ATH zone ($1,225-$1,388) -- this 
+is constructive base-building behavior.
+ZCSH ETF $37.67M Friday inflows; NU7 dev ongoing; 
+Sep 30 deadline for ready features.
+HYPERLIQUID (HYPE)
+$93.50
+NEW ATH $96.00 this morning  |  Now $93.50  |  +7.2% from prior ATH 
+$89.54
+NEW ATH $96.00 set this morning -- previous ATH was 
+$89.54 (Sep 6). ATH confirmed, breakout validated.
+Now at $93.50 -- healthy consolidation. New 
+resistance: $96. Path toward $100+ opens if it holds.
+Protocol: $4.07B+ burned, $419M-$600M annualized 
+revenue, 40-44% onchain perp share.
+Multicoin Capital reducing position -- known 
+overhead seller. Watch $93 as key support level.
+DM Market Update  |  September 21, 2026  |  Tyler Hubbard, Head of Research
+
+
+===== PAGE 9 =====
+CRYPTO  |  MARKET HISTORY
+The 2022 Analog: Tracking Ahead of Schedule
+2022 PATTERN
+Mar 16, 2022: Fed first hike.
+BTC ~40% below Nov 2021 ATH.
+Next 12 days: BTC +18% to $47K.
+Then: -50%+ months later (FTX).
+2026 NOW -- TRACKING FASTER
+Sep 16, 2026: Fed first hike.
+BTC ~32% below Oct 2025 ATH of $126K.
+Day 5: BTC already +11% to $85K (2022 took 12 days 
+for 18%).
+Key question: does month-end hold or reverse?
+STRUCTURAL DIFFERENCES IN 2026: $95B in ETF assets  |  No FTX-scale leverage  |  SEC/CFTC commodity framework  |  Corporate treasury buyers
+Scenario A -- STRUCTURAL BREAKOUT
+BTC holds $82K+ at Sep 28-30 close. Analog fails. Path to $90K-$97K 
+opens.
+Scenario B -- ANALOG TRACKS
+Peaks Sep 28-30, rolls over. First support $78,786 (50-wk MA), then 
+$76,877 JH floor.
+DM Market Update  |  September 21, 2026  |  Tyler Hubbard, Head of Research
+
+
+===== PAGE 10 =====
+CALENDAR
+Week Ahead: September 21-26
+Mon Sep 21
+UNGA Opens + 
+Trump-Iran Talks 
+Possible
+HIGH
+Iran diplomacy begins. Any Trump-Pezeshkian meeting = oil falls further; BTC 
+bullish.
+Tue Sep 22
+ETF Flow Data for 
+Today's Session
+CRITICAL
+Confirms or denies institutional conviction in $85K breakout. Positive = path to 
+$87K.
+Wed Sep 23
+Flash PMI Data (9:45 
+AM ET)
+HIGH
+Sub-50 reading on services = December hike odds fall sharply = major risk-on 
+catalyst.
+Thu Sep 24
+CRITICAL
+Tariff truce extension = S&P +1-2%, BTC likely above $87K+. Breakdown = 
+risk-off.
+2022 Analog: Sep 28-30 is when the 12-day peak arrives. Month-end weekly close = the definitive test. $82K hold = structural breakout. Roll = 
+analog tracking.
+DM Market Update  |  September 21, 2026  |  Back Thursday  |  Tyler Hubbard, Head of Research

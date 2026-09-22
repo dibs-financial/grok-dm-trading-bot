@@ -1,0 +1,719 @@
+
+===== PAGE 1 =====
+DECENTRALIZED MASTERS
+MARKET UPDATE
+Thursday Extended Edition
+August 20, 2026
+Tyler Hubbard
+Head of Research, Decentralized Masters
+BTC $69,500
+IRAN ESCALATING
+BESSENT BUYBACK
+ETF $517M DAY
+JH IN 7 DAYS
+
+
+===== PAGE 2 =====
+WEEK AT A GLANCE
+Aug 17-20, 2026
+Bitcoin
+$69,500
++7.8% in 24h
+Ethereum
+$2,250
++18% in 24h
+Brent Crude
+$92
++4 sessions
+30-yr Yield
+5.196%
+-9bps on Bessent
+Three stories converged this week — and they interact
+Iran MOU expired → UAE hit by Iranian missiles → Brent $92. Bessent doubled long-bond buybacks → yields fell → dollar-debasement read → Bitcoin broke $65,600 
+for first time all year. Policy week: WBS, White House, SEC, CFTC all moved simultaneously toward a crypto-friendly framework.
+This is the biggest week for crypto markets since the ETFs launched
+Bitcoin is at $69,500. ETH is up 18%. $1.44B in shorts were liquidated in a single session. $517M in ETF inflows in a single day — the biggest since May. Ethereum ETF 
+inflows of $189M — the biggest since October 2025. The breakout was real.
+The counterargument hasn't gone away
+Brent at $92 means August CPI — due September 10-12, two days before the FOMC blackout — will show energy re-acceleration. The FOMC minutes this week 
+confirmed: September hike is 'appropriate if August CPI shows energy-driven re-acceleration.' Oil is the swing variable.
+The next 7 days define the year: Nvidia Aug 26, JH Aug 28
+PCE drops August 26. Nvidia reports the same evening. Warsh's first Jackson Hole keynote is August 28 — his 20 minutes are the tiebreaker for September. The week 
+after that is the September FOMC setup.
+
+
+===== PAGE 3 =====
+IRAN MOU EXPIRED AUGUST 17 — THE CONFLICT RESUMES
+Jun 17
+MOU Signed
+60-day window begins; Hormuz partial 
+opening
+Aug 7-10
+Oman Talks
+Iran-Oman bilateral; shipping route 
+discussed
+Aug 17
+MOU EXPIRES
+Deadlock; no final agreement reached
+Aug 18-19
+Escalation
+UAE hit; missiles; three ships turn back; 
+Brent $92
+WHY THE DEAL FELL APART — AND WHAT COMES NEXT
+Two incompatible frameworks
+US: the MOU was a 60-day negotiating window. Iran: the MOU was a permanent end-of-war agreement that the US was already 
+violating by keeping its naval blockade. No path to reconcile these.
+Iran's non-negotiable condition
+Hormuz stays closed as long as the US maintains its naval blockade. That is a firm demand. The US has shown no appetite for lifting 
+the blockade without a nuclear framework deal.
+Trump's Oman threat + Hormuz 
+claim
+Trump threatened to attack Oman, said the US plans to declare Hormuz a US territory 'after we finish defeating Iran.' UAE now 
+economically isolating Iran. Conflict scope expanding.
+Active mediation: Pakistan, Qatar, 
+Oman
+Indirect channels are still open. Iran-Oman bilateral on transit routes. Pakistan exchanging messages. But without US-Iran direct 
+talks, no resolution is near.
+
+
+===== PAGE 4 =====
+UAE HIT; BALLISTIC MISSILES; BRENT ABOVE $92
+BRENT CRUDE — THIS WEEK
+Jul 29 peak
+$102
+13 nights US strikes
+Aug 6
+$88→$75
+Hormuz deal optimism
+Aug 10-17
+$82-88
+MOU expiry risk priced in
+Tue Aug 18
+$90+
+UAE suspends Iran transactions
+Wed Aug 19
+$92
+Iranian missiles hit UAE
+Today Aug 20
+~$92
+No talks; blockade continues
+ESCALATION EVENTS AUG 17-20
+UAE suspended all financial/economic transactions with Iran
+Iranian ballistic missiles struck UAE territory — first time
+Three China-linked supertankers turned back at Hormuz
+Pentagon confirmed firing on Panama-flagged cargo vessel
+Trump: 'no ongoing talks'; naval blockade remains indefinite
+WHAT $92 BRENT MEANS FOR SEPTEMBER
+August averages ~$90+ Brent → energy component re-accelerates
+August CPI drops Sep 10-12 — two days before FOMC blackout
+FOMC minutes: Sept hike 'appropriate if energy drives re-acceleration'
+Each $10 Brent = ~0.3-0.4% CPI. $92 vs $75 in June = ~0.5-0.7% uplift
+Bull case for oil: Iran-Oman bilateral closes → Brent $82-85 → CPI relief
+OIL IS THE MASTER VARIABLE. Every $10 sustained Brent move = ~0.3-0.4% in CPI. August CPI (Sep 12) drops 4 days before FOMC blackout. This is the swing variable for September 16-17.
+
+
+===== PAGE 5 =====
+BESSENT DOUBLES LONG-BOND BUYBACKS — THE BIG TOOLKIT
+BEFORE (Aug 19 morning)
+5.26%
+30-year Treasury yield — near a 20-YEAR HIGH
+→
+AFTER BESSENT (Aug 19 PM)
+5.196%
+−9bps in one announcement
+WHAT BESSENT DID — AND WHAT IT IS (AND ISN'T)
+What he did:
+Doubled long-bond buyback ops: $2B → at least $4B per operation. Targets 10-to-30-yr Treasuries. Running Sept 9 through Nov 4. Both 30-yr and 
+10-yr yields fell immediately.
+What it is:
+A soft ceiling on the 30-year yield. Bessent signaled: long-end yields above 5.2-5.3% are intolerable to the Trump administration, and Treasury 
+will act. Investors heard that signal.
+What it isn't:
+This is NOT a debt paydown. Total quarterly buyback allocation stayed at $38B — unchanged. Bessent redirected where the money buys, not 
+how much. The $40 trillion debt load is unchanged.
+Evercore vs critics:
+Evercore: 'tactical skill on a thin-liquidity August day.' Peter Boockvar: 'just rearranging the maturity schedule.' Both are correct. It's tactically 
+brilliant and structurally insufficient.
+
+
+===== PAGE 6 =====
+WHY BESSENT MOVED BITCOIN — THE DEBASEMENT CHANNEL
+THE SIGNAL CHAIN: Bessent suppresses long-term yields → markets read it as dollar debasement → Bitcoin (the purest scarce-asset in the financial 
+system) absorbs the difference
+Long-yield suppression = debasement signal
+When the government uses its balance sheet to prevent long-term yields from 
+normalizing, it signals that the real long-term return on government bonds is 
+suppressed by policy decision — not by market forces.
+When real returns on government debt are held below market-clearing rates, capital seeks 
+alternatives. Gold did this through every round of Fed QE. Bitcoin is increasingly traded in 
+the same framework.
+Why Bitcoin specifically — not just gold?
+Bitcoin has the same scarcity property as gold (fixed supply, 21M coins), but it trades 
+24/7 with global instant settlement, and it has the ETF structure that makes it 
+accessible to institutional allocators in a familiar format.
+The $517M single-day ETF inflow on Aug 19 — the biggest since May — is the mechanism: 
+institutional allocators responded to the debasement signal by buying Bitcoin through 
+BlackRock's IBIT. That's the new pipeline.
+21Shares research put it plainly
+'When markets smell quantitative easing, Bitcoin moves.' The Bessent buyback wasn't 
+QE in the strict sense. But markets price the direction of travel, not the technical 
+definition.
+The $40 trillion debt milestone simultaneously announced this week adds to the durability 
+case. A government that has crossed $40T in debt is one whose long-term bond is 
+structurally challenged. Bitcoin is the obvious hedge.
+
+
+===== PAGE 7 =====
+FOMC MINUTES: 9-3 CONFIRMED + CONSUMER EARNINGS
+FOMC JULY MINUTES — KEY DETAILS
+9-3 Vote confirmed
+Three dissenters: Hammack (Cleveland), Kashkari (Minneapolis), Logan (Dallas). 
+All three explicitly argued the data warranted a 25bp hike at the July meeting.
+The conditional language
+September hike is 'appropriate if August CPI shows energy-driven 
+re-acceleration.' This is not a commitment — it's a conditional. But it tells you 
+what they're watching.
+What the majority said
+The majority cited supply-side inflation (oil/war-driven) rather than demand-side 
+excess as the primary driver. Supply-side shocks are harder to fight with rate 
+hikes.
+Warsh's communication style
+Minutes confirmed Warsh has moved away from forward guidance. He will not 
+pre-commit at JH. Markets have to infer from data sequence. That uncertainty 
+itself has market value.
+Inflation watch: beyond energy
+Portfolio management services +6.5% in July PPI — a PCE-relevant component. 
+The July PCE report Aug 26 will be the first test of how non-energy core behaved.
+CONSUMER EARNINGS — RETAILER PULSE
+Walmart
+In-line
+Essentials holding; discount trade up; raised FY guide
+Target
+Slight miss
+Discretionary down; traffic flat; inventory lean
+Home Depot
+Slight miss
+Big-ticket constrained by mortgage rates; housing soft
+Lowe's
+Beat
+Pro segment stronger than consumer; AI hardware installs
+Consumer read:
+Spending rotating from goods to services/experiences
+Big-ticket and housing-linked categories under rate pressure
+Discount and value formats gaining (Walmart up, Target flat)
+Consistent with -0.6% retail sales miss on July data
+
+
+===== PAGE 8 =====
+THE 14-DAY GAUNTLET — THE MOST IMPORTANT SEQUENCE OF THE YEAR
+1
+Aug 26 8:30am
+July PCE
+Fed's preferred gauge. 
+Watch core ex-energy. 
+Portfolio mgmt services 
++6.5% in PPI = risk.
+2
+Aug 26 After Close
+Nvidia Q2 FY27
+The bar is $91B. 
+Beat-and-hold = AI trade 
+alive. Beat-and-fade = third 
+data point = pattern.
+3
+Aug 28
+Friday AM
+Warsh JH Keynote
+20 minutes. Tiebreaker for 
+September. 19 days before 
+FOMC. First JH keynote as 
+Fed Chair.
+4
+Sep 4
+August NFP
+Last labor data. Does July 
+-23K reverse? Seasonal 
+education normalization 
+expected.
+5
+~Sep 10-12
+August CPI
+Brent $92 average in Aug → 
+energy component 
+re-accelerates. This is the 
+FOMC tipping point.
+6
+Sep 15
+CLARITY Vote
+CLARITY Act cloture in 
+Senate. Galaxy: 10%. 
+60-vote threshold. Same 
+day FOMC blackout starts.
+7
+Sep 16-17
+FOMC Decision
+31-33% hike / 67-69% hold. 
+All of the above feeds into 
+this one decision.
+WHY NVIDIA AUG 26 + WARSH AUG 28 ARE THE 24 HOURS THAT MATTER MOST
+Nvidia evening → Warsh morning: Nvidia reports Wednesday evening. Warsh speaks Thursday morning. Two of the most anticipated events of the summer land within 12 
+hours of each other.
+Beat-and-hold → Warsh balanced: If Nvidia beats and holds, risk appetite is high going into JH. Warsh can afford to be balanced. September hold stays at 67-69%. BTC 
+tests $75K.
+Beat-and-fade → Warsh hawkish 
+risk: 
+If Nvidia beats and falls (3rd data point in the pattern), risk-off mood enters JH. Warsh's slightest hawkish lean amplifies. September 
+re-opens to 50%+. BTC retreats.
+
+
+===== PAGE 9 =====
+CONSUMER EARNINGS READ — WHAT RETAILERS TELL THE FED
+Walmart
+In-Line
+Raised full-year guidance on strength in 
+grocery and essentials. Discount trade-up 
+from higher-income consumers is a key 
+trend — people shopping more carefully, 
+trading down on brands.
+Target
+Slight Miss
+Discretionary categories soft; traffic flat. 
+Maintained cautious inventory discipline. 
+Seeing pressure in electronics and 
+apparel — consistent with 
+debt-burdened consumer.
+Home Depot
+Slight Miss
+Big-ticket contractor and renovation 
+projects constrained by 6.67% mortgage 
+rates. Housing market stagnation 
+showing up in HD results. Pro segment 
+held better than consumer.
+Lowe's
+Beat
+Pro contractor segment strong; AI-driven 
+infrastructure installation work is a new 
+tailwind. Smaller-ticket maintenance and 
+repair items are holding better than large 
+renovation.
+WHAT THE RETAILERS TELL THE FED
+Consumer is bifurcating: 
+High-income still spending on services and experiences. Middle and lower-income trading down on brands, cutting discretionary. This is not a 
+consumption collapse — it's a rotation and bifurcation.
+Rate sensitivity is real: 
+Housing-linked categories (HD, Lowe's) clearly feeling 6.67% mortgage rates. Big-ticket discretionary constrained. Rate sensitivity has been 
+slow to show up in data; it's showing up now.
+For the Fed: a softening consumer 
+reduces hike urgency: 
+A consumer that's pulling back voluntarily is doing some of the Fed's work for it. Warsh may lean on this at JH as part of the case for 
+patience. That's the balance he needs to thread.
+
+
+===== PAGE 10 =====
+CRYPTO OVERVIEW: BTC $69,500 — THE BREAKOUT WEEK
+Aug 20
+Bitcoin
+$69,500
++7.8% in 24h
+Ethereum
+$2,250
++18% in 24h
+XRP
++10%
+Week, $1.10+ level
+Crypto Mkt Cap
+$2.45T
++7.8% in 24 hours
+THE WEEK'S CRYPTO STORY — THREE DRIVERS, ONE BREAKOUT
+DRIVER 1 — Bessent Treasury Buyback
+Long-yield suppression → dollar debasement signal → scarce-asset bid. Bitcoin is the market's preferred expression of this 
+trade. $517M flowed into Bitcoin ETFs within 24 hours of the announcement. The institutional channel worked exactly as 
+designed.
+DRIVER 2 — Short Squeeze ($2.7B liquidation)
+$1.44 billion in short positions were forced to cover in a single session when Bitcoin broke above $65,600. The self-reinforcing 
+loop: price up → margin calls → forced buying → price up → repeat. This is the mechanism, not the cause.
+DRIVER 3 — Policy Week Institutional Signal
+White House hosting crypto executives, SEC proposing $75M exemption, CFTC launching Innovation Advisory Committee, WBS 
+with Atkins + Senate Banking Chair all in one week. The coordinated policy signal gave institutional buyers permission to add 
+exposure.
+
+
+===== PAGE 11 =====
+THE $2.7B SHORT LIQUIDATION — HOW THE BREAKOUT HAPPENED
+THE SHORT SQUEEZE MECHANISM
+When BTC broke $65,600 with momentum, traders with leveraged short 
+positions (betting on BTC falling) got margin calls.
+To avoid liquidation, they had to BUY Bitcoin to close their short positions — 
+exactly the opposite of what they wanted.
+This forced buying pushed the price higher. Higher prices → more margin calls 
+→ more forced buying → more price gains.
+The loop ran until the most leveraged shorts were flushed out. $1.44B in one 
+session. $2.7B over two days.
+This is why breakouts after long consolidation periods (BTC was boxed for 
+months) tend to be violent: maximum shorts are built up, minimum spot buyers 
+are needed.
+ETF FLOW DATA — AUG 19 SNAPSHOT
+Total BTC ETF Aug 19:
+$517M — biggest day since May 4
+BlackRock IBIT:
+$284.7M (55% of total inflow)
+ARK 21Shares ARKB:
+$77.7M
+Fidelity FBTC:
+$62.4M
+ETH ETFs Aug 19:
+$189M — biggest since Oct 2025
+Combined ETF net assets:
+$84.31B (6.08% of BTC market cap)
+IS THE BREAKOUT REAL? THE DURABILITY TEST
+Short squeeze → organic demand?
+The initial move was primarily forced-buying. The $517M ETF inflow is genuine organic 
+demand — institutional, not retail. The question is whether Day 2/3/4 of ETF inflows 
+sustain.
+The critical confirmation signal
+A second and third day of $200M+ Bitcoin ETF inflows would mark the sustained 
+institutional bid the market has been waiting for. Weekly data drops Monday. Watch 
+the number.
+BTC has faked this range before
+Bitcoin broke $65,000 multiple times this year and pulled back. The difference this 
+time: Bessent changed the macro narrative, policy week changed the regulatory 
+narrative, and both happened simultaneously.
+
+
+===== PAGE 12 =====
+ETF FLOWS: $517M AUG 19 — BIGGEST DAY SINCE MAY
+3-DAY TOTAL
+$517M
+Biggest single day since May 4
+IBIT: $284.7M (55% of total)
+ETH ETFs: $189M — biggest since Oct 2025
+-$145M
+Aug 10
+Aug 11
+-$20M
+Aug 12
+-$58M
+Aug 13
++$180M
+Aug 17
++$307M
+Aug 18
++$517M
+Aug 19
+WHAT THE FLOW DATA MEANS
+Aug 10-14 was net negative — 4-week inflow streak broke. Week of Aug 17-21 (Aug 17-18 
+~$487M, Aug 19 alone $517M) is tracking toward $1B+ — the strongest single week since 
+products launched.
+ETH ETF $189M is the most significant signal. When institutional flows rotate from 
+Bitcoin-only to ETH, XRP, SOL — it suggests portfolio allocation, not just a macro hedge. That 
+broadening is new.
+
+
+===== PAGE 13 =====
+WYOMING BLOCKCHAIN SYMPOSIUM + WHITE HOUSE + SEC + CFTC
+Wyoming Blockchain Symposium
+Aug 17-20 
+(TODAY)
+Invite-only; ~500 investors, builders, policymakers; co-hosted by SALT + Kraken
+OCC Comptroller Jonathan Gould spoke
+SEC Chair Paul Atkins spoke — signaling continued agency guidance track
+Senate Banking Chair Tim Scott (R-SC) spoke
+Senators Lummis (R-WY) and Gallego (D-AZ) both participated
+Gallego = one of the critical Democratic votes for CLARITY Act
+White House Crypto Meeting
+Wednesday Aug 
+19
+Trump hosted crypto executives and tech leaders
+Closed-door session; executive-level signal of engagement
+Followed by SEC proposed rules the same week — coordinated
+White House engagement has historically preceded regulatory clarity
+XRP's position near ATH partially driven by this signal
+Industry participants included Coinbase, Ripple, Circle leaders
+SEC Proposed Crypto Rules
+Monday Aug 18
+New exemption: up to $75M/year fundraising without full registration
+Up to $5M over 4 years with lighter disclosures (retail-accessible)
+Atkins operating through rulemaking rather than waiting for CLARITY
+Not as durable as statute — reversible by next administration
+DeFi safe harbor proposed today (Aug 20) — details still emerging
+This is the 'agency guidance as alternative path' we predicted
+CFTC Innovation Advisory Comm.
+Thursday Aug 20 
+(TODAY)
+First meeting of newly constituted CFTC Innovation Advisory Committee
+Public event — unlike White House meeting
+Agenda: crypto regulation, prediction markets, artificial intelligence
+Signals CFTC actively building expertise in digital asset oversight
+This completes the regulatory trifecta: SEC + CFTC + White House
+Galaxy: even with CLARITY stuck, agencies are filling the vacuum
+
+
+===== PAGE 14 =====
+SEC'S $75M CRYPTO EXEMPTION — WHAT CHANGES FOR THE INDUSTRY
+THE PROPOSED RULE — WHAT ATKINS DID
+New exemption tiers
+Crypto investment contracts can raise up to $5M over 4 years (with lighter 
+disclosures) or up to $75M per year (with additional disclosures) without full 
+registration.
+Who this helps
+Previously: full SEC registration OR Reg D private placement (accredited investors 
+only). Now: a public exemption pathway for crypto projects to raise broadly.
+Atkins' broader strategy
+This is rulemaking as an alternative to legislation. Atkins is building a workable 
+crypto framework through agency action — not waiting for CLARITY Act to pass.
+The durability issue
+Agency guidance can be reversed by the next administration. Industry prefers 
+statute (CLARITY Act). But functional guidance beats regulatory vacuum.
+DeFi safe harbor
+SEC also proposed a DeFi safe harbor today (Aug 20) — details emerging. Signals 
+Atkins is building a comprehensive regulatory architecture, not just patching.
+BEFORE vs AFTER
+BEFORE:
+Full SEC registration (expensive, slow, designed for stocks) OR Reg D (accredited 
+investors only, no retail access). Most crypto projects chose to ignore SEC and face 
+enforcement risk.
+AFTER:
+A public fundraising pathway at $75M/year with disclosures. Retail investors can 
+participate in compliant token offerings. Projects have a legal path that doesn't require 
+the CLARITY Act to pass.
+THE CLARITY ACT PARADOX
+Atkins providing meaningful agency guidance may actually reduce CLARITY Act passage 
+odds.
+If the industry is getting workable regulation through SEC/CFTC rulemaking, some 
+Senators see the bill as less urgent — reducing the political pressure needed to clear 60 
+votes.
+This is the unintended consequence: regulatory progress makes legislative success 
+harder.
+For investors: agency guidance is real, functional, and already being priced into the 
+market. Statute would be better — but this is enough to sustain the current 
+institutional bid.
+
+
+===== PAGE 15 =====
+CLARITY ACT: 10% ODDS — SEPTEMBER 15 CLOTURE VOTE
+CLARITY ACT PASSAGE ODDS — 2026
+Jan 2026
+90%
+After House 294-134 pass
+May 2026
+75%
+Senate Banking 15-9
+Jun 2026
+48%
+Ethics provisions, Dem loss
+Aug 7
+28%
+Recess without vote
+Today
+10%
+Galaxy/Alex Thorn: 10%
+WHY THE ODDS COLLAPSED
+Ethics provisions added July 22 lost Democratic crossover votes
+August 7 recess without cloture proved Thune doesn't have 60
+September 8 return faces appropriations competition for floor time
+Atkins agency guidance reduces political urgency for Senators
+60-vote threshold still needs 7-9 Democratic crossovers
+WHAT HAPPENS IF IT FAILS SEP 15
+Year-end appropriations rider: most realistic path
+2027 standalone vote if appropriations rider fails
+Atkins agency guidance fills the functional gap
+Institutional demand continues regardless — ETFs prove it
+Market-structure law likely 2027; enactment ~mid-2027
+Galaxy's Alex Thorn: 10% odds (from 75% in May). Prediction markets: ~17%. September 15 cloture vote — same day FOMC pre-meeting blackout begins. Watch for Thune's floor strategy.
+
+
+===== PAGE 16 =====
+BITCOIN TECHNICAL: $65,600 BROKEN — $70K NOW THE TARGET
+KEY PRICE LEVELS
+$72-75K
+Distribution zone from cycle down
+$70K (current)
+Psychological + 200-day MA ($69,884)
+$69,500
+Current price — approaching 200d MA
+$66,600
+Inv. H&S neckline — now SUPPORT
+$65,600
+50-month EMA — broken; now SUPPORT
+$62-65K
+155K BTC cost basis — now PROFITABLE
+$60,000
+Psychological floor; strong structure
+WHAT CHANGED: THE STRUCTURAL SHIFT
+50-month EMA at $65,600 cleared — first sustained break all year
+155K BTC in $62-65K cost basis now profitable → holders less likely to sell
+$66,600 (inv. H&S neckline) cleared → now acts as support
+200-day MA at $69,884 is the next test — essentially at current price
+First time since Oct 2025 cycle high BTC has a real path to $75K+
+THE BREAKOUT RISKS
+Short-squeeze fuel exhausts → organic ETF demand must sustain
+Strategy may resume BTC selling at $69,500+ (7 consecutive weeks)
+Oil at $92 → August CPI re-accelerates → September hike back
+Nvidia beat-and-fade Aug 26 → AI risk-off → crypto sentiment
+$65,600 must hold as support on any pullback to confirm breakout
+
+
+===== PAGE 17 =====
+ETHEREUM +18%: WHAT THE ALTCOIN RALLY SIGNALS
+Ethereum
+$2,250
++18% in 24 hours | ETH ETFs: $189M (biggest since Oct 2025)
+XRP
++10%+
+JH payments theme proxy
+Solana
++10%+
+Institutional favorites
+Market Cap
+$2.45T
++7.8% in 24h
+Why ETH's move is a different signal than Bitcoin's
+Bitcoin's rally = dollar debasement + short squeeze. Both are Bitcoin-specific narratives. ETH's 
++18% on $189M in single-day ETF inflows is a different signal: institutional allocation to the 
+digital asset PLATFORM, not just the macro hedge.
+When institutional money rotates to ETH, it's making a bet on smart contracts, DeFi, and 
+tokenized assets — not just scarce digital gold. The SEC's proposed regulatory framework and 
+Atkins' DeFi safe harbor make ETH the most directly exposed asset to a positive US regulatory 
+outcome.
+What XRP's move signals about Jackson Hole positioning
+XRP is the most directly connected crypto asset to the payments infrastructure theme at 
+Jackson Hole. The symposium's theme is 'Financial Innovation: Implications for Payments and 
+Policy.' That's XRP's core use case: cross-border payments.
+XRP at $1.10+ in the week before JH is the market positioning for Warsh to say something 
+substantive about digital payments. If Warsh addresses payment infrastructure at all, XRP is 
+the first and most obvious beneficiary. The positioning is rational anticipation.
+
+
+===== PAGE 18 =====
+JACKSON HOLE — 7 DAYS — THE HARDEST SPEECH WARSH HAS FACED
+7
+DAYS
+Aug 27-29
+Kalkine Research: 'Warsh steps to the podium into a genuine stagflationary bind — tariff-driven cost pressure AND war-driven 
+energy risk. Two independent supply-side shocks at once. Considerably harder than either alone.'
+Inflation still above target:
+CPI 3.4%, core 2.5% — looks better. But Brent $92 in Aug means Aug CPI re-accelerates. Last JH data shows inflation wasn't solved.
+Labor market visibly cooling:
+-23K July jobs; wages 3.2%. Three dissenters wanted to hike anyway. Softening is real but dissenters aren't wrong.
+30-yr yield near 20-yr highs:
+Even post-Bessent, 30-yr at 5.196%. Bond market's message: inflation credibility is still in question.
+THE SEQUENCE FEEDING WARSH'S SPEECH
+Aug 26 8:30am
+July PCE
+Last inflation before JH
+Aug 26 After Close
+Nvidia Q2
+AI trade mood setter
+Aug 28 Fri AM
+Warsh Keynote
+The tiebreaker speech
+Sep 4
+August NFP
+Post-JH labor read
+Sep 10-12
+August CPI
+$92 oil baked in here
+Sep 16-17
+FOMC
+Everything feeds here
+
+
+===== PAGE 19 =====
+THREE JACKSON HOLE SCENARIOS FOR BITCOIN
+01
+25% probability
+Warsh Hawkish
+Inflation credibility focus
+Emphasizes persistent inflation overshoot; notes oil 
+(Brent $92) as unresolved upside risk
+Signals September as a live meeting; says any 
+re-acceleration in August CPI warrants action
+Hike odds move from 31-33% back toward 50%; 
+dollar rallies; yields rise
+BTC retreats to $65,600-66,600. Short-squeeze 
+gains partially reversed. Test of the new support.
+Macro precondition: oil stays $90+ into Aug 28; PCE 
+hot on Aug 26; no Iran-Oman deal
+02
+55% probability
+Warsh Balanced
+Data-dependent, no commitment
+Acknowledges July labor weakness (-23K) and wage 
+deceleration (3.2%) as genuine signals
+Notes that oil-driven inflation is supply-side, not 
+demand-side — harder to fight with rate hikes
+Data-dependent, hold-leaning tone; September 
+remains a live meeting but hold is implied
+BTC holds above $70K; September hold stays at 
+67-69%; rally consolidates; targets $72-75K
+Macro precondition: PCE in-line Aug 26; Nvidia 
+holds after earnings; oil doesn't spike further
+03
+20% probability
+Warsh Addresses Digital Assets
+Historic first from JH stage
+Uses the JH theme to outline Fed's thinking on 
+stablecoins, CBDCs, digital payment rails
+Frames Bitcoin's role in the payment system — even 
+cautiously — from the JH podium
+No prior Fed Chair has directly addressed crypto 
+from Jackson Hole. This would be historically 
+unprecedented.
+Crypto sector re-rates regardless of rate tone. 
+ETH/XRP/SOL may outperform BTC on this outcome.
+Macro precondition: any of the above; the rate 
+backdrop matters less than the content of what he 
+says
+
+
+===== PAGE 20 =====
+OUTLOOK: THE 14-DAY GAUNTLET THAT DEFINES THE YEAR
+Aug 20
+01
+Oil + Iran
+The Swing Variable
+Aug 17 MOU expiry → escalation in progress. Brent 
+$92. UAE isolated Iran economically. Trump 
+threatened Oman.
+August oil average determines August CPI (Sep 12). 
+Oil above $90 average = energy re-acceleration = 
+September hike risk returns.
+Bull case: Iran-Oman bilateral closes → Brent 
+$82-85 → Aug CPI disinflationary → Sept hold 
+locked in above 70%.
+Watch every headline from Tehran, Muscat, Abu 
+Dhabi. Oil is the master variable.
+02
+Nvidia Aug 26
++ PCE Aug 26
+The 24-Hour Verdict
+PCE 8:30am: Fed's preferred gauge. Watch core 
+ex-energy. Portfolio mgmt services +6.5% in PPI = 
+risk to upside.
+Nvidia after close: third AI earnings test. Cisco 
+beat-fell, AMAT beat-fell. Nvidia beat-hold = AI alive. 
+Beat-fade = exhaustion confirmed.
+The interaction: Nvidia sets risk mood going into 
+Warsh's morning keynote. Best case: PCE soft + 
+Nvidia beats and holds.
+Worst case: PCE hot + Nvidia fades → risk-off 
+entering JH → Warsh hawkish lean amplified.
+03
+Warsh Aug 28
++ Sept FOMC
+The Rate Tiebreaker
+Warsh's first JH keynote as Chair. 20 minutes. 19 
+days before September FOMC. Scenario 1 (25%): 
+hawkish → $65,600 test. Scenario 2 (55%): 
+balanced → BTC holds $70K. Scenario 3 (20%): 
+addresses digital assets → historic first.
+September 15: CLARITY Act cloture vote. Galaxy: 
+10%. Prediction markets: 17%. If it fails, year-end 
+appropriations rider is next.
+September 16-17: FOMC. 31-33% hike / 67-69% 
+hold. All of above feeds this one decision.
+Bitcoin at $69,500 today is the best technical setup 
+since Oct 2025. The breakout is real. The risks are 
+also real. This 14-day window decides which one 
+wins.
+Tyler Hubbard, Head of Research — Decentralized Masters  |  August 20, 2026  |  For educational purposes only. Not financial advice.

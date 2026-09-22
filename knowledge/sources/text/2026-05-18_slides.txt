@@ -1,0 +1,273 @@
+
+===== SLIDE 1 =====
+MARKET UPDATE
+Monday, May 18, 2026
+CRYPTO
+BTC · ETH · Market Structure · HYPE
+MACRO
+Fed · Iran · Oil · Gold · Equities
+DECENTRALIZED MASTERS
+For educational purposes only. Not financial advice.
+
+===== SLIDE 2 =====
+FRIDAY CLOSE — MAY 18, 2026
+Market Snapshot
+BITCOIN
+~$77,000
+Down 4%+ today
+ETHEREUM
+~$2,120
+4 consec. daily losses
+BTC ETF FLOWS
+-$1B
+Largest wkly outflow/mos
+CRYPTO MKT CAP
+$2.56T
+Down 3.8% on the day
+GOLD (XAU)
+~$4,550
+-4% last week
+WTI CRUDE
+>$107
++9%+ week-over-week
+10-YR YIELD
+4.55%
+Near 1-year high
+FEAR & GREED
+28
+Fear territory
+Decentralized Masters  |  Tyler  |  May 18, 2026  |  Educational only. Not financial advice.
+
+===== SLIDE 3 =====
+CRYPTO — BITCOIN
+Macro-Driven Washout — Structure Still Intact
+[IMAGE Google Shape;75;p5]
+Iran triggered the flush
+Trump's Sunday Truth Social post ('clock is ticking') hit after close. Oil spiked, equity futures opened weak, BTC broke below $77K in tandem. This is a macro risk-off cascade, not a BTC-specific event.
+$661M liquidated in 24hrs
+Nearly 95% from longs. Classic overleveraged-long washout. Market was positioned bullish heading into the weekend. Funding has now reset — that's actually constructive.
+Higher-timeframe structure intact
+Three consecutive daily losses but the broader structure hasn't broken. Key support: ~$73,700. Resistance: ~$84,500. We're mid-range. Don't over-read single-day candles.
+SUPPORT
+$73,700
+Key band to watch on continuation
+RESISTANCE
+$84,500
+Must reclaim for momentum trade
+LONGS LIQ'D
+$661M
+95% from long positions (24hrs)
+Decentralized Masters  |  Tyler  |  May 18, 2026  |  Educational only. Not financial advice.
+
+===== SLIDE 4 =====
+CRYPTO — ETHEREUM & ETF FLOWS
+Institutional Caution, Not Capitulation
+[IMAGE Google Shape;106;p6]
+ETH PRICE
+~$2,120
+4 consec. daily losses
+ETH/BTC PAIR
+4th Loss
+Consecutive daily decline
+ALT DOMINANCE
+39.2%
+Risk tightening signal
+ETH ETF FLOWS
+-$255M
+5-day negative streak
+BTC ETF WEEKLY FLOWS — THE REVERSAL
+May 12
++$220M inflows — strong session, 21Shares HYPE ETF ($THYP) debuts with $1.2M day-1.
+May 13
+-$635M — largest single-day outflow since late January. Hot CPI (3.8%) the trigger.
+May 14
++$131M partial rebound. 7 of 11 ETFs positive, but couldn't hold momentum into weekend.
+Week total
+-$1B net — largest weekly outflow in months. Snapped a 6-week inflow streak.
+In context
+Cumulative net inflows since Jan 2024: ~$58.3B. Total AUM: ~$104B. This is caution, not exit.
+Decentralized Masters  |  Tyler  |  May 18, 2026  |  Educational only. Not financial advice.
+
+===== SLIDE 5 =====
+CRYPTO — HYPERLIQUID
+Green While Everything Else Bleeds
+HYPE TODAY
++7%
+BTC -4% same session
+PLATFORM VOL
+$8.4T
+Cumulative since 2023
+HYPE ETF (THYP)
+LIVE
+21Shares, 0.3% mgmt fee
+ETF PIPELINE
+2 MORE
+Bitwise + Grayscale pending
+TODAY'S CATALYST — SPACEX PRE-IPO PERP
+Trade.xyz launched SPCX-USDC at ~5:16 AM UTC today
+First synthetic pre-IPO perpetual futures contract on Hyperliquid. SpaceX isn't publicly traded — but you can now trade it as a perp, on-chain, at a reference valuation of $1.78 trillion.
+Second-order: this drives platform activity
+More novel instruments = more HFT, more directional flow, more funding rate dynamics. That's more fee revenue to the ecosystem and a stronger bid for HYPE as the native token capturing that activity.
+Risk: CME and ICE are pushing regulatory concerns
+Two of the biggest traditional derivatives venues have flagged concerns to regulators about synthetic pre-IPO instruments. Regulatory headline risk is live and could flip sentiment quickly.
+Decentralized Masters  |  Tyler  |  May 18, 2026  |  Educational only. Not financial advice.
+
+===== SLIDE 6 =====
+MACRO — GEOPOLITICS & ENERGY
+Iran Is the Variable That Drives Everything
+[IMAGE Google Shape;182;p8]
+WTI CRUDE
+>$107
++9%+ week-over-week
+BRENT RANGE
+$105-113
+vs ~$70 pre-conflict
+HORMUZ STATUS
+Near-closed
+~20% global oil disrupted
+TRUMP SIGNAL
+ESCALATE
+'Clock is ticking' — Truth Social Sun
+LAST 7 DAYS — KEY EVENTS
+May 12
+CPI comes in at 3.8% YoY — highest since Sept 2023. Oil-driven energy costs are feeding directly into the print.
+May 13
+PPI surges to 6% YoY. Rate hike probability jumps from 1% to 30%+. ETF outflows spike to $635M on the day.
+May 15
+Kevin Warsh officially becomes Fed Chair. Powell stays on as governor. 10Y yield hits 4.55%, near 1-year high.
+Weekend
+Drone strikes target UAE Barakah Nuclear Plant perimeter. No radiation reported. Iran rejects 'no tangible concessions' from US.
+Today
+Trump Truth Social: 'Clock is ticking — get moving, FAST.' Oil spikes. BTC breaks $77K. $661M crypto liq'd.
+Decentralized Masters  |  Tyler  |  May 18, 2026  |  Educational only. Not financial advice.
+
+===== SLIDE 7 =====
+MACRO — FEDERAL RESERVE
+Warsh Inherits a Mess
+[IMAGE Google Shape;224;p9]
+CPI (APRIL)
+3.8%
+Highest since Sept 2023
+PPI (APRIL)
+6.0%
+Well above expectations
+RATE CUT ODDS
+0%
+For remainder of 2026
+RATE HIKE ODDS
+~45%
+Was 1% just one month ago
+THE TIGHTROPE WARSH IS WALKING
+Confirmed 54-45 (May 13)
+Most partisan Fed chair vote in history. Powell stays on board as governor — unusual dynamic, still has a vote.
+Warsh's first FOMC: June 16-17
+This week: Powell's final meeting minutes drop Wednesday. Markets want the dissent map. Three members signaled a hike could come before a cut.
+Crypto-friendly background
+Prior investments in DeFi, tokenized networks, and crypto payments — pledged to divest most before taking office.
+TRUMP WANTS
+Rate cuts — now. He's already joked he'd 'sue Warsh if he doesn't cut rates.'
+DATA SAYS
+CPI 3.8%, PPI 6%, oil above $107. The data argues for holding — or hiking.
+WARSH'S LATITUDE
+Has said AI is a 'significant disinflationary force' — provides cover to cut even with elevated inflation. Also wants to abandon the hard 2% target for a range.
+Decentralized Masters  |  Tyler  |  May 18, 2026  |  Educational only. Not financial advice.
+
+===== SLIDE 8 =====
+MACRO — EQUITIES, DOLLAR & GOLD
+Equities Bifurcating — Gold Counter-Intuitive
+[IMAGE Google Shape;269;p10]
+S&P 500 OPEN
+-1.24%
+Risk-off Monday open
+NASDAQ
+-1.54%
+Tech leading lower
+GOLD (XAU)
+~$4,550
+Down ~4% last week
+GOLD DEMAND
+Record
+Q1 2026 WGC — bar/coin +42%YoY
+WHY GOLD FELL DESPITE GEOPOLITICAL RISK
+Hot CPI + PPI prints shifted rate expectations toward hikes rather than cuts. A stronger dollar and surging yields (10Y at 4.55%, near 1-year high) raised the opportunity cost of holding gold. The safe-haven bid was overwhelmed by the macro rates repricing. Key reminder: gold is not purely a fear trade — it's deeply sensitive to real yields and dollar strength.
+EQUITIES — THE BLACKROCK OBSERVATION
+AI
+The AI buildout is offsetting the typical macro shock drag on growth. Tech capex from hyperscalers is creating a growth buffer that isn't present in most historical oil shock comparisons.
+OIL
+Energy markets are still pricing eventual reopening of the Strait — that's why equities haven't fully rolled over. The market is discounting resolution.
+RISK
+If Hormuz closure persists: combined effect of higher inflation + rising capital demand could push yields high enough to weigh on valuations and challenge the AI buildout thesis.
+Decentralized Masters  |  Tyler  |  May 18, 2026  |  Educational only. Not financial advice.
+
+===== SLIDE 9 =====
+LOOKING AHEAD
+Key Events — May 18-22, 2026
+[IMAGE Google Shape;307;p11]
+TODAY
+Mon 18
+HIGH
+G7 Finance Ministers Meeting (thru Tue)
+Iran, energy, inflation all on the agenda. Any communiqué that softens or escalates the geopolitical posture will move oil immediately.
+Tue 19
+HIGH
+PYTH Unlock — ~37% of Supply (~$95.5M)
+Large unlock in an already-weak altcoin market. Also: Google I/O opens. Watch for AI/crypto crossover narratives.
+Wed 20
+HIGH
+Nvidia Earnings + FOMC Minutes
+Nvidia consensus: $78B rev, +78% YoY, $1.77 EPS. Gross margin is the watch metric. FOMC minutes reveal Powell's final dissent map. Meta stablecoin Senate deadline. ZRO unlock ~$33M.
+Thu 21
+MED
+PMI Data + Jobless Claims + Housing
+Manufacturing and services PMI. Initial jobless claims. Housing data. KAITO unlock ~$7.9M.
+Thu 22
+MED
+Japan April CPI
+Key read for Bank of Japan June rate hike expectations. Global rates picture increasingly interconnected.
+TBD
+FLUID
+SBR Update + Iran Developments
+White House advisor Witt said 'a few weeks' at Consensus Miami May 6. SBR announcement is the near-term upside wildcard. Iran is the ongoing swing variable.
+Decentralized Masters  |  Tyler  |  May 18, 2026  |  Educational only. Not financial advice.
+
+===== SLIDE 10 =====
+RISK / REWARD ASSESSMENT
+Risks & Tailwinds
+RISKS TO WATCH
+TAILWINDS / CATALYSTS
+Iran Re-Escalation
+U.S./Israel military action possible this week. Brent could spike back toward $110-114. Crypto follows oil down in risk-off.
+Rates Pricing In Hikes
+45% probability of a 2026 hike, up from 1% a month ago. 10Y yield at 4.55%. Higher for longer = headwind for all risk assets.
+Warsh Political Pressure
+Premature easing to please Trump = Fed credibility hit before he's even had a meeting. First FOMC June 16-17.
+BTC Sub-$73.7K Close
+A daily close below key support opens a re-test of the mid-$60Ks. Watch daily closes carefully this week.
+Token Unlock Pressure
+PYTH ($95.5M), ZRO ($33M), KAITO ($7.9M) all unlock this week. Sells into an already-weak altcoin tape.
+SBR Announcement
+Witt said 'next few weeks' at Consensus May 6. Concrete positive update = near-term catalyst back toward six figures.
+Nvidia Earnings
+Wednesday close. If Jensen beats and margins hold, stabilizes the tech bid and lifts risk sentiment broadly.
+Hormuz De-Escalation
+Any credible peace signal drops oil, gold, and inflation expectations simultaneously. The biggest single catalyst available.
+HYPE / Hyperliquid
+Genuine product launches (SpaceX perp), real volume, growing ETF ecosystem. Platform-level growth story holding up.
+BNB ETF Near-Term
+VanEck + Grayscale filed revised apps same day last week. Seyffart flagged potential near-term approval. Altcoin ETF pipeline building.
+Decentralized Masters  |  Tyler  |  May 18, 2026  |  Educational only. Not financial advice.
+
+===== SLIDE 11 =====
+BOTTOM LINE
+Three Things That
+Matter This Week
+01
+Iran / Oil — The Swing Variable
+Everything else is downstream of this. If U.S. or Israeli military action resumes, oil spikes, inflation expectations jump, and every risk asset re-prices lower. Watch the G7 communiqué today and overnight geopolitical headlines all week.
+02
+FOMC Minutes + Nvidia — Wednesday Is the Pivot
+Powell's final meeting minutes tell you how hawkish the committee actually was. Nvidia tells you whether the AI earnings story is intact. Together, they'll set the market tone for the next two weeks. Hot minutes + Nvidia beat = confusing signal. Hot minutes + miss = another leg down.
+03
+Does BTC Hold $73.7K If We Continue Lower?
+The higher-timeframe structure is intact right now but the macro environment is hostile. If Iran escalates and yields push higher, $73.7K becomes the line in the sand. Hold it = macro-driven correction. Lose it = structure breaks and the conversation changes.
+Decentralized Masters  |  Tyler  |  May 18, 2026  |  Educational only. Not financial advice.

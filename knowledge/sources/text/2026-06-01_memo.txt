@@ -1,0 +1,119 @@
+
+===== PAGE 1 =====
+DM MARKET UPDATE
+June 1, 2026   |   Tyler Hubbard, Head of Research   |   Decentralized Masters
+MARKET SNAPSHOT
+Approx. open prices  |  week-over-week change
+BTC
+~$72,000
+-4.0%
+ETH
+~$2,020
+-5.2%
+S&P 500
+7,580
++1.4%
+NASDAQ
+26,972
++2.1%
+GOLD
+$4,502
+-0.6%
+BRENT
+$93.37
+-9.7%
+DXY
+99.1
++0.4%
+w/w = week-over-week change
+CRYPTO OUTLOOK
+Crypto closed May in the red, diverging sharply from equities. The Fear and Greed Index sits at 28 (Fear). A confluence of macro headwinds,
+institutional repositioning, and thin liquidity created a difficult tape across digital assets last week, breaking what is historically a strong month for
+Bitcoin.
+BITCOIN
+ETF Outflows: Ten consecutive days of net outflows from U.S. spot Bitcoin ETFs. AUM contracted from $104B to $94B. YTD inflows collapsed to
+$1.2B from $3.9B two weeks ago. A $1.26B block sale of BlackRock IBIT on May 26 at a 2.3% discount to NAV was characterized by NYDIG as a
+large investor rapid exit, not a mechanical basis-trade unwind. That distinction is a sentiment signal.
+On-Chain Divergence: Whale accumulation added roughly 270,000 BTC over April-May. Exchange supply continues trending lower, historically a
+precursor to supply tightening. Long-term holder behavior remains intact. The distribution picture does not confirm the ETF outflow narrative,
+suggesting two distinct participant types making two distinct decisions.
+Technical: Consolidating the $73-77K range. The 50-day MA is above price and declining (resistance). The 200-day MA has been falling since May 1.
+Key support: $73-75K. A sustained break below $73K opens a more meaningful downside case.
+ETHEREUM
+Price Structure: ETH hovers near $2,000 with RSI near 33 (daily oversold). The 50-day EMA at $2,133 is immediate resistance. Sustained ETF
+outflows throughout May have removed institutional buy-side pressure. Bears dominate the current chart structure; analysts have flagged $1,850 as
+the next key support.
+Glamsterdam Upgrade (H1 2026): Key components include EIP-7928 (block-level access lists enabling parallel transaction processing) and EIP-7732
+(enshrined Proposer-Builder Separation). Gas limit target: beyond 100M. Substantive infrastructure work, but not an immediate price catalyst.
+Setup: Whale accumulation building below $2,500 creates clustered liquidity with short squeeze potential on a positive macro catalyst. Downside:
+$1,850. Upside on relief: $2,500+.
+RELATIVE STRENGTH
+HYPE and XLM are outperforming the broader crypto market this morning while BTC and ETH are red. HYPE, anchored to the Hyperliquid perpetuals
+ecosystem, continues to diverge positively from the broader tape. In a weak market, names that hold bid while others sell indicate where real demand
+is concentrated.
+BITCOIN KEY LEVELS
+ETHEREUM KEY LEVELS
+Support: $73,000-75,000
+Resistance: 50-day MA (declining)
+Risk break: Below $73K
+Support: $1,850
+Resistance: $2,133 (50d EMA)
+Squeeze trigger: Above $2,500
+CRYPTO RISK WATCH:
+Continued ETF outflows for a second or third week shifts the structural case bearish. A hawkish NFP print Friday or Iran escalation tightens the macro noose further. On-chain
+accumulation is the bull counterargument but needs a catalyst to register in price.
+Decentralized Masters  |  For informational purposes only. Not financial advice.
+Page 1
+
+
+===== PAGE 2 =====
+DM MARKET UPDATE
+June 1, 2026   |   Tyler Hubbard, Head of Research   |   Decentralized Masters
+MACRO OUTLOOK
+IRAN, OIL, AND THE STRAIT OF HORMUZ
+The US-Iran conflict, ongoing since February 28, remains the dominant macro driver of 2026. Iran closed the Strait of Hormuz following U.S. and
+Israeli airstrikes, disrupting roughly 25% of global seaborne oil trade and 20% of LNG flows. Brent spiked from the low-$60s in January to above $116
+in early May.
+Last Week: A tentative MoU framework was reached Thursday, briefly lifting sentiment and sending oil lower. Friday, Trump issued new demands
+covering full Strait reopening, a halt to Iran's nuclear program, and unfreezing of Iranian assets. Tehran pushed back. The deal is unresolved. Brent is
+now near $93 (WTI $88). Separately, Treasury Secretary Bessent disclosed the U.S. seized approximately $1B in Iranian cryptocurrency.
+Binary Risk: A credible deal sends Brent toward $80-85, easing PCE and reopening the rate cut conversation. A breakdown pushes Brent back toward
+$100+, reinforcing rate hike probability (currently ~46% by December). Single headlines can swing Brent 15-20 dollars.
+GOLD
+Holding above $4,500 this morning. Gold retreated briefly on tentative Iran deal optimism but did not break lower, signaling persistent structural
+demand. Annual PCE at 3.8%, ongoing global central bank accumulation, and a dollar at DXY 99 all support the current price regime. Primary risk: a
+durable comprehensive peace deal that materially improves the inflation outlook, a high bar given the current state of negotiations.
+THE DOLLAR AND THE FED
+DXY near 99. Last week's PCE: headline 3.8% YoY, core 3.3%, both well above the 2% target though monthly readings came in below expectations.
+FOMC held at 3.50-3.75% with an 8-4 vote, the largest dissent since October 1992. Kevin Warsh takes over as Fed Chair on June 18; he is
+significantly more hawkish. BofA and Goldman have pushed rate cut expectations to H2 2027.
+EQUITIES
+S&P 500 closed May at 7,580 (+5% month), Nasdaq gained over 8% (best month since November), Dow crossed 51,000 for the first time. Ninth
+consecutive weekly gain for the S&P, the longest streak since 2023. AI capex projected at $670B in 2026; AI-related names now represent ~45% of
+S&P market cap. Key risk: breadth is thin, S&P RSI entered this week at 73 (overbought), and statistically 9-week streaks tend to break in the 10th
+week.
+WEEK AHEAD   |   June 1-5, 2026
+DATE
+EVENT
+WHY IT MATTERS
+MON 6/1
+ISM Manufacturing PMI, Construction Spending
+Factory health under elevated rates and Hormuz supply disruption
+WED 6/3
+ADP Employment, ISM Services, Fed Beige Book
+Labor market preview; Beige Book is the first qualitative Fed read under incoming Chair Warsh
+WED AMC
+Broadcom (AVGO) Earnings
+Primary AI infrastructure confirmation event for equities; most critical earnings of the week
+THU 6/4
+Jobless Claims, Nonfarm Productivity
+Ongoing labor health check ahead of the main event Friday
+FRI 6/5
+Nonfarm Payrolls + Unemployment Rate
+Primary Fed catalyst. Goldilocks: 125-175K. Below 125K = recession fear. Above 200K = rate
+hike signal
+MACRO RISK WATCH:
+A hawkish NFP print (>200K) reactivates rate hike probability and pressures all risk assets. An Iran deal breakdown sending Brent back toward $100+ re-introduces 2026's worst
+inflation scenario. Warsh's first policy statement June 18 will set the tone for the rest of the year.
+Decentralized Masters  |  For informational purposes only. Not financial advice.
+Page 2

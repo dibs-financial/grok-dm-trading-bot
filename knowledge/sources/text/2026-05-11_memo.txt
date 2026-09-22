@@ -1,0 +1,115 @@
+
+===== PAGE 1 =====
+GEMS UNCOVERED
+Weekly Market Memo | Monday, May 11, 2026 | Supplement to video update
+MARKET SNAPSHOT — FRIDAY CLOSE (MAY 9, 2026)
+Bitcoin (BTC)
+$80,640
+Ethereum (ETH)
+$2,324
+S&P; 500
+~7,396
+Nasdaq (NDX)
+29,234
+Gold (XAU)
+$4,713
+Brent Crude
+$95.87
+DXY
+97.84
+10-Yr Yield
+4.36%
+CRYPTO OVERVIEW
+BITCOIN
+BTC closed the week above $80,600 for the first time since its Q1 correction, clearing a key technical pivot that has capped the rally
+since mid-March. Spot ETFs extended their inflow streak to five consecutive weeks, bringing the two-month total to approximately
+$2.78B. However, cumulative ETF net inflows ($58.7B) remain ~$2.5B below the October 2025 cycle peak of $61.2B — recovery is
+real but incomplete. On-chain, long-term holders from the 2-3 year cohort have been distributing into the ETF bid in near real time.
+Whether institutions are accumulating or absorbing exit liquidity is the central unresolved question.
+Key levels: $80,600 pivot (hold = bullish); $85K next target; $75K invalidation.
+ETHEREUM
+ETH traded in the low $2,300s, roughly flat week-over-week. The institutional bifurcation story is the headline: BTC ETF inflows
+continued while ETH ETFs snapped their positive streak with net outflows for the week of May 1. DeFi TVL across ETH and its L2
+stack remains healthy at $68B, and approximately 33% of ETH supply is staked, constraining float. Price is still ~50% off the
+October 2025 peak. ETH historically follows BTC in institutional adoption cycles but with a lag.
+Watch: $2,300 support. Break below opens $2,200. ETF inflow resumption is the catalyst needed for upside.
+BROADER MARKET STRUCTURE
+BTC dominance holds near 58.5%, a headwind for broad altcoin rallies. Altcoin ETF flows (XRP, SOL) were negligible last week
+after a strong mid-April surge. Fear & Greed has recovered from 26 to ~46 (Fear). The total crypto market cap has rebounded to
+~$2.81T from Q1's $900B drawdown but remains below cycle highs. Liquidity is becoming more selective rather than purely
+speculative.
+MACRO OVERVIEW
+FED LEADERSHIP TRANSITION
+Powell's term as Fed chair ends May 15. Kevin Warsh cleared the Senate Banking Committee on a party-line vote; full Senate
+confirmation vote could come as early as today (May 11). Warsh inherits a difficult mandate: Trump expects rate cuts, but core
+PCE is at 3.2% and headline CPI jumped to 3.3% in March, driven by the Iran war energy shock. Cleveland Fed hawks (Hammack,
+Kashkari, Logan) have been signaling no rush to ease. Powell is staying on the Board of Governors through at least part of 2028 —
+unusual, and adding political tension. Watch Warsh's first public remarks as chair for any signals on rate path.
+HORMUZ / OIL / INFLATION
+The Strait of Hormuz has been effectively closed to normal commercial traffic since late February, representing the largest oil
+supply disruption in IEA history (~20% of global seaborne oil trade). Brent peaked near $114 mid-week before settling ~$96 on
+partial de-escalation signals. Trump's 'Project Freedom' navy escort operation launched May 4, was paused May 6 on 'great
+progress,' then Iran rejected the US proposal over the weekend. Gold pulling back toward $4,700 on ceasefire optimism but
+
+
+===== PAGE 2 =====
+rebounding when talks stall — following the geopolitical risk premium in real time. The inflation pass-through from elevated energy
+is the dominant macro input. April CPI (drops May 12) will be watched closely for signs of energy-driven re-acceleration.
+EQUITIES & LABOR
+April NFP printed at 115K, well above the 62K consensus. Unemployment held at 4.3%. S&P; 500 has posted five consecutive
+weeks of gains; Nasdaq above 25K for the first time; Russell 2000 at 2,861 with broad participation. Q1 2026 earnings growth:
+27.1% YoY (highest since Q4 2021), with 84% of reporting companies beating EPS. AI capex narratives (Alphabet, Amazon, Meta)
+still intact. Consumer spending decelerated to 1.6% PCE growth in Q1 — a watch item for Retail Sales this week.
+KEY EVENTS THIS WEEK (MAY 11-16)
+Date
+Event
+Why It Matters
+Tue May 12
+April CPI (8:30 AM ET)
+First inflation print after March's 3.3% shock; governs rate-path expectations for Warsh
+Tue-Thu
+Warsh Senate confirmation / transition
+Full Senate vote expected; markets react to first Warsh remarks as incoming chair
+Thu May 15
+Powell term ends; Warsh takes over
+Historic Fed chair handover; any public comment on rate path is market-moving
+Thu May 15
+Retail Sales (8:30 AM ET)
+Tests soft-landing narrative; PCE deceleration in Q1 makes this a watch item
+Thu May 15
+Jobless Claims
+Labor stability anchor; drifting higher would pressure small caps first
+Ongoing
+Iran ceasefire / Hormuz
+Oil and gold remain hostage to weekend headlines; any escalation moves energy 5%+
+RISKS TO WATCH
+• Hot April CPI — Another 0.8-0.9% MoM print kills rate-cut
+hopes and pressures growth assets
+• Hormuz re-escalation — Iran rejection of peace talks could
+push Brent back toward $110-114
+• Warsh political pressure — If he signals premature easing
+under Trump pressure, credibility hit to the Fed
+• BTC rejection at $80,600 — Failure to hold this level invites
+re-test of $74-75K
+• 10-yr yield breakout — A close above 4.50% compresses
+multiples across equities and crypto simultaneously
+TAILWINDS / CATALYSTS
+• DXY weakness — Dollar below both 50 and 200-day MAs;
+continued softness lifts hard assets globally
+• BTC ETF bid intact — Five consecutive weeks of inflows;
+institutional floor is real even if incomplete
+• Hormuz de-escalation — Any credible peace signal drops
+oil, gold, and inflation expectations simultaneously
+• Equities momentum — 5-week streak, broad participation, AI
+earnings intact; risk-on backdrop supports crypto
+• Cool CPI print — A softer April number opens the door for
+Warsh to be more dovish; DXY break accelerates
+BOTTOM LINE
+The path of least resistance for risk assets has been up since mid-April. Structural tailwinds (ETF institutional flows, dollar
+weakness, AI earnings, labor resilience) are real. Structural risks (hot inflation, Hormuz uncertainty, rate-cut expectations deferring,
+Fed political tension) are also real and not fully priced. That combination typically produces choppy but directionally positive action,
+until a catalyst breaks the balance. The three things that matter most this week: (1) April CPI tomorrow morning, (2) Warsh's first
+remarks as Fed chair Thursday, and (3) whether BTC holds $80,600 on a daily close basis. Those three data points will tell you
+whether the current setup extends or resets.
+Gems Uncovered | Tyler, Head of Research, Decentralized Masters | May 11, 2026 | For educational purposes only. Not financial advice.
+Fundamentals-focused; no price action targets.

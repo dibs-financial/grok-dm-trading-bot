@@ -1,0 +1,289 @@
+
+===== PAGE 1 =====
+DECENTRALIZED MASTERS
+MARKET UPDATE
+Monday Edition
+August 10, 2026
+Tyler Hubbard
+Head of Research, Decentralized Masters
+NFP -23K
+SEPT HIKE FLIPPED
+CPI WED 8:30
+BTC $64,858
+IRAN STALLING
+
+
+===== PAGE 2 =====
+WEEK AT A GLANCE
+Aug 7-10, 2026
+July NFP
+-23K
+vs +80K expected
+S&P 500 Wk
++3.58%
+Best since April
+Nasdaq Wk
++5.19%
+AI/chip recovery
+Sept Hike
+44%
+Flipped from 57%
+July NFP -23K vs +80K: September hike 
+probability flipped
+From 57% hike to 44% hike — hold is now the majority outcome at 56%. Wages 3.2% (below 3.5%). Revisions cut -103K more jobs.
+S&P best week since April; Nasdaq 
++5.19% on AI + NFP relief
+Atlassian +34%, Cloudflare +10%, Airbnb +12% on earnings. Gold hit 7-week high at $4,244. 10-yr yield to 4.65%.
+Iran FM rules out direct US talks Sunday 
+— oil back to $84
+Hormuz deal not confirmed. Brent edging back up after falling to $82 last week. Geopolitical premium on pause, not gone.
+CPI Wednesday 8:30am is the week's 
+defining data point
+Built on $80-95 Brent in July. Below 3.9% = Sept hold holds. Above 4.0% = hike back to 60%+, NFP relief erased.
+
+
+===== PAGE 3 =====
+JULY NFP: -23,000 — BIGGEST MISS OF THE CYCLE
+July Payrolls
+-23,000
+vs +80K consensus
+Combined Revisions
+-103K
+May -66K, June -37K
+Wages YoY
+3.2%
+Below 3.5% est.
+Sept Hike Odds
+44%
+Was 57% Thursday
+READING THE REPORT: WHAT THE NUMBERS ACTUALLY SAY
+The -50K in local government education is seasonal
+Summer school timing shifts cause this every July. Expected to largely reverse in August's numbers. Private sector actually increased modestly.
+The revisions are the real story
+May was +129K, now +63K. June was +57K, now +20K. Combined -103K. The three-month average is now ~+20K/month — not a healthy labor market.
+Wages at 3.2% are the disinflationary gift
+Coming in below both the 3.5% consensus AND the prior 3.5% reading. Wage growth cooling alongside a negative payroll print gives Warsh the justification to hold.
+The 4.1% unemployment rate is misleading
+It fell from 4.2% but only because participation dropped to 61.4%. Fewer people looking for work — not more people finding it. Not a bullish signal.
+
+
+===== PAGE 4 =====
+LAST WEEK: BEST WEEK SINCE APRIL — STOCKS, GOLD, BITCOIN
+S&P 500
++3.58%
+Best week since April
+Nasdaq
++5.19%
+AI/chip stocks led
+Dow Jones
++2.96%
+ATH territory
+Gold
++4.92%
+7-week high, $4,244
+Bitcoin
++2.8%
+Hit $65,300 Aug high
+10-yr Yield
+-20bps
+4.65%; risk-on
+EARNINGS ADDED FUEL — AI SOFTWARE + CLOUD LAYER
+Atlassian
++34%
+Enterprise software; AI-adjacent
+Cloudflare
++10%
+AI edge compute demand
+Airbnb
++12%
+Consumer spending resilience
+THE KEY SHIFT: SEPTEMBER HIKE PROBABILITY CHART
+Jul 29 (FOMC)
+~80%
+→
+Aug 1-3
+~57-60%
+→
+Aug 7 (post-NFP)
+~44%
+
+
+===== PAGE 5 =====
+OIL BACK UP TODAY — IRAN DEAL STALLING
+BRENT CRUDE TRAJECTORY
+Jul 27-31 peak
+$102
+13 nights of Iran strikes
+Aug 2-3 (1st pause)
+$88
+Trump paused strikes
+Aug 6 (Hormuz news)
+$84→$82
+Iran-Oman talks
+Last week close
+$82
+Brent; WTI $77
+Today Aug 10
+$84
+Iran FM rules out US talks
+IRAN DEAL STATUS: NOT DONE
+FM ruled out direct US negotiations Sunday
+Issued more restrictive Hormuz transit fee framework
+Iran wants joint Iran-Oman management (US won't accept)
+No signed agreement; Houthis still active in Red Sea
+WHY OIL MATTERS FOR WEDNESDAY CPI
+July oil averaged $80-95 Brent — Wednesday CPI reflects that, not today's $84
+Each $10 Brent adds ~0.3-0.4% to headline CPI; July average was ~$20 above June
+If August oil averages $80-84, August CPI (Sep 12) also re-accelerates
+Soft Hormuz deal = oil $75-78 = disinflationary path; stalled deal = $84+ = 
+inflation risk
+
+
+===== PAGE 6 =====
+JULY CPI WEDNESDAY — THE WEEK'S DEFINING PRINT
+8:30am ET
+Below 3.7%
+Sept: Hold ~70%+
+BTC: +$65,600 → $67K
+Both NFP and CPI soft = crystal clear hold. Warsh has maximum room at Jackson Hole. Bitcoin breaks EMA resistance.
+3.7–3.9% (base case)
+Sept: Hold ~60-65%
+BTC: +$65,600 test
+Oil-driven re-acceleration but manageable. September hold stays majority. BTC tests but may not sustain above $65,600.
+4.0–4.2%
+Sept: 50/50 split
+BTC: Flat / -$63K
+Hike comes back into play. October FOMC becomes the live meeting. NFP relief partially erased. BTC rangebound to slight down.
+4.2%+
+Sept: Hike ~60%+
+BTC: -$62,500 test
+NFP relief fully erased. September 16 hike very much on the table. Dollar bid. BTC tests critical support. ETF outflows likely.
+WHY JULY SPECIFICALLY: Brent averaged ~$80-95 during July (vs $65-67 in June). Energy component will accelerate vs June 3.5% print. The NFP wage cooling (3.2%) partially offsets this — 
+watch core ex-energy as much as headline.
+
+
+===== PAGE 7 =====
+CRYPTO OVERVIEW — BTC $64,858, WAITING ON CPI
+Bitcoin
+$64,858
++2.8% on week
++vs $63,000 Mon
+Ethereum
+~$1,940
++3.1% on week
+Recovering
+Fear & Greed
+~40
+Fear → Neutral
+From 27 last Mon
+BTC Dominance
+57%
+Capital in BTC
+Not in alts
+THE SETUP ENTERING CPI WEEK
+BTC hit $65,300 August high Friday on the NFP print — the highest level since before the July 29 FOMC selloff. The 50-month EMA at $65,600 remains the overhead resistance 
+that has capped every rally this year.
+Sept hike at 44% vs 57% Thursday is the fundamental shift. Lower rate expectations = lower real yields = better environment for non-yielding assets like Bitcoin. But it's fragile — 
+one hot CPI print reverses it.
+ETF inflows were $626M in 3 days last week with IBIT at 80% of daily flow. Weekly total drops this morning. If week of Aug 3-7 prints positive, that's 4 consecutive positive weeks 
+— the strongest sustained run since launch.
+CLARITY Act punted to September at earliest. Senate went to recess without a cloture vote. Year-end appropriations rider remains the most realistic path. This removes a 
+near-term catalyst but doesn't change the fundamental demand picture.
+
+
+===== PAGE 8 =====
+THE SEPTEMBER FLIP: 57% HIKE → 44% HIKE IN 24 HOURS
+BEFORE NFP (Thu Aug 6)
+57%
+Hike Probability
+→
+AFTER NFP (Fri Aug 7)
+44%
+Hike Probability (Hold = 56%)
+WHAT THE FLIP MEANS FOR BITCOIN + ASSETS
+Lower real yields
+When the hike probability falls, real yields (nominal minus inflation expectations) also fall. Lower real yields reduce the opportunity cost of 
+holding Bitcoin, which pays no yield.
+When the hike probability falls, real yields (nominal minus inflation expectations) also fall. Lower real yields reduce the opportunity cost of holding Bitcoin, which pays no yield.
+Dollar headwind eases
+Rate differentials drive the dollar. Lower hike odds = weaker dollar. A weaker dollar is historically one of the most reliable bullish signals for 
+Bitcoin.
+Rate differentials drive the dollar. Lower hike odds = weaker dollar. A weaker dollar is historically one of the most reliable bullish signals for Bitcoin.
+CPI now the arbiter
+The 44% hike probability is entirely dependent on Wednesday's inflation print. One hot number moves it back to 60%+. One soft number 
+moves it toward 35%. Watch 8:30am Wednesday.
+The 44% hike probability is entirely dependent on Wednesday's inflation print. One hot number moves it back to 60%+. One soft number moves it toward 35%. Watch 8:30am 
+Wednesday.
+
+
+===== PAGE 9 =====
+JACKSON HOLE: 17 DAYS — WHY THIS YEAR IS DIFFERENT
+17
+DAYS
+Aug 27-29
+'Financial Innovation: Implications for Payments and Policy'
+This theme is not accidental. The Kansas City Fed chose it specifically — it encompasses digital dollars, stablecoins, Bitcoin, and 
+payment infrastructure reform.
+Warsh has historically written about fintech, digital money, and the Fed's role in payment systems. He is not a stranger to this 
+topic. Jackson Hole gives him the platform.
+Previous Fed Chairs have never directly addressed Bitcoin or crypto at the Jackson Hole podium. Warsh in 2026 could be the first. 
+Any such language would be historically significant.
+THE DATA SEQUENCE FEEDING JACKSON HOLE
+Wed Aug 13
+July CPI
+Determines Warsh's tone heading in
+Thu Aug 14
+July PPI
+Corroborates or contradicts CPI
+Fri Aug 15
+July Retail Sales
+Consumer health before JH
+Aug 27-29
+Jackson Hole
+Warsh keynote — rate tone + digital assets?
+
+
+===== PAGE 10 =====
+OUTLOOK: CPI WEDNESDAY + $65,600 DECISION POINT
+Week Ahead
+01
+CPI Wednesday 8:30am
+The Week's Binary Catalyst
+Below 3.9%: Sept hold stays majority, BTC tests 
+$65,600 EMA, stocks hold ATH gains. Watch core 
+ex-energy as much as headline — that's Warsh's 
+focus.
+Above 4.0%: Hike back to 60%+, NFP relief erased, 
+BTC re-tests $62,500, dollar rallies. All of last week's 
+risk-on move gets called into question.
+Also this week: PPI Thursday, Cisco and Applied 
+Materials earnings (AI infrastructure demand read), 
+Retail Sales Friday.
+02
+Bitcoin's $65,600 Level
+EMA Resistance That's Held All Year
+Every rally in 2026 has failed at or near the 
+50-month EMA at $65,600. BTC tagged $65,300 
+Friday and pulled back. This level is the technical 
+test that matters.
+155,000 BTC accumulated between $62K and $65K. 
+Soft CPI = those holders profitable = reflexive buying 
+above EMA. Hot CPI = underwater = selling 
+pressure.
+A sustained close above $65,600 would be the most 
+significant technical development Bitcoin has seen 
+this entire cycle. CPI Wednesday is the catalyst.
+03
+Jackson Hole — 17 Days
+Aug 27-29: Policy + Crypto
+NFP + soft CPI gives Warsh room to be balanced 
+rather than hawkish at the podium. That's the best 
+outcome for risk assets heading into September.
+Theme 'Financial Innovation: Implications for 
+Payments and Policy' — any digital assets language 
+from Warsh would be historically significant. First 
+time.
+The sequence that takes us there: CPI → PPI → 
+Retail Sales → August NFP (Sep 4) → September 
+FOMC (Sep 16-17). Wednesday is the first domino.
+Tyler Hubbard, Head of Research — Decentralized Masters  |  August 10, 2026  |  For educational purposes only. Not financial advice.

@@ -1,0 +1,198 @@
+
+===== PAGE 1 =====
+Weekly Market Update
+Monday, September 21, 2026 | Confidential Research Report
+Market Snapshot -- Monday, September 21, 2026
+Asset
+Level
+Chg
+Context
+Bitcoin (BTC)
+$86,200+
++12.5%
+from Thu
+Breaking $86.2K | $746M short liquidations | +44% Q3 | First 50-wk MA close in 45 wks
+Ethereum (ETH)
+~$2,750
++4% today
+Highest since January 2026 | BTC breakout lifting all risk assets
+ZEC (Zcash)
+~$1,500
+Slight
+underperf.
+Temp breakout $1,570 -> back to $1,500. Holding above prior ATH zone ($1,225-$1,388).
+HYPE (Hyperliquid)
+$93.50
+NEW ATH
+$96!
+Set new ATH $96.00 this morning (prior ATH $89.54); now $93.50 -- healthy post-ATH
+consolidation
+Brent / WTI
+$101.71 /
+~$99
+4th decline
+UNGA Iran talks deflating risk premium; WTI briefly below $100 first time since August
+Gold (XAU)
+~$4,346
+-0.7%
+today
+Weaker on Iran diplomacy hopes; 10Y yields lower; first wkly gain in 4 last week (+0.6%)
+S&P; 500
+~7,726 (+1%)
+Risk-on
+Oil falling + Iran talks + Trump-Xi = risk appetite; S&P; up 1%
+DXY / 10Y Yield
+100.30 /
+~4.87%
+DXY lower
+Off last week's 7-week high 100.56; 10Y easing from 5.04% peak Tue
+This Week's Themes
+MACRO
+Oil & Iran: The Relief Valve
+UNGA diplomacy is deflating the oil risk premium. Brent $101.71, falling
+for the 4th straight session. WTI briefly below $100. Trump says he'd
+'probably' be open to meeting Iran president Pezeshkian. Iran's security
+chief conveyed conditions to mediators. Qatar mediating. Direction of
+travel: lower oil = lower December hike odds = higher BTC.
+Trump-Xi: Xi Arrives DC Wednesday Evening, Summit
+Thursday
+Bessent met Chinese VP He Lifeng for hours Sunday. Framework for tariff
+truce extension in discussion. US proposed AI safety notification
+mechanism. S&P; futures +0.7%, Nasdaq +1% on risk-on. For BTC:
+successful summit = institutional risk appetite returns = accumulation
+resumes.
+CRYPTO
+Bitcoin $85K+: Five Catalysts Converging
+50-week MA reclaimed (first weekly close above in 45 weeks). $746M in
+short liquidations ($647M from shorts). Oil declining reduces December
+hike odds. $85K call wall cleared triggering delta-hedging buying. No
+meaningful overhead friction until $97K per CoinDesk analysis.
+The 2022 Analog: Tracking Ahead of Schedule
+In 2022, BTC rallied 18% over 12 days from the first Fed hike. Day 5 in
+2026: already +11% to $85K (2022 only had +11% by day 8). Pattern
+tracking faster. Sep 28-30 = when the 12-day analog peak arrives.
+Month-end weekly close is the key test: hold $82K+ = structural breakout;
+rollover = analog tracking.
+BTC ETF: Friday's $433M Rescue
+Week of CLARITY fail + FOMC hike ended net positive ($6.2M) only
+because Friday added $433M -- the largest single-day since Sep 3. Fidelity
+FBTC $310.7M, BlackRock IBIT $108.4M. ZEC ZCSH ETF: $37.67M
+inflows -- strong for a sub-4-week fund. Tuesday's flow data for today's
+$85K session is the next confirmation data point.
+ZEC & HYPE: Post-ATH in a $85K World
+ZEC's ZCSH ETF saw $37.67M Friday -- top altcoin ETF for the day. If BTC
+holds $85K, watch ZEC vs its Sep ATH zone ($1,225-$1,388). HYPE:
+$78-$80 support intact through September volatility. Protocol burn,
+revenue, and buyback backstop unchanged. Next catalyst for HYPE: break
+above $87. Multicoin Capital reducing = known overhead seller.
+Decentralized Masters (c) 2026 | Confidential Research Report | Weekly Market Update | 1 -- 2
+
+
+===== PAGE 2 =====
+Analysis & Forward Outlook
+September 21, 2026 | Tyler Hubbard, Head of Research
+BTC $86.2K | Oil falling | UNGA | Trump-Xi Wed-Thu DC
+Macro Outlook: Oil, Iran, Trump-Xi
+The macro backdrop this week is the mirror image of last week. Oil at
+$108, CLARITY failing, FOMC hiking -- that was Thursday. Today:
+BTC $86.2K, oil $102 and falling, Hormuz flows hitting a 6-month
+high. The transmission is direct: oil falling -> September averages
+below $100 -> October CPI benign -> December hike optional.
+Trump-Xi state visit: Xi skipped UNGA and is coming to DC. Xi
+arrives Wednesday evening Sep 23; formal summit Thursday Sep
+24. Bessent-He Lifeng pre-summit meetings on Sunday produced
+tariff truce framework. Flash PMI Wednesday is the data reality
+check. 10Y yield fell below 5%; DXY pulling back. These are
+mechanical tailwinds.
+Crypto Outlook: $85K Breakout & 2022 Analog
+BTC $86.2K: five structural catalysts converged. 50-week MA
+reclaimed (first close in 45 weeks). $746M short squeeze ($647M
+from shorts). Oil declining reduces Dec hike probability. $85K call
+wall cleared triggers delta-hedging. No meaningful friction until $97K.
+ETH $2.75K, SOL $118 -- breakout is broad. HYPE new ATH $96
+this morning, now $93.50. ZEC temp breakout to $1,570, back at
+$1,500. 2022 analog: already +12.5% on day 5 vs 12 days for 18% in
+2022. Sep 28-30 weekly close is the definitive test: hold $82K+ =
+structural breakout.
+Key Levels
+Asset
+Support
+Current
+Resistance
+Key Scenario
+Bitcoin
+$82,400 / $78,786
+$86,200+
+$86,583 / ~$97K
+Daily close above $86,583 = open runway to $97K (no major
+friction)
+ZEC
+$1,022 / $850
+Post-ATH
+range
+$1,250 /
+$1,338-$1,388
+BTC at $85K+ lifts ZEC; retest ATH zone if momentum holds
+Brent
+$95 / $90
+$101.71
+$105 / $108.75
+Sep average below $100 = Oct CPI benign = Dec hike optional
+Gold
+(XAU)
+$4,200 / $4,000
+~$4,346
+>$4,400 / $4,477
+Lower oil + easing yields = debasement narrative reasserts
+HYPE
+$93 / $89.54
+$93.50
+$96 / $100+
+New ATH $96 set this morning; now consolidating at $93.50; $93
+is key support
+S&P; 500
+7,500 / 7,200
+~7,650+
+8,000 / ATH
+Trump-Xi success Thu = 8,000 test; failure = 7,500 test
+Week Ahead & Outcome Framework
+Date/Event
+Impact
+Watch For
+Mon Sep 21: UNGA opens | Trump-Iran
+possible
+CRITICAL
+Pezeshkian meeting = oil sub-$95; BTC through $87K. Even just talks = oil falls further.
+Tue Sep 22: ETF flow data for today's
+session
+CRITICAL
+Positive flows confirm institutional re-engagement. Negative = technically driven, needs
+watch.
+Wed Sep 23: Flash PMIs (9:45 AM ET)
+HIGH
+Sub-50 on services = December hike off table = massive risk-on. Above 56 = Dec still
+live.
+Thu Sep 24: Trump-Xi summit,
+Washington DC
+CRITICAL
+Xi skipped UNGA, comes to DC. Tariff truce extension = equities +1-2%; BTC likely
+$88K+. Failure = risk-off.
+Sep 28-30: 2022 analog peak window
+HIGH
+2022 analog: 12-day relief rally peaked here. Hold $82K+ at weekly close = structural
+breakout.
+Risks to Watch
+• 2022 analog: if BTC peaks Sep 28-30 and rolls under $82K, the
+50-week MA ($78,786) becomes the critical support to hold.
+• UNGA talks no progress: Iran hardliners reject opening. Oil
+re-accelerates above $105. December hike odds jump back.
+• Trump-Xi breakdown: tariff truce fails. Risk-off sends equities
+lower and institutional BTC buyers back to sidelines.
+Key Catalysts
+• Trump-Pezeshkian meeting at UNGA: oil falls below $95; October
+CPI benign; December hike becomes optional.
+• Tuesday ETF flows positive and large (>$200M): confirms
+institutional re-engagement at $85K; path to $87K opens.
+• Flash PMI services sub-50 Wednesday: December hike off table;
+debasement reasserts; gold and BTC both rally.
+Decentralized Masters (c) 2026 | Confidential Research Report | Weekly Market Update | 2 -- 2

@@ -1,0 +1,177 @@
+
+===== PAGE 1 =====
+DM Market Update
+August 31, 2026
+Tyler Hubbard, Head of Research | Decentralized Masters
+MARKET SNAPSHOT
+Asset
+Price / Level
+Wk
+Change
+Note
+Bitcoin (BTC)
+$78,173
+-3.9%
+Pullback from $81,455 Aug high; ETF bid intact
+Ethereum (ETH)
+$2,438
+-2.9%
+10-session ETF inflow streak; Glamsterdam TBD
+Gold (XAU)
+$4,491
++2.1%
+Best monthly gain since Sep 1999; debasement bid
+Silver (XAG)
+$67.10
++16% Aug
+Dual driver: safe haven + industrial AI/solar demand
+Brent Crude
+$90.69
+-4.9% wk
+Pulled from $95 peak; Hormuz 6-8M bbl/day flowing
+DXY / S&P; 500
+99.53 / 7,712
+--
+Warsh hawkish; 10Y yield at 4.71%
+THIS WEEK'S THEMES
+MACRO
+Warsh at Jackson Hole
+First major speech as Fed Chair. Flagged sticky inflation,
+rejected forward guidance, and confirmed the 2% PCE target
+as firm. September hike odds surged to 57% post-speech.
+Three July FOMC dissenters already wanted a hike.
+PCE July: 3.7% / Core 3.3%
+Headline beat consensus by 0.1pp. Core held at 3.3%, 65
+consecutive months above target. Real spending flat month
+over month. Stagflationary undertone despite nominal gains.
+Oil Pivot: Sanctions Over Strikes
+U.S. shifted to economic pressure on Iran. Hormuz flows
+recovering to 6-8M bbl/day. Brent eased from $95 to $90 on
+reduced disruption premium, but stays elevated, keeping
+inflation pressure alive.
+Dollar and Metals: Debasement Trade
+DXY sub-100. Gold tracking for best month since 1999. Silver
++16% in August. Treasury doubled long-bond buybacks,
+reinforcing the fiscal dominance narrative and supporting hard
+assets.
+CRYPTO
+August Rally: $2.7B Short Squeeze
+Trump's Aug 20 Clarity Act push plus Treasury buyback
+announcement triggered a $2.7B short squeeze. BTC surged
+from ~$70K to $81,455 peak. ETH surged 17.5% in a single
+session.
+Bitcoin ETF: $3B+ in August
+Strongest month for spot BTC ETF inflows in 2026. Week of
+Aug 24-28 alone saw $924M. ETH ETFs on a 10-session
+inflow streak. Institutional demand is structural, not
+speculative.
+Clarity Act: Sept 15 Cloture Vote
+Needs 60 Senate votes to proceed. Republicans hold 53
+seats, need 7 Democrats. Unresolved: ethics language,
+stablecoin yield, DeFi rules. Polymarket at 17%; Galaxy at
+30% odds.
+BTC Consolidation at $78K
+Post-squeeze pullback. Key support: $77K. Below that,
+$72,400. Resistance at $81,500. Fear/greed briefly hit
+extreme greed (first time since late 2024). Consolidation
+range looks stable for now.
+DM Market Update | August 31, 2026 | For educational purposes only. Not financial advice. Page 1 of 2
+
+
+===== PAGE 2 =====
+Analysis & Forward Outlook
+August 31, 2026
+MACRO OUTLOOK
+CRYPTO OUTLOOK
+Warsh's Jackson Hole speech was a hawkish non-commitment. He
+confirmed inflation is the Fed's primary concern, rejected forward
+guidance as a policy tool, and noted financial conditions are not
+currently restrictive -- a phrase that markets read as a soft signal
+the current rate of 3.50-3.75% may be insufficient. Three July
+FOMC dissenters already preferred a hike. After the speech,
+September hike odds moved to 57%, up from 40% a week prior.
+The real test arrives in two steps: August payrolls on September 5
+and August CPI on September 11. A strong jobs number plus
+re-accelerating CPI would almost certainly lock in a 25bps hike at
+the September 16-17 meeting. The debasement trade in gold and
+silver reflects the market's read that fiscal conditions limit how far
+the Fed can go even if it hikes, making hard assets attractive on
+both the inflation and the debt-ceiling side of the equation. Brent at
+$90 keeps energy in the inflation basket elevated.
+August's crypto rally was structurally different from prior cycles. The
+$2.7B short squeeze on August 20 was catalyzed by simultaneous
+regulatory and liquidity signals: Trump's Clarity Act push plus
+Treasury's long-bond buyback expansion. Both events reduced risk
+discount on crypto assets. The $3B+ in spot BTC ETF inflows
+during August confirms institutional demand is ongoing, not
+exhausted. The current consolidation at $77K-$78K is healthy. The
+Clarity Act cloture vote on September 15 is the next binary event: a
+pass moves Bitcoin toward $85K-$90K; a failure likely triggers a
+10-15% correction. The structural picture remains positive.
+On-chain metrics show whale accumulation mixed with retail
+profit-taking -- typical of a mid-cycle consolidation. ETH's
+10-session ETF inflow streak suggests institutional rotation within
+crypto rather than full de-risking.
+KEY LEVELS
+Asset
+Support
+Current
+Resistance
+Scenario to Watch
+Bitcoin
+$77,000 / $72,400
+$78,173
+$81,500 / $85,000
+Clarity Act cloture pass - > $85K
+Ethereum
+$2,300 / $2,100
+$2,438
+$2,600 / $2,850
+Institutional rotation + Glamsterdam news
+S&P; 500
+7,500 / 7,200
+7,712
+8,000 / ATH
+September hike + hot CPI - - >7500 test
+Gold (XAU)
+$4,400 / $4,200
+$4,491
+$4,700 / ATH
+Debasement trade intact while DXY < 100
+Brent Crude
+$85 / $80
+$90.69
+$95 / $100+
+Any new Hormuz escalation - - >$95 fast
+ECONOMIC CALENDAR | WEEK OF SEPTEMBER 1-5, 2026
+Date
+Event
+Impact
+Why It Matters
+Tue Sep 1
+JOLTS Job Openings; ISM Mfg PMI
+HIGH
+Labor tightness signals; manufacturing inflation
+Wed Sep 2
+ADP Employment; Fed Beige Book
+HIGH
+Private payrolls preview; regional inflation color
+Thu Sep 3
+Jobless Claims; ISM Services PMI
+MED
+Services inflation - stickiest CPI component
+Fri Sep 4
+Nonfarm Payrolls (August)
+CRITICAL
+>200K + wages >4% YoY likely locks Sep hike
+Mon Sep 7
+Labor Day (Markets Closed)
+--
+First full week closes with NFP data digestion
+Fri Sep 11
+CPI (August)
+CRITICAL
+Final inflation print before FOMC blackout
+KEY UPCOMING DATES: Sep 15 - Clarity Act Senate Cloture Vote (60-vote threshold) | Sep 16-17 - FOMC Decision
+DM Market Update | August 31, 2026 | For educational purposes only. Not financial advice. Sources: CoinDesk, TradingEconomics, Bloomberg, CME
+FedWatch, CoinStats, Polymarket. Page 2 of 2

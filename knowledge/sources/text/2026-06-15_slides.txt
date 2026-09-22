@@ -1,0 +1,374 @@
+
+===== PAGE 1 =====
+WEEKLY MARKET 
+UPDATE
+June 15, 2026
+Tyler Hubbard
+Head of Research
+Weekly markets briefing: crypto, macro, and what to watch.
+
+
+===== PAGE 2 =====
+DM Market Update  |  June 15, 2026  |  Tyler Hubbard, Head of Research
+DECENTRALIZED MASTERS
+CRYPTO MARKET OVERVIEW
+Week of June 8-13, 2026
+FEAR & GREED INDEX
+20-25
+Fear  -  CMC: 25 / CryptoRank: 20
+RECORD ETF OUTFLOWS
+$3.4B
+Largest single-wk since Jan 2024
+BTC FROM ATH ($126K)
+-50%
+June cycle low: $59,100
+•
+$3B+ in forced liquidations early June (272K+ traders in a single day); leveraged longs largely flushed. F&G: 
+20-25 (Fear).
+•
+ETF outflow pace slowed materially in the June 8-13 window  -  early signs of bottom-fishing observed.
+•
+MVRV ratio ~1.1: just above the historical undervaluation zone matching 2015, 2019, and 2022 cycle lows.
+•
+Hyperliquid (HYPE) hit an all-time high of $75.52 on June 2  -  the standout performer of 2026 at +160% YTD.
+•
+Humanity Protocol exploit June 8 wiped ~$1B from H token. Private key failures are almost always 
+preventable.
+
+
+===== PAGE 3 =====
+DM Market Update  |  June 15, 2026  |  Tyler Hubbard, Head of Research
+DECENTRALIZED MASTERS
+BITCOIN (BTC)
+~$64,000
+TECHNICALS
+Current Price
+~$64,000
+ATH (Oct 6, 2025)
+$126,198
+Drawdown from ATH
+-49%
+June Cycle Low
+$59,100
+Market Cap
+~$1.27 Trillion
+Critical Support
+$60,000 - $62,000
+Resistance
+$66,000 - $68,000
+200-Day EMA
+$76,000 - $80,000
+Perp Funding Rate
+Slightly positive (unwinding)
+MVRV Ratio
+~1.1 (near undervaluation zone)
+ON-CHAIN & ETF NARRATIVE
+•
+MVRV ~1.1 is the most compelling on-chain signal: 
+historically, readings below 1.0-1.2 have marked major cycle 
+lows.
+•
+Perp funding flipped slightly positive after months of 
+negative: net-short positioning is unwinding, directionally 
+constructive.
+•
+$3.4B single-week ETF outflow  -  record since launch. 
+BlackRock IBIT: ~$1.34B alone. Pace slowing into June 8-13.
+•
+The ETF reversal is the catalyst to watch: the same 
+mechanism that drove the 2025 rally works symmetrically 
+on the way back.
+•
+Bull scenario: Iran deal signed, oil falls, CPI trajectory 
+reverses, ETF flows return, BTC breaks $66K-$68K.
+•
+Bear scenario: Fed drops easing bias, yields spike, outflows 
+accelerate, $59,100 retested and broken toward $54K.
+
+
+===== PAGE 4 =====
+DM Market Update  |  June 15, 2026  |  Tyler Hubbard, Head of Research
+DECENTRALIZED MASTERS
+ETHEREUM, SOLANA & ALTCOINS
+Delayed Upgrades, RWA ATH, and a $1B Hack
+ETHEREUM
+•
+Price: ~$1,620-$1,720 | -62% from $4,953 ATH (Aug 2025) | 
+Market cap ~$200B
+•
+Glamsterdam upgrade DELAYED: confirmed slip from June to 
+Q3 2026, removing key near-term catalyst
+•
+Upgrade features: gas limit 60M->200M blocks, 78% reduction 
+in smart-contract gas, EIP-7732 PBS
+•
+L2 adoption and DeFi fee revenues structurally intact; 
+near-term macro headwinds dominate
+SOLANA + ALTCOINS
+•
+SOL: ~$64-$67 | Tokenized RWA on Solana hit $2.7B ATH on 
+June 10 (+34% from Q1)
+•
+Tokenized SpaceX shares launched on Solana around the June 
+12 IPO  -  institutional RWA milestone
+•
+Alpenglow consensus upgrade (targeting ~150ms finality) 
+targeted Q3 2026
+•
+Broad alts: capital concentrating in quality; speculative tokens 
+still bleeding
+ZCASH (ZEC)
+•
+~$530, recovering strongly from ~50% crash on Orchard 
+shielded pool bug disclosure.
+•
+Pre-exploit peak ~$543: Multicoin Capital privacy thesis 
+(CBDC surveillance concerns).
+•
+Emergency fix applied; Ironwood upgrade targets July (new 
+shielded pool, supply fix).
+•
+June 14: external audit clean, no new bugs. Core thesis 
+intact. Chart still damaged.
+SECURITY NOTE: HUMANITY PROTOCOL
+•
+H token private-key exploit June 8 wiped ~$1B. Partial 
+recovery (+44%) followed.
+•
+Not a smart-contract bug  -  a key compromise. Almost 
+always preventable.
+•
+Multi-sig, hardware wallets, air-gapped key generation: 
+non-optional at scale.
+•
+Your security hygiene is part of your investment thesis.
+
+
+===== PAGE 5 =====
+DM Market Update  |  June 15, 2026  |  Tyler Hubbard, Head of Research
+DECENTRALIZED MASTERS
+HYPERLIQUID / HYPE
+THREE-ETF WAR
+ATH
+$75.52
+June 2, 2026
+Now: ~$58-$63
+(-21% from ATH)
++160% YTD
+Best major token
+of 2026.
+ETF
+Ticker
+Fee
+Launch
+Notable
+21Shares
+THYP
+0.30%
+May 12
+First mover
+Bitwise
+BHYP
+0.34%*
+May 15
+*0% intro period
+Grayscale
+HYPG
+0.29%
+Jun 3
+~2.2% staking yield
+•
+~99% of protocol fees -> HYPE buybacks. $1B+ cumulative buybacks. $857M fees earned 
+in 2025.
+•
+~60% of global on-chain derivatives open interest. AQA v2 governance (Oct): adds USDC 
+yield to buyback stream.
+
+
+===== PAGE 6 =====
+DM Market Update  |  June 15, 2026  |  Tyler Hubbard, Head of Research
+DECENTRALIZED MASTERS
+MACRO OVERVIEW
+Stagflation Framing Returns
+MAY CPI (headline)
+4.2%
+YoY  -  3-yr high; +4.2% Apr 2023
+MAY PPI (headline)
+6.5%
+YoY  -  highest since Nov 2022
+CORE CPI (ex-energy)
+2.9%
+YoY  -  1 tick below consensus
+HOW TO READ THESE NUMBERS
+•
+Energy drove 60%+ of the monthly CPI increase (+3.9% MoM / +23.5% YoY)  -  entirely Iran/Hormuz supply shock, not demand-side.
+•
+Core CPI at 2.9% confirms this is NOT a broad-based wage-price spiral. That matters enormously for the Fed's calculus.
+•
+The 130bp gap between 4.2% headline and 2.9% core is the central tension: inflation is real but potentially self-correcting if Iran 
+resolves.
+•
+PPI at 6.5% is the pipeline warning: if the Iran deal fails and energy stays elevated, core will follow headline higher within 2-3 
+months.
+•
+ECB hiked to 2.25% (effective June 17)  -  first major central bank hike since Sept 2023, explicitly citing the energy shock.
+
+
+===== PAGE 7 =====
+DM Market Update  |  June 15, 2026  |  Tyler Hubbard, Head of Research
+DECENTRALIZED MASTERS
+FOMC  -  WARSH'S FIRST MEETING
+Jun 16-17 | Decision Wed 2pm ET
+HOLD PROBABILITY
+99.6%
+Polymarket / 96.3% CME FedWatch
+CURRENT RATE
+3.50-3.75%
+Unchanged; Warsh took over May 15
+YR-END HIKE PROBABILITY
+RISING
+October flagged as live window
+THE BASE CASE (HOLD)
+WHAT MARKETS ARE ACTUALLY TRADING
+•
+Rate stays 3.50-3.75%  -  near certainty. This is not a 
+surprise; no market prep needed.
+•
+Warsh's track record: publicly hawkish on inflation, critical 
+of the Fed's late 2021-22 response.
+•
+Press conference tone expected to be firm; he will 
+acknowledge 4.2% headline without minimizing it.
+•
+Key language: does 'easing bias' sentence survive? Its 
+removal = hawkish signal even with a hold.
+•
+Dot plot update: how many members now show a hike in 
+2026 or 2027 vs. previous projections?
+•
+Statement language around 'further adjustments' or new 
+neutral language = material market mover.
+•
+Q&A tell: does Warsh distinguish headline vs. core, or treat 
+4.2% as the operative inflation level?
+•
+ECB hiked last week  -  global tightening context means any 
+Fed dovishness would be a relative surprise.
+
+
+===== PAGE 8 =====
+DM Market Update  |  June 15, 2026  |  Tyler Hubbard, Head of Research
+DECENTRALIZED MASTERS
+EQUITIES
+Recovery Week + Largest IPO in History
+NASDAQ (Fri close)
+25,889
++0.31% wk; recovered from -4.18%
+S&P 500 (Fri close)
+7,431
++0.50% Fri; prev wk: 7,383
+SpaceX IPO
+$75B
+Largest IPO in history (Jun 12)
+SpaceX Day-1 Return
++19%
+Priced $135; closed $161.11
+WHAT DROVE THE RECOVERY
+WHAT TO WATCH HEADING INTO THIS WEEK
+•
+Core CPI 2.9% (1 tick below estimate) gave permission to 
+rally  -  market read: energy shock, not spiral.
+•
+SpaceX IPO euphoria: $1.77T valuation; $75B raised; more 
+than 2x Saudi Aramco's 2019 record.
+•
+Short-covering after the June 5 chip-stock selloff (Nasdaq 
+-4.18%, worst since April 2025 tariffs).
+•
+SpaceX ineligible for S&P 500 until June 2027 (IPO 
+seasoning rule); Nasdaq inclusion is immediate.
+•
+SOX semiconductor index: if it stabilizes, tech leads next leg 
+higher; if it breaks lower, Nasdaq follows.
+•
+May retail sales (Wed pre-open): consumer health signal, 
+especially under elevated energy burden.
+•
+Post-IPO SpaceX trading: a sustained premium above $135 
+supports broader risk appetite.
+•
+VIX: spiked to 21.51 on June 5 (+39.68%). Normalization 
+below 18 = fear dissipating.
+
+
+===== PAGE 9 =====
+DM Market Update  |  June 15, 2026  |  Tyler Hubbard, Head of Research
+DECENTRALIZED MASTERS
+OIL & GEOPOLITICS
+Iran Deal: Signed, Sealed, Delivered?
+WTI CRUDE
+$80-85
+Down from $138 April peak
+BRENT CRUDE
+$84-88
+Lowest since early March
+HORMUZ SUPPLY HIT
+~20%
+Of global oil supply disrupted
+POTENTIAL SIGNING
+Jun 19
+Switzerland  -  Juneteenth (mkt 
+closed)
+STATUS OF THE IRAN DEAL
+WHAT A SIGNED DEAL MEANS FOR EVERY ASSET
+•
+14-point draft: Hormuz reopens within 30 days, oil 
+sanctions lifted, nuclear program dismantled.
+•
+Trump suggested Switzerland signing as soon as June 19. 
+Conflicting Iranian state-media vs. WH versions of terms.
+•
+IEA called the Hormuz closure 'the largest supply 
+disruption in the history of the global oil market.'
+•
+WTI fell 4%+ on deal optimism last week  -  the market is 
+already partially pricing a resolution.
+•
+Oil: WTI could fall to $65-$70 range within weeks; Brent 
+below $70 is possible if Hormuz fully reopens.
+•
+CPI: energy component reverses hard; headline CPI 
+trajectory improves materially within 1-2 months.
+•
+Fed: disinflation impulse gives Warsh cover to stay neutral; 
+rate hike scenario largely removed.
+•
+Crypto: risk-on environment + dollar weakening + rate 
+expectations easing = most bullish macro combo for BTC.
+
+
+===== PAGE 10 =====
+DM Market Update  |  June 15, 2026  |  Tyler Hubbard, Head of Research
+DECENTRALIZED MASTERS
+WEEK AHEAD
+The Two Events That Define the Next Leg
+MON JUN 15  |  MEDIUM
+FOMC Meeting Begins
+Two-day meeting starts. Positioning day. Watch pre-meeting headlines for any 
+Warsh signals.
+WED JUN 17  -  CRITICAL  |  CRITICAL
+FOMC Decision + Retail Sales
+Hold certain. The real question: easing-bias language survives? Dot plot 
+hawkishness? Warsh press conf. 2:30pm ET. Retail sales pre-open.
+THU JUN 18  |  MEDIUM
+Weekly Jobless Claims
+Labor market health check. Strong = more hike pressure. Weak = gives Fed 
+breathing room.
+FRI JUN 19  -  MARKETS CLOSED  |  WILDCARD
+Juneteenth + Possible Iran Signing
+US stocks + bonds closed. Crypto and oil trade 24/7  -  they price the deal first. 
+Switzerland signing reported targeting this date.
+ONGOING  |  WILDCARD
+US-Iran Deal Watch
+The override event. Signed deal = oil collapses, disinflation, risk-on rally for BTC. 
+Collapse = oil re-spikes, Fed forced toward hike, BTC retests $59,100.

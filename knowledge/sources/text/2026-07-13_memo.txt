@@ -1,0 +1,219 @@
+
+===== PAGE 1 =====
+DM MARKET UPDATE
+Weekly Research Supplement — July 13, 2026
+Tyler Hubbard | Head of Research, Decentralized Masters
+MARKET SNAPSHOT — JULY 13, 2026
+ASSET
+PRICE
+WK CHG
+NOTE
+Bitcoin (BTC)
+$63,042
++5.5% (2wk)
+Recovered from $59K flush; ETF streak broken
+Ethereum (ETH)
+$1,820
++16.2%
+(2wk)
+ETH outperforming BTC off the lows
+S&P; 500
+~7,530
++1.0% wk
+2nd pos. week; Dow hit ATH; AI tech under pressure
+Nasdaq
+~26,100
++2.0% wk
+Recoving but AI fatigue narrative persists
+DXY (Dollar)
+~101.3
+-0.3% wk
+Near 13-month high; Iran re-escalation supportive
+Gold (spot)
+$4,068/oz
++1.5% wk
+NFP miss gave relief; Iran re-escalation a risk
+WTI Crude
+~$74.70/bbl
++4.6% today
+Weekend Iran strikes; Brent ~$79.50
+10-yr Treasury
+~4.50%
++8bps wk
+Rising again as Iran risk re-ignites inflation fears
+BTC ETF Flows
+$197M
+inflows
+8-wk streak
+First positive week after $9.46B in outflows
+MACRO THEMES
+June NFP: +57K Miss (exp. 110K+)
+Worst miss since late 2025. Prior months revised -74K combined.
+Unemployment to 4.2% but driven by participation collapse
+(61.5%, lowest since Mar 2021). Household employment fell
+507K. Wage growth 3.5% YoY. Dollar fell, gold +2%, rate hike
+bets pared.
+Iran: Ceasefire Cancelled — Oil Surging
+Iran struck Al-Rekayyat (Qatari LNG tanker) July 7. US hit 80+
+Iranian targets July 8. Trump declared ceasefire 'over.' Weekend:
+US 4th strike in a week after Cyprus-flagged tanker attack. WTI
++4.6% today, Brent ~$79.50. Hormuz shipping slowed
+significantly.
+FOMC Minutes: 'No Urgency to Hike'
+June minutes (released July 8): committee acknowledged hot
+inflation but saw no urgency to hike as labor cools. NY Fed's
+Williams: policy 'in a good place,' not eyeing July hike. September
+hike probability now ~60-70% after oscillating post-NFP.
+Equities: Dow ATH, AI Fatigue Persists
+S&P; +1%, Nasdaq +2% last week — second consecutive
+positive week. Dow hit intraday ATH July 6. But S&P; tech sector
+-10% from recent peak. Q2 earnings growth forecast: 23.6% YoY.
+Big bank earnings kick off Tuesday alongside CPI.
+CRYPTO THEMES
+BTC ETF 8-Week Outflow Streak Ends
+Week of July 7-11: $197M BTC ETF inflows + $84M ETH =
+$282M combined. Ended 8 consecutive weeks and $9.46B in
+total outflows. Single-day peak: $265M on July 7. But $282M
+barely dents $9.46B hole. Avg ETF holder cost basis: ~$83,800,
+well above current price.
+Bitcoin: Recovery Off $59K Lows
+BTC at $63,042, up ~5.5% from June 29's $59,800 and ~7% from
+the June 25 flush low of $59,023. USDT dominance pulled back
+from 4-yr highs (9.35% → 8.54%), positive signal for risk appetite.
+Resistance: $65K. Support: $61,000-$61,750.
+ETH Outperforms Off the Bottom
+ETH at $1,820, up ~16% from the $1,565 low two weeks ago.
+ETH ETF inflows proportionally stronger vs BTC. ETH/BTC ratio
+recovering from multi-year lows at 0.026. Glamsterdam devnet on
+track. BitMine still holds 5.62M ETH (4.66% of supply).
+CLARITY Act: August 7 Senate Deadline
+Congress goes on recess August 7. If no vote, bill pushed to
+midterm cycle. CFTC Chair Selig pressuring Senate. Partisan
+friction around Trump's $1.4B digital asset revenues. This is 3.5
+weeks away — watch the Senate floor schedule closely.
+
+
+===== PAGE 2 =====
+DM MARKET UPDATE — Page 2
+July 13, 2026
+ECONOMIC CALENDAR — WEEK OF JULY 13–17, 2026
+DATE
+EVENT
+EST./PRIOR
+SIGNAL
+Mon Jul 13
+No major data — Iran weekend strikes in markets
+--
+Low
+Tue Jul 14
+## June CPI (YoY)
+3.8% est. / 4.2% prior
+HIGH
+Tue Jul 14
+## June Core CPI (MoM)
+0.3% est. / 0.2% prior
+HIGH
+Tue Jul 14
+## Warsh — House Fin. Services Testimony (10am)
+First testimony as
+chair
+Warsh
+Tue Jul 14
+Bank Earnings: JPM, BAC, GS, WFC, Citi
+Q2 results
+EARNINGS
+Wed Jul 15
+June PPI (MoM)
+--
+Medium
+Wed Jul 15
+Warsh — Senate Banking Committee Testimony
+Day 2
+Warsh
+Wed Jul 15
+Earnings: ASML, MS, BlackRock, Netflix, UAL
+Q2 results
+EARNINGS
+Thu Jul 16
+June Retail Sales
+--
+Medium
+Thu Jul 16
+Initial Jobless Claims / Philly Fed
+--
+Medium
+Thu Jul 16
+Earnings: TSMC, GE Aerospace, UNH, NFLX
+AI chip guidance key
+EARNINGS
+Fri Jul 17
+U. of Michigan Consumer Sentiment (prelim Jul.)
+--
+Medium
+Fri Jul 17
+Industrial Production / Housing Starts
+--
+Low
+KEY TECHNICAL LEVELS
+ASSET
+CURRENT
+SUPPORT
+RESISTANCE
+BIAS
+Bitcoin (BTC)
+$63,042
+$61,000–61,750 / $59K
+$65,000 / $65,200 (200d MA)
+Cautious
+Ethereum (ETH)
+$1,820
+$1,700 / $1,600
+$2,000 / $2,200
+Recovering
+Gold (spot)
+$4,068
+$3,930 / $3,800
+$4,150 / $4,220
+Watch CPI
+WTI Crude
+~$74.70
+$70 / $67
+$80 / $85
+Bullish (Iran)
+DXY
+~101.3
+99.5 / 98.0
+101.39 / 103
+Watch Warsh
+S&P; 500
+~7,530
+7,350 / 7,200
+7,600 / ATH
+Neutral
+
+
+===== PAGE 3 =====
+DM MARKET UPDATE — Page 3
+July 13, 2026
+RISKS & OUTLOOK
+BEARS WATCH
+BULLS WATCH
+CPI hot print Tuesday — energy surprise or sticky services
+keep YoY above 3.9%, Warsh leans hawkish in testimony →
+September hike fully priced, DXY breaks 101.39, crypto ETF
+reversal flips back to outflows. Iran full closure — Hormuz
+shuts meaningfully, oil back toward $85, June CPI becomes a
+one-month artifact, peak inflation thesis collapses. Bank
+earnings disappoint — loan loss provisions, weak net interest
+margin guidance.
+CPI soft print + patient Warsh — YoY falls to 3.8% or below,
+Warsh signals data-dependence without hawkish lean → rate
+cut conversation re-enters for late 2026, DXY softens, BTC
+targets $65K+, ETF inflows build for a second week. Iran talks
+resume post-Khamenei funeral — Hormuz reopening
+accelerates, oil retreats, inflation peak thesis confirmed. TSMC
+guidance Thursday — if AI chip demand is described as
+insatiable, tech rebounds sharply and crypto benefits from
+risk-on.
+Prepared by Tyler Hubbard, Head of Research, Decentralized Masters. For educational and informational purposes only. Not financial advice. All
+figures as of July 13, 2026 market open unless otherwise stated.

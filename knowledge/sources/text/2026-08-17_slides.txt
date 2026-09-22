@@ -1,0 +1,322 @@
+
+===== PAGE 1 =====
+MARKET UPDATE
+Monday Edition
+August 17, 2026
+Tyler Hubbard
+Head of Research, Decentralized Masters
+CPI 3.4% IN-LINE
+SEPT HOLD 67-69%
+IRAN MOU EXPIRES
+BTC $63,100
+JH IN 10 DAYS
+
+
+===== PAGE 2 =====
+WEEK AT A GLANCE
+Aug 10-17, 2026
+July CPI
+3.4%
+In-line with consensus
+S&P 500
+7,798
+New all-time high Aug 13
+Sept Hike
+31-33%
+From 44%; hold = 67-69%
+Bitcoin
+$63,100
+Failed $65,600; lower
+July CPI 3.4% in-line — Sept hold now 
+67-69%; record S&P 7,798
+Three soft prints in a row: CPI, PPI (flat), retail sales (-0.6%). S&P hit 7,798 on CPI day — new all-time high. Hike odds fell from 44% to 31-33%.
+Bitcoin drifted lower despite everything — 
+CPI was already priced
+BTC went from ~$65K to $63,100 as ETF flows went net negative. In-line CPI wasn't the catalyst. The $65,600 EMA remains unbroken.
+Cisco and Applied Materials: 
+beat-and-fade is the pattern
+Both beat estimates. Both stocks fell. Nvidia Aug 26 is the next test. Two consecutive beat-fades makes the third the signal.
+Iran-US MOU expires today — the key 
+macro risk variable
+60-day ceasefire window closes Aug 17 in deadlock. Brent $88, up 5% last week on expiration risk. US response today determines August CPI trajectory.
+
+
+===== PAGE 3 =====
+JULY CPI 3.4% — THREE SOFT PRINTS, HOLD NOW BASE CASE
+July CPI YoY
+3.4%
+vs 3.4% est. / 3.5% prior
+Core CPI YoY
+2.5%
+Lowest since Mar 2021
+July PPI MoM
+0.0%
+vs +0.2% est.; below exp.
+Sept Hold Odds
+67-69%
+From 31-33% hike prob.
+READING THE DATA — AND THE IMPORTANT CAVEAT
+Core 2.5% is the lowest since March 2021 — genuine progress
+The core reading was helped by shelter softening to +0.1% MoM. Energy fell 1.5% MoM. Both suggest the July environment was genuinely disinflationary.
+The bond market is not fully convinced — 10-yr at 4.70%
+Even as hike odds fell and stocks rallied, the 10-year yield stayed near a 19-month high. The long end is pricing structurally higher inflation, not near-term Fed cuts.
+The critical caveat: July data is already a month old
+This report reflects July oil prices — which benefited from Hormuz diplomatic relief mid-month. The Iran-US MOU expires today. August oil trajectory determines whether this 
+disinflationary read persists.
+Sept hold at 67-69% is the base case — but conditionally
+A Hormuz escalation pushing Brent above $92, or a hot August CPI (due ~Sep 10-12), could flip September back to a live hike meeting. The relief is real but fragile.
+
+
+===== PAGE 4 =====
+RETAIL SALES -0.6%: THE CONSUMER SIGNAL TO WATCH
+Retail Sales MoM
+-0.6%
+vs +0.1% est.; biggest miss since May 2025
+Motor Vehicles
+-1.8%
+Largest single drag; rate-sensitive sector
+U. Michigan Sentiment
+51
+Prelim Aug; -8% drop; 5th month >4% inflation exp.
+WHERE THE WEAKNESS WAS
+Motor vehicles
+-1.8%
+Online / non-store
+-2.2%
+Electronics stores
+-0.9%
+Restaurants / bars
++0.5%
+Total retail
+$763.6B
+WHAT IT MEANS
+The online decline is partly payback from June's early Prime Day. The structural 
+weakness is in autos — a rate-sensitive category that reacts to elevated financing 
+costs.
+Consumer spending is rotating from goods to services (restaurants +0.5%, fourth 
+straight). That's not a recession pattern — it's a post-reopening normalization that 
+slowed.
+Michigan sentiment at 51 (-8%) with inflation expectations above 4% for the fifth 
+straight month suggests consumers feel squeezed between sticky inflation and high 
+rates.
+For the Fed, a softening consumer reduces the case for hiking. For equities, it raises 
+questions about whether the growth narrative can sustain current valuations.
+KEY QUESTION: Is the consumer softening a temporary dip (payback from Prime Day) or the start of a structural deceleration? August retail sales (Sep) will answer that.
+
+
+===== PAGE 5 =====
+CISCO + APPLIED MATERIALS: BEAT-AND-FADE WARNING
+Cisco Systems
+CSCO FY26 Q4
+BEAT
+$17.3B (+18%)
+MOVE
+-AH after results
+AI orders $4B Q4; $9.3B FY26; AI infra rev $7.5B FY27 guide
+Applied Materials
+AMAT FY26 Q3
+BEAT
+$9.12B (+25%)
+MOVE
+-3.46% on day
+Record; CEO raised 2026 semi systems revenue outlook on AI demand
+THE BEAT-AND-FADE PATTERN — AND WHY NVIDIA AUG 26 MATTERS
+What beat-and-fade means
+Revenue and earnings beat consensus. Stock falls anyway. The results are good but priced-in — or better-than-good isn't enough to justify current valuations.
+Why two data points make a 
+pattern
+Cisco and AMAT are different parts of the AI stack — networking and semiconductor equipment. Both beat. Both fell. This is valuation-level, not company-specific.
+Nvidia Aug 26 is the definitive test
+Beat-and-hold = beat-fades were noise, AI trade has fuel. Beat-and-fade = pattern confirmed, AI valuation exhaustion is real — with spillover to crypto sentiment.
+
+
+===== PAGE 6 =====
+IRAN-US MOU EXPIRES TODAY — OIL AT $88 BRENT
+Aug 17
+BRENT CRUDE JOURNEY
+Jul peak
+$102
+13 nights US strikes on Iran
+Aug 2-3
+$87-88
+Iran pause; Oman talks
+Aug 7-10
+$82-84
+Iran FM rules out direct US talks
+Last wk close
+$88
++5% on MOU expiry fear
+Today Aug 17
+$88-90?
+MOU expires; escalation TBD
+BULL CASE
+US soft-pedals MOU expiry; Oman-Iran bilateral closes
+Brent falls to $78-82; August CPI disinflationary
+September hold stays 67-69%; risk assets hold gains
+BEAR CASE
+US resumes full naval blockade; new strikes
+Brent spikes above $92-95; August CPI re-accelerates
+September FOMC back to 50/50 or hike-leaning
+BTC re-tests $60K; ETF outflows accelerate
+Oil is the master variable. Every $10 sustained Brent move = ~0.3-0.4% CPI. Aug 17 escalation → October FOMC becomes the live hike meeting.
+
+
+===== PAGE 7 =====
+CRYPTO: BTC $63,100 — CPI PRICED IN, $65,600 INTACT
+Bitcoin
+$63,100
+-2.8% on week
+DC2626
+Ethereum
+~$1,880
+-3.0% on week
+DC2626
+Fear & Greed
+37
+Fear — unchanged
+EA580C
+ETF Flows
+Net (-)
+Streak broken last wk
+DC2626
+THE PUZZLE: WHY DIDN'T SOFT CPI MOVE BITCOIN?
+Three soft prints materialized: CPI in-line, PPI flat, retail sales -0.6%. S&P hit a new ATH. September hike odds fell from 44% to 31%. Bitcoin went from $65,000 to $63,100. The 
+bull case played out macro-side, and BTC still fell.
+The answer: in-line CPI wasn't a positive surprise. The NFP miss two weeks ago already moved hike odds from 57% to 44%. The additional move from 44% to 31% on a consensus 
+print is incremental — not the catalyst needed to break the $65,600 EMA ceiling that has held all year.
+ETF flows confirm the diagnosis. The week of Aug 3-7 produced $853M — the best week since April. Last week (Aug 10-14) went net negative. Aug 10 alone: -$144.7M. The 
+institutional re-entry that was building for 4 weeks stalled and reversed.
+Strategy sold 1,690 more BTC (~$108M) last week — the seventh consecutive week of BTC sales with no purchases. When the world's largest corporate Bitcoin holder is a 
+persistent net seller, it suppresses the price ceiling that ETF inflows need to push through.
+
+
+===== PAGE 8 =====
+THE $65,600 CEILING — WHY BITCOIN KEEPS FAILING HERE
+KEY PRICE LEVELS
+$67,300
+Kruger resistance; next test if EMA breaks
+$65,600
+50-month EMA — ceiling all 2026; failed Aug 7
+$65,300
+August high (Aug 7, post-NFP); failed to hold
+$63,100
+Current price — below the cost-basis cluster
+$62,000
+First support; must hold on any pullback
+$60,000
+Psychological floor; structural support all cycle
+$57,700
+2026 cycle low (Jun 25 flush); structural floor
+ETF FLOWS — STREAK BROKEN
+Aug 3-7
+$853M net inflow
+Best week since April
+Aug 10
+$-144.7M
+Streak broken immediately
+Aug 10-14 wk
+Net negative
+4th positive week: did not happen
+STRATEGY — 7 WEEKS SELLING, 0 BUYING
+Last week sold:
+1,690 BTC (~$108M)
+Purpose:
+Repurchase STRC preferred stock
+Total 2026 sales:
+~$432M BTC across 7 weeks
+Structural impact:
+World's largest corporate BTC holder = net seller; 
+suppresses ceiling
+
+
+===== PAGE 9 =====
+CLARITY ACT UPDATE + JACKSON HOLE 10-DAY SETUP
+CLARITY ACT — THUNE'S SEPT GAMBIT
+What happened
+Senate recessed Aug 7 without a floor vote. 28% 
+Polymarket odds at recess.
+Senate recessed Aug 7 without a floor vote. 28% Polymarket odds at recess.
+Thune's move
+Filed cloture motion Aug 8 — preserves bill's calendar 
+slot for Sept return.
+Filed cloture motion Aug 8 — preserves bill's calendar slot for Sept return.
+Sept window
+Senate returns Sept 8. Bill can be brought up without 
+re-committee. Needs 60 votes.
+Senate returns Sept 8. Bill can be brought up without re-committee. Needs 60 votes.
+Reality
+60-vote threshold needs 7-9 Dem crossovers. 
+Appropriations compete for floor time.
+60-vote threshold needs 7-9 Dem crossovers. Appropriations compete for floor time.
+Atkins track
+SEC Chair providing agency guidance as interim. Not as 
+durable as statute.
+SEC Chair providing agency guidance as interim. Not as durable as statute.
+Most likely path
+Year-end appropriations rider or early 2027 standalone 
+vote.
+Year-end appropriations rider or early 2027 standalone vote.
+JACKSON HOLE — AUG 27-29 (10 DAYS)
+10
+days
+Wed Aug 26
+Nvidia Q2 FY27 Earnings
+AI trade referendum the night before JH
+Thu Aug 28
+Warsh JH Keynote
+Financial Innovation + Payments + Policy
+Sep 4
+August NFP
+Final labor data before Sept FOMC
+~Sep 12
+August CPI
+Hormuz outcome baked in here
+Sep 16-17
+FOMC Decision
+~31-33% hike / 67-69% hold
+
+
+===== PAGE 10 =====
+OUTLOOK: IRAN TODAY + NVIDIA AUG 26 + WARSH AUG 28
+10 Days
+01
+Iran MOU — Today
+The Master Variable for August CPI
+US response today defines Brent trajectory for 
+August. Escalation = Brent $92+ = August CPI 
+re-accelerates = September hike back to 50%+.
+Iran-Oman bilateral deal closing would be the bull 
+case: Brent $78-82, August CPI disinflationary, 
+September hold locked in above 70%.
+Oil at $88 is already pricing in some escalation risk. 
+A non-event (informal extension, ambiguous 
+statement) = oil drifts lower, relief rally in risk 
+assets.
+02
+Nvidia Aug 26
+AI Trade Referendum Before Jackson Hole
+Cisco and AMAT both beat and fell. Pattern requires 
+a third data point to confirm. Nvidia is the most 
+important AI name in the market.
+Beat-and-hold = AI trade still has fuel; risk-on into 
+JH; BTC ETF inflows restart; $65,600 EMA tested 
+with momentum behind it.
+Beat-and-fade = AI valuation exhaustion confirmed; 
+tech caution bleeds into crypto sentiment; BTC 
+stays rangebound below $65,600 into September.
+03
+Warsh Aug 28
+First JH Keynote as Chair
+Soft NFP + in-line CPI + flat PPI gives Warsh data 
+cover to sound balanced. A data-dependent, 
+hold-leaning tone = September hold stays at 
+67-69%.
+Theme 'Financial Innovation + Payments + Policy' — 
+any language on digital assets, stablecoins, or 
+Bitcoin's role in payments would be historically 
+unprecedented.
+The combination Nvidia Aug 26 + Warsh Aug 28 in a 
+24-hour window is the single most important 24 
+hours for crypto between now and the September 
+FOMC.
+Tyler Hubbard, Head of Research — Decentralized Masters  |  August 17, 2026  |  For educational purposes only. Not financial advice.

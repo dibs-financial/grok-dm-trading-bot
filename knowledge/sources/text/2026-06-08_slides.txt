@@ -1,0 +1,242 @@
+
+===== SLIDE 1 =====
+DECENTRALIZED MASTERS
+DM MARKET UPDATE
+June 8, 2026
+Tyler Hubbard
+Head of Research
+Weekly markets briefing: crypto, macro, and what to watch.
+
+===== SLIDE 2 =====
+DM Market Update  |  June 8, 2026  |  Tyler Hubbard, Head of Research
+DECENTRALIZED MASTERS
+CRYPTO MARKET OVERVIEW
+Week of June 2-6, 2026
+FEAR & GREED INDEX
+13
+Extreme Fear
+WEEKLY ETF OUTFLOWS
+$1.67B
+Largest of 2026
+BTC vs. ATH ($126K)
+-50%
+Off Oct 2025 peak
+Extreme fear reading of 13 matches prior cycle accumulation zones (April 2025, February 2026).
+$1.67B in weekly crypto fund outflows, ETF redemptions creating direct sell pressure on BTC and ETH.
+Structural progress continues: regulated 24/7 derivatives products expanding in the US market.
+HYPE (Hyperliquid) remains a cycle outlier, hitting all-time highs amid the broader market drawdown.
+Every extreme fear event this cycle has, in hindsight, marked a significant accumulation zone.
+
+===== SLIDE 3 =====
+DM Market Update  |  June 8, 2026  |  Tyler Hubbard, Head of Research
+DECENTRALIZED MASTERS
+BITCOIN (BTC)
+~$62,500
+TECHNICALS
+Current Price
+~$62,500
+All-Time High
+$126,198 (Oct 6, 2025)
+Drawdown from ATH
+-50.5%
+Market Cap
+~$1.25 Trillion
+Critical Support
+$60,000
+Secondary Support
+$55,000 - $58,000
+50-Day MA
+Above price (resistance)
+200-Day MA
+Declining since May (headwind)
+Perp Funding Rate
+Neutral to slightly negative
+ON-CHAIN & NARRATIVE
+Funding rates neutral to slightly negative: leveraged long speculation partially flushed, a constructive signal.
+MVRV not yet in historically reliable accumulation territory; watch for that signal before high-conviction entries.
+$1.67B in ETF outflows = direct sell pressure. The same mechanism that drove 2025 inflows works in reverse.
+Circulating supply: ~20.04M BTC. Each halving cycle the new supply issuance rate compresses further.
+Risk: $60K support failure opens path toward $55K-$58K; macro deterioration (rate hike priced in) is the trigger.
+Opportunity: ETF flow reversal, historically sharp. Structural institutional demand thesis unchanged.
+
+===== SLIDE 4 =====
+DM Market Update  |  June 8, 2026  |  Tyler Hubbard, Head of Research
+DECENTRALIZED MASTERS
+ETHEREUM & ALTCOINS
+~$1,750 / Extreme Fear
+ETHEREUM
+Price: ~$1,700-$1,800 | -29% in Q1 2026 alone | Market cap ~$230B
+Underperforming BTC on this correction; no dedicated safe-haven narrative
+Glamsterdam upgrade on roadmap; timeline subject to change, not a near-term trade catalyst
+Layer-2 adoption, DeFi revenues, and tokenization thesis remain structurally intact
+Support: $1,980; resistance: $2,135. Capital de-risking dominates near term
+ALTCOIN LANDSCAPE
+Broad altcoin sell-off: capital concentrating in higher-quality assets
+AI tokens (Bittensor, Render, Venice): approaching historical accumulation zones
+RWA tokens (Ondo, Canton): holding relatively better on institutional tokenization narrative
+Bear market filter: position sizing > narrative selection right now
+"Reverse altcoin season": speculative clones getting hit hardest; established L1s more resilient
+MARKET STRUCTURE NOTE
+Every extreme fear event in this cycle (April 2025, February 2026, June 2026) has marked a significant accumulation zone in hindsight. That does not confirm the current bottom. It does mean the risk-reward framework is materially different than at cycle highs. The conversation is not "is this the bottom?" It is "am I managing risk appropriately at these levels?"
+
+===== SLIDE 5 =====
+DM Market Update  |  June 8, 2026  |  Tyler Hubbard, Head of Research
+DECENTRALIZED MASTERS
+HYPERLIQUID / HYPE
+CYCLE OUTLIER
+NEW
+ALL-TIME HIGH
+While BTC is -50%
+from its ATH and Fear
+& Greed sits at 13,
+HYPE is printing
+all-time highs.
+Divergence = signal.
+Product
+Decentralized perpetuals exchange processing billions in daily open interest
+ETF Products
+Bitwise, 21Shares, and Grayscale have launched ecosystem ETF products
+HLP Vault
+Functioning as designed; real fee revenue flowing through the vault
+Current Support
+~$56 — primary zone; $38-$44 is the secondary if BTC weakness deepens
+Volume
+Real DEX volume, not manufactured; open interest trackable on-chain
+Why It Matters
+ATH during extreme fear = market telling you something about demand fundamentals
+
+===== SLIDE 6 =====
+DM Market Update  |  June 8, 2026  |  Tyler Hubbard, Head of Research
+DECENTRALIZED MASTERS
+MACRO OVERVIEW
+Jobs, Fed & Rates
+MAY NFP
+172,000
+vs. 85,000 expected
+FED JUNE HOLD PROB.
+99.4%
+Rates: 3.50%-3.75%
+RATE HIKE PROBABILITY
+~73%
+Year-end chance (Mkt pricing)
+WHAT THIS MEANS FOR MARKETS
+172K vs 85K is not a small beat. The labor market is telling the Fed it does not need help.
+"Higher for longer" narrative just got its strongest 2026 data point. No near-term pivot justification.
+Shift from "when do we cut?" to "could they hike again?" — this is a materially different risk framework.
+Oil-driven inflation + resilient jobs = Fed is boxed in. June hold is near-certain; year-end hike is live risk.
+Key watch this week: May CPI. Hot print accelerates rate hike scenario and hits all risk assets hard.
+
+===== SLIDE 7 =====
+DM Market Update  |  June 8, 2026  |  Tyler Hubbard, Head of Research
+DECENTRALIZED MASTERS
+EQUITIES
+Worst Nasdaq Day Since April 2025
+NASDAQ
+-4.18%
+Close: 25,709
+Worst day since April 2025 tariff panic
+S&P 500
+-2.64%
+Close: 7,383
+Briefly crossed 7,600 earlier in week
+DOW JONES
+-1.35%
+Close: 50,867
+-695 points, treasury yield spike
+VIX
++39.68%
+Close: 21.51
+Options traders caught offsides
+WHAT HAPPENED
+WHAT TO WATCH
+Catalyst: Broadcom disappointed on AI chip outlook (Wed night), semiconductor sector cracked
+NFP-driven 10-year Treasury yield spike Friday amplified the selling into close
+High-duration growth assets re-price when yields jump: AI/tech carries most duration risk
+S&P had crossed 7,600 just days before — this is a reversal of a strong June start
+VIX +39.68%: options market scramble, not a calm repricing. Participants were caught offside
+Bull case: CPI soft this week, yields pull back, NFP blowout seen as one-off outlier
+Bear case: CPI hot, rate hike expectations build, semiconductor earnings season disappoints
+Key watch: SOX (semiconductor index) direction will lead broader tech movement next week
+
+===== SLIDE 8 =====
+DM Market Update  |  June 8, 2026  |  Tyler Hubbard, Head of Research
+DECENTRALIZED MASTERS
+OIL & GEOPOLITICS
+Strait of Hormuz Overhang
+WTI CRUDE
+~$90-94
+/barrel
+Down from $138 April peak
+BRENT CRUDE
+~$96-97
+/barrel
++$31 yr-over-yr as of June 1
+APRIL PEAK (WTI)
+$138
+/barrel
+Strait of Hormuz near-closure
+SUPPLY SHUT-IN (APRIL)
+10.5M
+b/d
+6 Middle East producers
+DIPLOMATIC STATUS
+MARKET IMPLICATIONS
+Hezbollah rejected Israel ceasefire offer; Iran launched missiles toward Israel this weekend (all intercepted)
+60-day truce framework appears stalled; Trump diplomatically pushing while leaving military option open
+Saudi Aramco CEO: even if Strait reopens today, full normalization takes until 2027
+OPEC+ approved +188,000 b/d July quota increase; UAE departed OPEC May 1
+Every diplomatic headline moves oil sharply. Ceasefire signal = quick oil drop; escalation = spike
+UAE departure reduces OPEC spare capacity from 3.8M to 2.5M b/d — less flexibility for future shocks
+EIA Short-Term Energy Outlook due TOMORROW (June 9) — first official data post-latest escalation
+Inflation channel: oil at $90+ sustains upward pressure on CPI, giving Fed more cover to hold/hike
+
+===== SLIDE 9 =====
+DM Market Update  |  June 8, 2026  |  Tyler Hubbard, Head of Research
+DECENTRALIZED MASTERS
+GOLD & THE DOLLAR
+2026 YTD Low for Gold
+GOLD (XAU/USD)
+Friday Close
+$4,370/oz
+2026 YTD Status
+Lowest level of year
+Weekly Performance
+-3.8% (June week)
+Driver
+NFP beat / yields spike
+Institutional Target
+$5,400 - $6,300
+Near-term consensus
+Cautious; path lower while rate hike live
+Rate Hike Hike Prob.
+~73% by year-end
+Central Bank Buying
+~800T/year estimated; still intact
+US DOLLAR & IMPLICATIONS
+Dollar Index: ~100 — firm but range-bound after the NFP-driven Friday boost.
+Stronger dollar = headwind for BTC and risk assets. This correlation played out last week in real time.
+The paradox: Middle East conflict + $90 oil + geopolitical risk should be gold's moment. But rate hike expectations are overriding the safe-haven bid.
+What breaks the dollar's strength: soft CPI this week, weak retail sales data, or any hint that the Fed is concerned about growth rather than just inflation.
+AUD particularly weak — softer Australian growth data plus USD strength creating double pressure.
+Crypto inverse relationship with USD: a weaker dollar is directly constructive for BTC in risk-off environments.
+
+===== SLIDE 10 =====
+DM Market Update  |  June 8, 2026  |  Tyler Hubbard, Head of Research
+DECENTRALIZED MASTERS
+WEEK AHEAD
+Key Events & Catalysts
+TUE JUN 9  |  HIGH
+EIA Short-Term Energy Outlook
+First official supply/demand update post-latest Iran escalation. Inventory draw projections move WTI and Brent. Watch vs. EIA's May forecast of $106 Brent.
+WED JUN 11  |  CRITICAL
+May CPI Data
+The most important print of the week. Hot = rate hike expectations accelerate and hit all risk assets including crypto. Soft = relief rally opportunity. Direct BTC price path.
+JUN 11-12  |  MEDIUM
+Fed Meeting / Communications
+Hold is priced at 99.4%. Language around 'further' adjustments and dot plot signals will tell you how seriously the board is treating the rate hike scenario.
+ONGOING  |  WILDCARD
+US-Iran Diplomatic Track
+The wildcard. Credible ceasefire = oil drops sharply, risk appetite returns. New escalation = oil spikes, inflation concerns worsen. Moves fast.
+ONGOING  |  WATCH
+Crypto ETF Flow Data
+Post-holiday institutional flow reversal would be the strongest near-term BTC signal. Track Bitwise / 21Shares HYPE ETF liquidity development.

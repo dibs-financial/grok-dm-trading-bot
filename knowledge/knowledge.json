@@ -1,0 +1,383 @@
+{
+  "meta": {
+    "name": "DM Market Update knowledge base",
+    "description": "Structured knowledge extracted from Decentralized Masters weekly market memos and slide decks (Tyler Hubbard, Head of Research). Feeds the grok-dm-trading-bot ('the box').",
+    "schema_version": 1,
+    "current_as_of": "2026-09-21",
+    "first_source": "2026-05-11",
+    "cite_format": "[DM memo|slides YYYY-MM-DD] -> sources/text/YYYY-MM-DD_{memo|slides}.txt",
+    "rules": [
+      "Answer from 'current' only; offer 'superseded' history in one sentence.",
+      "Every claim carries a cite (kind + date).",
+      "Two current lines that disagree stay two lines; see 'conflicts'. Never blend.",
+      "'Similar' is not 'current'. A later source supersedes an earlier one on the same label.",
+      "Educational content; the source itself says it is not financial advice."
+    ],
+    "gaps": ["2026-05-25", "2026-06-22", "2026-07-06", "2026-07-20", "2026-08-24", "2026-09-07", "2026-09-14"]
+  },
+
+  "snapshots": [
+    {"date": "2026-05-11", "as_of": "Fri close 2026-05-09", "btc": 80640, "eth": 2324, "sp500": 7396, "nasdaq": 29234, "gold": 4713, "brent": 95.87, "wti": null, "dxy": 97.84, "us10y": 4.36, "vix": 17.19, "fear_greed": 46, "crypto_mcap_t": 2.81, "btc_dominance": 58.5, "cite": "[DM memo 2026-05-11]"},
+    {"date": "2026-05-18", "as_of": "Mon 2026-05-18", "btc": 77000, "eth": 2120, "sp500": null, "nasdaq": null, "gold": 4550, "brent": null, "wti": 107, "dxy": null, "us10y": 4.55, "vix": null, "fear_greed": 28, "crypto_mcap_t": 2.56, "alt_dominance": 39.2, "cite": "[DM memo 2026-05-18]"},
+    {"date": "2026-06-01", "as_of": "Mon open 2026-06-01", "btc": 72000, "eth": 2020, "sp500": 7580, "nasdaq": 26972, "dow": 51000, "gold": 4502, "brent": 93.37, "wti": 88, "dxy": 99.1, "us10y": null, "fear_greed": 28, "cite": "[DM memo 2026-06-01]"},
+    {"date": "2026-06-08", "as_of": "Fri close 2026-06-06", "btc": 62500, "eth": 1750, "sp500": 7383, "nasdaq": 25709, "dow": 50867, "gold": 4370, "brent": 96.5, "wti": 92, "dxy": 100, "us10y": null, "vix": 21.51, "fear_greed": 13, "btc_mcap_t": 1.25, "cite": "[DM memo 2026-06-08]"},
+    {"date": "2026-06-15", "as_of": "2026-06-13", "btc": 64000, "eth": 1670, "sp500": 7431, "nasdaq": 25889, "dow": 51202, "gold": 4310, "brent": 86, "wti": 82.5, "dxy": 99.75, "us10y": 4.5, "fear_greed": 22, "hype": 60.5, "zec": 530, "sol": 65.5, "btc_mcap_t": 1.27, "cite": "[DM memo 2026-06-15]"},
+    {"date": "2026-06-21", "as_of": "Mon open 2026-06-21", "btc": 63800, "eth": 1760, "sp500": null, "nasdaq": null, "gold": 4150, "brent": null, "wti": 77, "dxy": 100.85, "us10y": 4.45, "fear_greed": 23, "eth_btc": 0.027, "btc_mcap_t": 1.26, "note": "memo S&P 5,575 / Nasdaq 18,100 excluded as erroneous (see conflicts)", "cite": "[DM memo 2026-06-21]"},
+    {"date": "2026-06-29", "as_of": "Mon 2026-06-29", "btc": 59800, "eth": 1565, "sp500": null, "nasdaq": null, "gold": 4026, "brent": null, "wti": 70.12, "dxy": 101.3, "us10y": 4.38, "fear_greed": 12, "btc_etf_aum_b": 77.5, "btc_mcap_t": 1.18, "cite": "[DM slides 2026-06-29]"},
+    {"date": "2026-07-13", "as_of": "Mon open 2026-07-13", "btc": 63042, "eth": 1820, "sp500": 7530, "nasdaq": 26100, "dow": 53100, "gold": 4068, "brent": 79.5, "wti": 74.7, "dxy": 101.3, "us10y": 4.5, "vix": 15, "fear_greed": null, "btc_mcap_t": 1.25, "cite": "[DM memo 2026-07-13]"},
+    {"date": "2026-07-27", "as_of": "Mon 2026-07-27", "btc": 65333, "eth": 1953, "sol": 76.12, "sp500": null, "gold": 4116, "brent": 90, "wti": 83, "eth_btc": 0.030, "fomc_hold_prob": 0.80, "cite": "[DM slides 2026-07-27]"},
+    {"date": "2026-08-03", "as_of": "Mon open 2026-08-03", "btc": 62643, "eth": 1840, "sp500": 7489, "kospi": 6595, "gold": 4090, "brent": 87.93, "us30y": 5.19, "fear_greed": 27, "sept_hike_prob": 0.57, "clarity_odds": 0.34, "btc_mcap_t": 1.31, "note": "S&P = July close; gold approx", "cite": "[DM memo 2026-08-03]"},
+    {"date": "2026-08-10", "as_of": "Mon open 2026-08-10", "btc": 64858, "eth": 1940, "sp500": 7785, "gold": 4244, "brent": 84, "wti": 80, "us10y": 4.65, "fear_greed": 40, "btc_dominance": 57, "sept_hike_prob": 0.44, "cite": "[DM memo 2026-08-10]"},
+    {"date": "2026-08-17", "as_of": "Mon open 2026-08-17", "btc": 63100, "eth": 1880, "sp500": 7785, "gold": 4420, "brent": 88, "wti": 82, "us10y": 4.70, "fear_greed": 37, "sept_hike_prob": 0.32, "cite": "[DM memo 2026-08-17]"},
+    {"date": "2026-08-20", "as_of": "Thu 2026-08-20", "btc": 69500, "eth": 2250, "xrp": 1.10, "brent": 92, "us30y": 5.196, "crypto_mcap_t": 2.45, "btc_etf_net_assets_b": 84.31, "cite": "[DM slides 2026-08-20]"},
+    {"date": "2026-08-31", "as_of": "Mon 2026-08-31", "btc": 78173, "eth": 2438, "sp500": 7712, "gold": 4491, "silver": 67.10, "brent": 90.69, "dxy": 99.53, "us10y": 4.71, "fed_funds": "3.50-3.75", "sept_hike_prob": 0.57, "clarity_odds": 0.17, "cite": "[DM memo 2026-08-31]"},
+    {"date": "2026-09-21", "as_of": "Mon 2026-09-21", "btc": 86200, "eth": 2750, "sol": 118, "hype": 93.5, "zec": 1500, "sp500": 7726, "gold": 4346, "brent": 101.71, "wti": 99, "dxy": 100.30, "us10y": 4.87, "hormuz_flow_mbpd": 2.8, "cite": "[DM memo 2026-09-21]"}
+  ],
+
+  "levels": [
+    {"date": "2026-05-11", "asset": "BTC", "current": 80640, "support": [80600, 75000], "resistance": [85000], "bias": "bullish-if-holds", "note": "pivot 80,600; invalidation 75,000", "cite": "[DM memo 2026-05-11]"},
+    {"date": "2026-05-11", "asset": "ETH", "current": 2324, "support": [2300, 2200], "resistance": [], "bias": "neutral", "cite": "[DM memo 2026-05-11]"},
+    {"date": "2026-05-18", "asset": "BTC", "current": 77000, "support": [73700], "resistance": [84500], "bias": "bearish", "cite": "[DM memo 2026-05-18]"},
+    {"date": "2026-06-01", "asset": "BTC", "current": 72000, "support": [75000, 73000], "resistance": ["50d MA (declining)"], "bias": "cautious", "cite": "[DM memo 2026-06-01]"},
+    {"date": "2026-06-01", "asset": "ETH", "current": 2020, "support": [1850], "resistance": [2133, 2500], "bias": "bearish", "note": "2133 = 50d EMA; >2500 squeeze trigger", "cite": "[DM memo 2026-06-01]"},
+    {"date": "2026-06-08", "asset": "BTC", "current": 62500, "support": [60000, 58000, 55000], "resistance": ["50d MA", "200d MA"], "bias": "bearish", "cite": "[DM memo 2026-06-08]"},
+    {"date": "2026-06-08", "asset": "HYPE", "current": null, "support": [56, 44, 38], "resistance": [], "bias": "bullish-outlier", "cite": "[DM memo 2026-06-08]"},
+    {"date": "2026-06-15", "asset": "BTC", "current": 64000, "support": [62000, 60000, 59100], "resistance": [66000, 68000, 76000, 80000], "bias": "cautious", "note": "76-80K = 200d EMA", "cite": "[DM memo 2026-06-15]"},
+    {"date": "2026-06-21", "asset": "BTC", "current": 63800, "support": [62000, 60000], "resistance": [65200, 65750], "bias": "cautious", "note": "65,200 200d MA; 65,750 50d MA", "cite": "[DM memo 2026-06-21]"},
+    {"date": "2026-06-21", "asset": "ETH", "current": 1760, "support": [1700, 1500], "resistance": [1800, 2000], "bias": "cautious", "cite": "[DM memo 2026-06-21]"},
+    {"date": "2026-06-21", "asset": "GOLD", "current": 4150, "support": [4000], "resistance": [4300, 4500], "bias": "neutral", "cite": "[DM memo 2026-06-21]"},
+    {"date": "2026-06-21", "asset": "WTI", "current": 77, "support": [72, 68], "resistance": [82, 90], "bias": "uncertain", "cite": "[DM memo 2026-06-21]"},
+    {"date": "2026-06-21", "asset": "DXY", "current": 100.85, "support": [100.0, 98.5], "resistance": [102, 103.5], "bias": "bullish", "cite": "[DM memo 2026-06-21]"},
+    {"date": "2026-06-29", "asset": "BTC", "current": 59800, "support": [58400, 58000, 55000], "resistance": [61000, 61750, 63000], "bias": "bearish", "note": "$1.6B long cluster below 58K", "cite": "[DM slides 2026-06-29]"},
+    {"date": "2026-07-13", "asset": "BTC", "current": 63042, "support": [61750, 61000, 59000], "resistance": [65000, 65200, 65750], "bias": "cautious", "cite": "[DM memo 2026-07-13]"},
+    {"date": "2026-07-13", "asset": "ETH", "current": 1820, "support": [1700, 1600], "resistance": [2000, 2200], "bias": "recovering", "cite": "[DM memo 2026-07-13]"},
+    {"date": "2026-07-13", "asset": "GOLD", "current": 4068, "support": [3930, 3800], "resistance": [4150, 4220], "bias": "watch-cpi", "cite": "[DM memo 2026-07-13]"},
+    {"date": "2026-07-13", "asset": "WTI", "current": 74.7, "support": [70, 67], "resistance": [80, 85], "bias": "bullish", "cite": "[DM memo 2026-07-13]"},
+    {"date": "2026-07-13", "asset": "DXY", "current": 101.3, "support": [99.5, 98.0], "resistance": [101.39, 103], "bias": "watch-warsh", "cite": "[DM memo 2026-07-13]"},
+    {"date": "2026-07-13", "asset": "SP500", "current": 7530, "support": [7350, 7200], "resistance": [7600], "bias": "neutral", "cite": "[DM memo 2026-07-13]"},
+    {"date": "2026-07-27", "asset": "BTC", "current": 65333, "support": [65600, 65200, 64000, 63000, 61750, 61000], "resistance": [66800, 70000], "bias": "bullish-if-fomc-neutral", "cite": "[DM slides 2026-07-27]"},
+    {"date": "2026-08-03", "asset": "BTC", "current": 62643, "support": [60000, 59023], "resistance": [65200, 65600], "bias": "cautious", "cite": "[DM memo 2026-08-03]"},
+    {"date": "2026-08-03", "asset": "ETH", "current": 1840, "support": [1700, 1600], "resistance": [2000, 2200], "bias": "cautious", "cite": "[DM memo 2026-08-03]"},
+    {"date": "2026-08-03", "asset": "WTI", "current": null, "support": [80, 75], "resistance": [88, 102], "bias": "uncertain", "cite": "[DM memo 2026-08-03]"},
+    {"date": "2026-08-03", "asset": "US30Y", "current": 5.19, "support": [4.8, 4.5], "resistance": [5.3], "bias": "watch-fomc", "cite": "[DM memo 2026-08-03]"},
+    {"date": "2026-08-10", "asset": "BTC", "current": 64858, "support": [62500, 60000], "resistance": [65600, 67300], "bias": "watch-cpi", "note": "65,600 = 50-month EMA", "cite": "[DM memo 2026-08-10]"},
+    {"date": "2026-08-10", "asset": "ETH", "current": 1940, "support": [1800, 1700], "resistance": [2000, 2200], "bias": "cautious", "cite": "[DM memo 2026-08-10]"},
+    {"date": "2026-08-10", "asset": "SP500", "current": 7785, "support": [7700, 7600], "resistance": [7800], "bias": "recovering", "cite": "[DM memo 2026-08-10]"},
+    {"date": "2026-08-10", "asset": "GOLD", "current": 4244, "support": [4100, 4000], "resistance": [4350, 4400], "bias": "neutral", "cite": "[DM memo 2026-08-10]"},
+    {"date": "2026-08-10", "asset": "US10Y", "current": 4.65, "support": [4.5, 4.3], "resistance": [4.85, 5.0], "bias": "watch-cpi", "cite": "[DM memo 2026-08-10]"},
+    {"date": "2026-08-17", "asset": "BTC", "current": 63100, "support": [62000, 60000, 57700], "resistance": [65300, 65600, 67300], "bias": "cautious", "cite": "[DM memo 2026-08-17]"},
+    {"date": "2026-08-17", "asset": "ETH", "current": 1880, "support": [1750, 1600], "resistance": [2000, 2200], "bias": "cautious", "cite": "[DM memo 2026-08-17]"},
+    {"date": "2026-08-17", "asset": "SP500", "current": 7785, "support": [7700, 7600], "resistance": [7800, 7799], "bias": "recovering", "cite": "[DM memo 2026-08-17]"},
+    {"date": "2026-08-17", "asset": "BRENT", "current": 88, "support": [78, 75], "resistance": [92, 95], "bias": "uncertain", "cite": "[DM memo 2026-08-17]"},
+    {"date": "2026-08-17", "asset": "GOLD", "current": 4420, "support": [4300, 4100], "resistance": [4500, 4600], "bias": "neutral", "cite": "[DM memo 2026-08-17]"},
+    {"date": "2026-08-17", "asset": "US10Y", "current": 4.70, "support": [4.5, 4.3], "resistance": [5.0, 5.2], "bias": "watch-jh", "cite": "[DM memo 2026-08-17]"},
+    {"date": "2026-08-20", "asset": "BTC", "current": 69500, "support": [66600, 65600, 65000, 62000, 60000], "resistance": [69884, 70000, 72000, 75000], "bias": "breakout", "note": "69,884 = 200d MA (this source)", "cite": "[DM slides 2026-08-20]"},
+    {"date": "2026-08-31", "asset": "BTC", "current": 78173, "support": [77000, 72400], "resistance": [81500, 85000, 88000], "bias": "consolidating", "cite": "[DM memo 2026-08-31]"},
+    {"date": "2026-08-31", "asset": "ETH", "current": 2438, "support": [2300, 2100], "resistance": [2600, 2850], "bias": "constructive", "cite": "[DM memo 2026-08-31]"},
+    {"date": "2026-08-31", "asset": "SP500", "current": 7712, "support": [7500, 7200], "resistance": [8000], "bias": "neutral", "cite": "[DM memo 2026-08-31]"},
+    {"date": "2026-08-31", "asset": "GOLD", "current": 4491, "support": [4400, 4200], "resistance": [4700], "bias": "bullish-while-dxy-sub-100", "cite": "[DM memo 2026-08-31]"},
+    {"date": "2026-08-31", "asset": "BRENT", "current": 90.69, "support": [85, 80], "resistance": [95, 100], "bias": "uncertain", "cite": "[DM memo 2026-08-31]"},
+    {"date": "2026-09-21", "asset": "BTC", "current": 86200, "support": [82400, 78786, 76877], "resistance": [85620, 86583, 97000], "bias": "breakout", "note": "78,786 = 50-week MA; 76,877 = JH floor; close > 86,583 opens 97K", "cite": "[DM memo 2026-09-21]"},
+    {"date": "2026-09-21", "asset": "ZEC", "current": 1500, "support": [1022, 850], "resistance": [1250, 1338, 1388], "bias": "constructive", "cite": "[DM memo 2026-09-21]"},
+    {"date": "2026-09-21", "asset": "BRENT", "current": 101.71, "support": [95, 90], "resistance": [105, 108.75], "bias": "falling", "cite": "[DM memo 2026-09-21]"},
+    {"date": "2026-09-21", "asset": "GOLD", "current": 4346, "support": [4200, 4000], "resistance": [4400, 4477], "bias": "neutral", "cite": "[DM memo 2026-09-21]"},
+    {"date": "2026-09-21", "asset": "HYPE", "current": 93.5, "support": [93, 89.54], "resistance": [96, 100], "bias": "bullish-post-ath", "cite": "[DM memo 2026-09-21]"},
+    {"date": "2026-09-21", "asset": "SP500", "current": 7726, "support": [7500, 7200], "resistance": [8000], "bias": "risk-on", "cite": "[DM memo 2026-09-21]"}
+  ],
+
+  "labels": {
+    "btc": {
+      "title": "Bitcoin price and structure",
+      "current": {"as_of": "2026-09-21", "cite": "[DM memo 2026-09-21]", "summary": "BTC $86,200+, +12.5% from Thu Sep 17 low, +44% Q3. First weekly close above 50-wk MA ($78,786) in 45 weeks. $746M liquidations ($647M shorts). Support $82,400 / $78,786 / $76,877 (JH floor). Resistance $86,583 daily R1, then ~$97K. Daily close > $86,583 = runway to $97K. Sep 28-30 month-end weekly close is the test: hold $82K+ = structural breakout; roll = 2022 analog (first hike -> +18% in 12 days -> -50% later)."},
+      "superseded": [
+        {"as_of": "2026-08-31", "cite": "[DM memo 2026-08-31]", "summary": "$78,173 consolidating; support $77,000/$72,400; resistance $81,500/$85,000; Aug peak $81,455."},
+        {"as_of": "2026-08-20", "cite": "[DM slides 2026-08-20]", "summary": "$69,500; broke $65,600 50-mo EMA first time in 2026; $66,600 neckline support; 200d MA $69,884 next."},
+        {"as_of": "2026-08-17", "cite": "[DM memo 2026-08-17]", "summary": "$63,100; failed $65,600 EMA; support $62,000/$60,000; resistance $65,600/$67,300."},
+        {"as_of": "2026-08-10", "cite": "[DM memo 2026-08-10]", "summary": "$64,858; Aug high $65,300; $65,600 EMA capped every 2026 rally; 155K BTC accumulated $62-65K."},
+        {"as_of": "2026-08-03", "cite": "[DM memo 2026-08-03]", "summary": "$62,643; July close ~$63,700 (+7%); support $60,000/$59,023; resistance $65,200/$65,600."},
+        {"as_of": "2026-07-27", "cite": "[DM slides 2026-07-27]", "summary": "$65,333; FOMC-hold target $66,800->$70K; EMA/MA cluster $65,200-65,600 acting as support."},
+        {"as_of": "2026-07-13", "cite": "[DM memo 2026-07-13]", "summary": "$63,042; support $61,000-61,750/$59K; resistance $65,000/$65,200."},
+        {"as_of": "2026-06-29", "cite": "[DM slides 2026-06-29]", "summary": "$59,800; Jun 24-25 low $59,023; support $58,000-58,400; danger below $58K."},
+        {"as_of": "2026-06-21", "cite": "[DM memo 2026-06-21]", "summary": "$63,800; support $62,000/$60,000; resistance $65,200/$65,750."},
+        {"as_of": "2026-06-15", "cite": "[DM memo 2026-06-15]", "summary": "~$64,000; June low ~$59,100; support $60-62K; resistance $66-68K; MVRV ~1.1."},
+        {"as_of": "2026-06-08", "cite": "[DM memo 2026-06-08]", "summary": "~$62,500, -50% from ATH $126,198; support $60,000, then $55-58K."},
+        {"as_of": "2026-06-01", "cite": "[DM memo 2026-06-01]", "summary": "~$72,000; range $73-77K; support $73-75K."},
+        {"as_of": "2026-05-18", "cite": "[DM memo 2026-05-18]", "summary": "~$77,000; support $73,700; resistance $84,500; macro-driven correction."},
+        {"as_of": "2026-05-11", "cite": "[DM memo 2026-05-11]", "summary": "$80,640; pivot $80,600; target $85,000; invalidation $75,000."}
+      ]
+    },
+    "btc_flows": {
+      "title": "Bitcoin ETF flows and on-chain",
+      "current": {"as_of": "2026-09-21", "cite": "[DM slides 2026-09-21]", "summary": "Week Sep 14-18 net +$6.2M (Mon +$160M, Tue -$450M CLARITY, Wed -$296M FOMC, Thu +$159.5M, Fri +$433M: FBTC $310.7M, IBIT $108.4M). ETF assets ~$95B. Tue Sep 22 flow data >$200M confirms re-engagement."},
+      "superseded": [
+        {"as_of": "2026-08-31", "cite": "[DM memo 2026-08-31]", "summary": "August BTC ETF inflows $3B+ (best month of 2026); Aug 24-28 $924M."},
+        {"as_of": "2026-08-20", "cite": "[DM slides 2026-08-20]", "summary": "Aug 19 +$517M (biggest since May 4); net assets $84.31B."},
+        {"as_of": "2026-08-17", "cite": "[DM memo 2026-08-17]", "summary": "Aug 3-7 +$853M; Aug 10-14 net negative; Strategy sold 1,690 BTC, 7 weeks selling (~$432M in 2026)."},
+        {"as_of": "2026-07-27", "cite": "[DM slides 2026-07-27]", "summary": "Inflow streak week 3+; AUM >$79B."},
+        {"as_of": "2026-07-13", "cite": "[DM memo 2026-07-13]", "summary": "8-week $9.46B outflow streak ended (+$197M BTC, +$84M ETH); avg holder cost basis ~$83,800."},
+        {"as_of": "2026-06-29", "cite": "[DM slides 2026-06-29]", "summary": "7 weeks of outflows; AUM $77.5B from $113B Jan 1; whales dumped 45,074 BTC pre-flush."},
+        {"as_of": "2026-06-21", "cite": "[DM memo 2026-06-21]", "summary": "May outflows $2.3B; week of Jun 5 -$2.7B; LTH distributing; MVRV neutral."},
+        {"as_of": "2026-06-15", "cite": "[DM memo 2026-06-15]", "summary": "Record ~$3.4B single-week outflow (IBIT $1.34B); MVRV ~1.1; funding slightly positive."},
+        {"as_of": "2026-06-08", "cite": "[DM memo 2026-06-08]", "summary": "$1.67B weekly outflow; funding neutral/negative; MVRV not yet accumulation."},
+        {"as_of": "2026-06-01", "cite": "[DM memo 2026-06-01]", "summary": "10 straight outflow days; AUM $104B->$94B; $1.26B IBIT block sale; whales +270K BTC Apr-May."},
+        {"as_of": "2026-05-18", "cite": "[DM memo 2026-05-18]", "summary": "-$1B week ending May 15; cumulative ~$58.3B; AUM ~$104B."},
+        {"as_of": "2026-05-11", "cite": "[DM memo 2026-05-11]", "summary": "5 straight inflow weeks (~$2.78B); cumulative $58.7B vs $61.2B peak."}
+      ]
+    },
+    "eth": {
+      "title": "Ethereum",
+      "current": {"as_of": "2026-09-21", "cite": "[DM memo 2026-09-21]", "summary": "~$2,750, highest since Jan 2026, +4% Sep 21; ETH ETFs -$140.6M week of Sep 14-18 (rotation toward BTC)."},
+      "superseded": [
+        {"as_of": "2026-08-31", "cite": "[DM memo 2026-08-31]", "summary": "$2,438; support $2,300/$2,100; resistance $2,600/$2,850; 10-session ETF inflow streak."},
+        {"as_of": "2026-08-20", "cite": "[DM slides 2026-08-20]", "summary": "$2,250 (+18% 24h); ETH ETFs +$189M Aug 19."},
+        {"as_of": "2026-08-17", "cite": "[DM memo 2026-08-17]", "summary": "~$1,880; support $1,750/$1,600; resistance $2,000/$2,200."},
+        {"as_of": "2026-07-27", "cite": "[DM slides 2026-07-27]", "summary": "~$1,953; ETH/BTC 0.030."},
+        {"as_of": "2026-07-13", "cite": "[DM memo 2026-07-13]", "summary": "$1,820 (+16% from $1,565 low); BitMine 5.62M ETH."},
+        {"as_of": "2026-06-29", "cite": "[DM slides 2026-06-29]", "summary": "$1,565."},
+        {"as_of": "2026-06-21", "cite": "[DM memo 2026-06-21]", "summary": "$1,760; ETH/BTC 0.027; MVRV <0.8; Glamsterdam final devnet, mainnet H2 2026; StanChart $4,000 YE."},
+        {"as_of": "2026-06-15", "cite": "[DM memo 2026-06-15]", "summary": "~$1,670; -62% from $4,953 ATH; Glamsterdam slipped to Q3."},
+        {"as_of": "2026-06-08", "cite": "[DM memo 2026-06-08]", "summary": "~$1,750; -29% Q1."},
+        {"as_of": "2026-06-01", "cite": "[DM memo 2026-06-01]", "summary": "~$2,020; support $1,850; resistance $2,133; squeeze >$2,500."},
+        {"as_of": "2026-05-18", "cite": "[DM memo 2026-05-18]", "summary": "~$2,120; ETH ETFs -$255M."},
+        {"as_of": "2026-05-11", "cite": "[DM memo 2026-05-11]", "summary": "$2,324; support $2,300; TVL $68B; 33% staked."}
+      ]
+    },
+    "hype": {
+      "title": "Hyperliquid (HYPE)",
+      "current": {"as_of": "2026-09-21", "cite": "[DM memo 2026-09-21]", "summary": "New ATH $96.00 Sep 21 (prior $89.54 Sep 6); now $93.50; support $93/$89.54; resistance $96/$100+; $4.07B+ burned; $419-600M annualized revenue; 40-44% on-chain perp share; Multicoin reducing."},
+      "superseded": [
+        {"as_of": "2026-06-15", "cite": "[DM memo 2026-06-15]", "summary": "~$58-63 off ATH $75.52 (Jun 2); +160% YTD; ETFs THYP/BHYP/HYPG; 99% of fees to buybacks."},
+        {"as_of": "2026-06-08", "cite": "[DM memo 2026-06-08]", "summary": "ATH during extreme fear; support ~$56; secondary $38-44."},
+        {"as_of": "2026-05-18", "cite": "[DM memo 2026-05-18]", "summary": "+7% on SpaceX pre-IPO perp launch; THYP live; CME/ICE concerns."}
+      ]
+    },
+    "zec": {
+      "title": "Zcash (ZEC)",
+      "current": {"as_of": "2026-09-21", "cite": "[DM memo 2026-09-21]", "summary": "~$1,500 after temp breakout $1,570; above prior ATH zone $1,225-1,388; support $1,022/$850; ZCSH ETF +$37.67M Sep 18; NU7 Sep 30 deadline."},
+      "superseded": [
+        {"as_of": "2026-06-15", "cite": "[DM memo 2026-06-15]", "summary": "~$530 recovering from ~50% crash on Orchard bug; Ironwood upgrade July; audit clean Jun 14."}
+      ]
+    },
+    "alts": {
+      "title": "SOL, XRP and other altcoins",
+      "current": {"as_of": "2026-09-21", "cite": "[DM memo 2026-09-21]", "summary": "SOL $118; breakout broad. (Aug 20: XRP $1.10+, institutional rotation into ETH/XRP/SOL products.)"},
+      "superseded": [
+        {"as_of": "2026-07-27", "cite": "[DM slides 2026-07-27]", "summary": "SOL ~$76.12."},
+        {"as_of": "2026-06-15", "cite": "[DM memo 2026-06-15]", "summary": "SOL $64-67; Solana RWA $2.7B ATH; tokenized SpaceX; Alpenglow Q3."},
+        {"as_of": "2026-06-08", "cite": "[DM memo 2026-06-08]", "summary": "Reverse altseason; AI tokens (TAO, RNDR, Venice) near accumulation; RWA (Ondo, Canton) holding."},
+        {"as_of": "2026-05-18", "cite": "[DM memo 2026-05-18]", "summary": "BNB ETF filings; PYTH/ZRO/KAITO unlocks; SBR update pending (never reported landing)."},
+        {"as_of": "2026-05-11", "cite": "[DM memo 2026-05-11]", "summary": "BTC dominance 58.5%; not altseason."}
+      ]
+    },
+    "fed": {
+      "title": "Federal Reserve and rate path",
+      "current": {"as_of": "2026-09-21", "cite": "[DM memo 2026-09-21]", "summary": "Fed delivered its first hike Sep 16 (level not stated; prior 3.50-3.75%). Focus is the December hike: falling oil -> Sept Brent avg <$100 -> Oct CPI benign -> Dec optional. Services flash PMI <50 (Sep 23) takes Dec off the table; >56 keeps it live. 10Y ~4.87% off 5.04% peak."},
+      "superseded": [
+        {"as_of": "2026-08-31", "cite": "[DM memo 2026-08-31]", "summary": "Warsh JH Aug 28: 'discipline, not decision'; no forward guidance; 2% firm; conditions 'not restrictive'; Sept hike odds 40%->57%."},
+        {"as_of": "2026-08-20", "cite": "[DM slides 2026-08-20]", "summary": "July minutes: Sept hike 'appropriate if August CPI shows energy-driven re-acceleration'."},
+        {"as_of": "2026-08-17", "cite": "[DM memo 2026-08-17]", "summary": "Sept hike 31-33%; hold 67-69%."},
+        {"as_of": "2026-08-10", "cite": "[DM memo 2026-08-10]", "summary": "Sept hike 44% after NFP -23K."},
+        {"as_of": "2026-08-03", "cite": "[DM memo 2026-08-03]", "summary": "Jul 29 hold 9-3 (Hammack, Kashkari, Logan for hike); Sept hike ~57%; 30Y 5.19%."},
+        {"as_of": "2026-07-27", "cite": "[DM slides 2026-07-27]", "summary": "Jul 29 hold ~80%."},
+        {"as_of": "2026-07-13", "cite": "[DM memo 2026-07-13]", "summary": "June minutes 'no urgency'; Jul 5-10%, Sept 60-70%, Dec 40-50%."},
+        {"as_of": "2026-06-29", "cite": "[DM slides 2026-06-29]", "summary": "Three 2026 hikes priced; Sept ~62%."},
+        {"as_of": "2026-06-21", "cite": "[DM memo 2026-06-21]", "summary": "Jun 16-17 hold 12-0 (Warsh debut); 9 of 18 project 2026 hike; ~50% Sept; cuts dead."},
+        {"as_of": "2026-06-08", "cite": "[DM memo 2026-06-08]", "summary": "June hold 99.4%; YE hike ~73%."},
+        {"as_of": "2026-06-01", "cite": "[DM memo 2026-06-01]", "summary": "May FOMC 8-4 hold; cuts pushed to H2 2027; says Warsh starts June 18 (conflict)."},
+        {"as_of": "2026-05-18", "cite": "[DM memo 2026-05-18]", "summary": "Warsh confirmed 54-45 May 13, chair May 15; cut odds 0%; hike ~45%."},
+        {"as_of": "2026-05-11", "cite": "[DM memo 2026-05-11]", "summary": "Powell out May 15; core PCE 3.2%."}
+      ]
+    },
+    "inflation": {
+      "title": "CPI / PPI / PCE prints",
+      "current": {"as_of": "2026-08-31", "cite": "[DM memo 2026-08-31]", "summary": "July PCE 3.7% headline (+0.1 above consensus), core 3.3% (65 months above 2%), +0.2% MoM both; real spending flat. August CPI (Sep 11) not in corpus."},
+      "superseded": [
+        {"as_of": "2026-08-17", "cite": "[DM memo 2026-08-17]", "summary": "July CPI 3.4% / core 2.5% (lowest since Mar 2021); July PPI 0.0% MoM; retail sales -0.6%."},
+        {"as_of": "2026-08-03", "cite": "[DM slides 2026-08-03]", "summary": "June CPI -0.4% MoM / 3.5% YoY."},
+        {"as_of": "2026-06-29", "cite": "[DM slides 2026-06-29]", "summary": "May PCE 4.1% / core 3.4%."},
+        {"as_of": "2026-06-15", "cite": "[DM memo 2026-06-15]", "summary": "May CPI 4.2% / core 2.9%; PPI 6.5%."},
+        {"as_of": "2026-06-01", "cite": "[DM memo 2026-06-01]", "summary": "April PCE 3.8% / core 3.3%."},
+        {"as_of": "2026-05-18", "cite": "[DM memo 2026-05-18]", "summary": "April CPI 3.8%; PPI 6.0%."},
+        {"as_of": "2026-05-11", "cite": "[DM slides 2026-05-11]", "summary": "March CPI 3.3%; core 2.6%."}
+      ]
+    },
+    "labor": {
+      "title": "Labor market",
+      "current": {"as_of": "2026-08-10", "cite": "[DM memo 2026-08-10]", "summary": "July NFP -23K vs +80K; revisions -103K; 3-mo avg ~+20K; unemployment 4.1% (participation 61.4%); wages 3.2%. August NFP (Sep 4) not in corpus."},
+      "superseded": [
+        {"as_of": "2026-07-13", "cite": "[DM memo 2026-07-13]", "summary": "June NFP +57K vs 110K+; revisions -74K; unemployment 4.2%; participation 61.5%."},
+        {"as_of": "2026-06-08", "cite": "[DM memo 2026-06-08]", "summary": "May NFP +172K vs 85K; unemployment 4.3%."},
+        {"as_of": "2026-05-11", "cite": "[DM memo 2026-05-11]", "summary": "April NFP +115K vs 62K; unemployment 4.3%."}
+      ]
+    },
+    "oil_iran": {
+      "title": "Oil, Iran, Strait of Hormuz",
+      "current": {"as_of": "2026-09-21", "cite": "[DM memo 2026-09-21]", "summary": "Brent $101.71 (4th decline from $108.75 Sep 15), WTI ~$99; support $95/$90; resistance $105/$108.75. UNGA diplomacy: Trump 'probably' open to meeting Pezeshkian; Iran conveyed conditions; Qatar mediating. Hormuz flows 6-mo high. Oil is the master variable; $10 Brent ~ 0.3-0.4% CPI."},
+      "superseded": [
+        {"as_of": "2026-08-31", "cite": "[DM memo 2026-08-31]", "summary": "Brent $90.69 off $95; sanctions over strikes; Hormuz 6-8M bbl/day; Iran-Oman corridor framework; 'managed disruption'."},
+        {"as_of": "2026-08-20", "cite": "[DM slides 2026-08-20]", "summary": "MOU expired Aug 17; Iranian missiles hit UAE; Brent $92; Trump threatened Oman."},
+        {"as_of": "2026-08-17", "cite": "[DM memo 2026-08-17]", "summary": "MOU expiry day; Brent $88."},
+        {"as_of": "2026-08-10", "cite": "[DM memo 2026-08-10]", "summary": "Brent $84; Iran FM rules out direct talks; Iran-Oman transit-fee framework."},
+        {"as_of": "2026-08-03", "cite": "[DM memo 2026-08-03]", "summary": "2nd pause Aug 2; July Brent range $72-102, close $87.93."},
+        {"as_of": "2026-07-27", "cite": "[DM slides 2026-07-27]", "summary": "US paused strikes after 13 nights; Brent $102 peak -> ~$90; Houthis hit Aramco."},
+        {"as_of": "2026-07-13", "cite": "[DM memo 2026-07-13]", "summary": "Ceasefire cancelled Jul 8 after Qatari LNG tanker strike; WTI $74.70; Brent $79.50."},
+        {"as_of": "2026-06-29", "cite": "[DM slides 2026-06-29]", "summary": "Jun 25-27 strikes, Jun 28 halt, Doha talks Jun 30; WTI $70.12."},
+        {"as_of": "2026-06-21", "cite": "[DM memo 2026-06-21]", "summary": "Geneva talks collapsed Jun 19; WTI ~$77."},
+        {"as_of": "2026-06-15", "cite": "[DM memo 2026-06-15]", "summary": "14-point deal reported; possible Jun 19 signing; WTI $80-85."},
+        {"as_of": "2026-06-08", "cite": "[DM memo 2026-06-08]", "summary": "WTI $90-94; April WTI peak $138 (this source); Aramco: normalization 2027; UAE left OPEC May 1."},
+        {"as_of": "2026-06-01", "cite": "[DM memo 2026-06-01]", "summary": "Tentative MoU then Trump demands; Brent $93.37; >$116 early May."},
+        {"as_of": "2026-05-18", "cite": "[DM memo 2026-05-18]", "summary": "WTI >$107; Brent $105-113; UAE drone strikes."},
+        {"as_of": "2026-05-11", "cite": "[DM memo 2026-05-11]", "summary": "Brent $95.87 (week high $114); Project Freedom paused; Iran rejected proposal."}
+      ]
+    },
+    "gold": {
+      "title": "Gold and silver",
+      "current": {"as_of": "2026-09-21", "cite": "[DM memo 2026-09-21]", "summary": "Gold ~$4,346 (-0.7%); support $4,200/$4,000; resistance $4,400/$4,477; lower oil + easing yields = debasement narrative reasserts."},
+      "superseded": [
+        {"as_of": "2026-08-31", "cite": "[DM memo 2026-08-31]", "summary": "Gold $4,491 (+15% Aug, best since Sept 1999); silver $67.10 (+16% Aug); support $4,400/$4,200."},
+        {"as_of": "2026-08-17", "cite": "[DM memo 2026-08-17]", "summary": "~$4,420."},
+        {"as_of": "2026-08-10", "cite": "[DM memo 2026-08-10]", "summary": "~$4,244 (7-wk high)."},
+        {"as_of": "2026-07-13", "cite": "[DM memo 2026-07-13]", "summary": "$4,068."},
+        {"as_of": "2026-06-29", "cite": "[DM slides 2026-06-29]", "summary": "$4,026; -10.2% June; -28% from ATH $5,589 (Jan 28); GS YE $4,900."},
+        {"as_of": "2026-06-21", "cite": "[DM memo 2026-06-21]", "summary": "$4,150; JPM YE $6,000+; CB buying 244t Q1."},
+        {"as_of": "2026-06-08", "cite": "[DM memo 2026-06-08]", "summary": "$4,370 YTD low; YE targets $5,400-6,300."},
+        {"as_of": "2026-05-11", "cite": "[DM memo 2026-05-11]", "summary": "$4,713."}
+      ]
+    },
+    "dollar_yields": {
+      "title": "Dollar and Treasury yields",
+      "current": {"as_of": "2026-09-21", "cite": "[DM memo 2026-09-21]", "summary": "DXY 100.30 off 7-wk high 100.56; 10Y ~4.87% off 5.04% (Sep 15)."},
+      "superseded": [
+        {"as_of": "2026-08-31", "cite": "[DM memo 2026-08-31]", "summary": "DXY 99.53; 10Y 4.71%."},
+        {"as_of": "2026-08-20", "cite": "[DM slides 2026-08-20]", "summary": "30Y 5.26%->5.196% on Bessent long-bond buyback doubling ($2B->$4B+/op, Sep 9-Nov 4); $40T debt."},
+        {"as_of": "2026-08-17", "cite": "[DM memo 2026-08-17]", "summary": "10Y ~4.70%."},
+        {"as_of": "2026-08-03", "cite": "[DM memo 2026-08-03]", "summary": "30Y ~5.19% (2007 high)."},
+        {"as_of": "2026-07-13", "cite": "[DM memo 2026-07-13]", "summary": "DXY ~101.3; 10Y 4.50%."},
+        {"as_of": "2026-06-29", "cite": "[DM slides 2026-06-29]", "summary": "DXY 101.3 (14-mo high); 10Y 4.38%."},
+        {"as_of": "2026-06-21", "cite": "[DM memo 2026-06-21]", "summary": "DXY ~100.85; 10Y ~4.45%."},
+        {"as_of": "2026-05-11", "cite": "[DM memo 2026-05-11]", "summary": "DXY 97.84 bearish; 10Y 4.36%; 4.50% ceiling."}
+      ]
+    },
+    "equities": {
+      "title": "Equities",
+      "current": {"as_of": "2026-09-21", "cite": "[DM memo 2026-09-21]", "summary": "S&P ~7,726 (+1%); support 7,500/7,200; resistance 8,000/ATH; Trump-Xi summit Sep 24 success -> 8,000 test, failure -> 7,500."},
+      "superseded": [
+        {"as_of": "2026-08-31", "cite": "[DM memo 2026-08-31]", "summary": "S&P 7,712."},
+        {"as_of": "2026-08-17", "cite": "[DM memo 2026-08-17]", "summary": "Record 7,798 Aug 13; Cisco/AMAT beat-and-fade."},
+        {"as_of": "2026-08-10", "cite": "[DM memo 2026-08-10]", "summary": "S&P +3.58% wk, Nasdaq +5.19%."},
+        {"as_of": "2026-08-03", "cite": "[DM memo 2026-08-03]", "summary": "MSFT +15%, AMZN +8-10%, META -9.6%, AAPL -7%, INTC -7.89%; KOSPI +17.91% Jul 31."},
+        {"as_of": "2026-07-13", "cite": "[DM memo 2026-07-13]", "summary": "S&P ~7,530; Dow ATH Jul 6; VIX ~15; Q2 EPS growth est 23.6%."},
+        {"as_of": "2026-06-15", "cite": "[DM memo 2026-06-15]", "summary": "S&P 7,431; SpaceX IPO $75B, closed $161.11."},
+        {"as_of": "2026-06-08", "cite": "[DM memo 2026-06-08]", "summary": "Nasdaq -4.18% Jun 5 on Broadcom; S&P 7,383; VIX 21.51."},
+        {"as_of": "2026-06-01", "cite": "[DM memo 2026-06-01]", "summary": "S&P 7,580 (+5% May); Dow 51,000; AI capex $670B."},
+        {"as_of": "2026-05-11", "cite": "[DM memo 2026-05-11]", "summary": "S&P ~7,396; Q1 EPS +27.1%."}
+      ]
+    },
+    "regulation": {
+      "title": "CLARITY Act, SEC, CFTC, White House",
+      "current": {"as_of": "2026-09-21", "cite": "[DM memo 2026-09-21]", "summary": "CLARITY Act cloture failed Sep 15; BTC ETF -$450M that day. No later path stated in corpus."},
+      "superseded": [
+        {"as_of": "2026-08-31", "cite": "[DM memo 2026-08-31]", "summary": "Sep 15 cloture; need 7 Dems; Polymarket ~17%, Galaxy 30%; pass -> $85-90K, fail -> -10-15%."},
+        {"as_of": "2026-08-20", "cite": "[DM slides 2026-08-20]", "summary": "Galaxy 10%; SEC $75M exemption + DeFi safe harbor; WH crypto meeting Aug 19; CFTC Innovation Advisory Committee."},
+        {"as_of": "2026-08-17", "cite": "[DM memo 2026-08-17]", "summary": "Thune filed cloture Aug 8; Senate back Sep 8."},
+        {"as_of": "2026-08-03", "cite": "[DM memo 2026-08-03]", "summary": "30-38% odds; Jul 22 ethics provisions cost Dem votes."},
+        {"as_of": "2026-07-27", "cite": "[DM slides 2026-07-27]", "summary": "43-48%; no cloture; Hawley + Paul No."},
+        {"as_of": "2026-07-13", "cite": "[DM memo 2026-07-13]", "summary": "Aug 7 recess deadline."},
+        {"as_of": "2026-05-18", "cite": "[DM memo 2026-05-18]", "summary": "Strategic BTC Reserve update 'in next few weeks' (never reported)."}
+      ]
+    },
+    "security": {
+      "title": "Security incidents",
+      "current": {"as_of": "2026-08-03", "cite": "[DM memo 2026-08-03]", "summary": "Coldcard Mk3 firmware 4.0.1-4.1.9 software-RNG flaw; ~1,755 BTC / ~$110M drained Jul 30-Aug 3; patched Aug 1; wallet migration not selling; protocol unaffected."},
+      "superseded": [
+        {"as_of": "2026-06-15", "cite": "[DM memo 2026-06-15]", "summary": "Humanity Protocol H private-key exploit Jun 8 (~$1B); Zcash Orchard bug fixed, audit clean Jun 14."},
+        {"as_of": "2026-05-18", "cite": "[DM memo 2026-05-18]", "summary": "Aave $292M April exploit, limits restored; $11M bridge hack."}
+      ]
+    }
+  },
+
+  "frameworks": [
+    {"id": "oil_master_variable", "rule": "Oil is the master variable; each $10 sustained Brent move ~ 0.3-0.4% headline CPI.", "cite": "[DM slides 2026-08-20]"},
+    {"id": "macro_correlation", "rule": "Crypto is macro-correlated: hot inflation -> dollar up -> BTC down; lower hike odds -> lower real yields -> BTC up.", "cite": "[DM slides 2026-08-10]"},
+    {"id": "extreme_fear_accumulation", "rule": "Every extreme-fear reading this cycle (Apr 2025, Feb 2026, Jun 2026) marked an accumulation zone in hindsight; manage risk rather than call bottoms.", "cite": "[DM slides 2026-06-08]"},
+    {"id": "etf_symmetry", "rule": "ETF flows are the institutional signal and work symmetrically in both directions.", "cite": "[DM slides 2026-06-15]"},
+    {"id": "beat_and_fade", "rule": "Beat-and-fade earnings = valuation exhaustion; three data points make a pattern.", "cite": "[DM memo 2026-08-17]"},
+    {"id": "debasement_channel", "rule": "Long-yield suppression (Treasury buybacks) reads as debasement -> scarce-asset bid for BTC and gold.", "cite": "[DM slides 2026-08-20]"},
+    {"id": "position_sizing", "rule": "Position sizing > narrative selection in a bear tape.", "cite": "[DM memo 2026-06-08]"},
+    {"id": "custody", "rule": "Custody hygiene (multisig, hardware, air-gapped keys) is part of the investment thesis.", "cite": "[DM slides 2026-06-15]"},
+    {"id": "nfp_goldilocks", "rule": "NFP 125-175K goldilocks; <125K recession fear; >200K hike signal.", "cite": "[DM memo 2026-06-01]"},
+    {"id": "ema_65600", "rule": "The 50-month EMA at $65,600 capped every 2026 rally until Aug 20; after the break it became support.", "cite": "[DM slides 2026-08-20]"},
+    {"id": "analog_2022", "rule": "2022 analog: first Fed hike -> BTC +18% over 12 days -> -50% months later. Sep 28-30, 2026 is the analog peak window; hold $82K+ = analog fails.", "cite": "[DM memo 2026-09-21]"}
+  ],
+
+  "timeline": [
+    {"date": "2025-10-06", "event": "BTC all-time high $126,198", "cite": "[DM slides 2026-06-08]"},
+    {"date": "2026-01-28", "event": "Gold all-time high $5,589", "cite": "[DM memo 2026-06-21]"},
+    {"date": "2026-02-28", "event": "US/Israel strike Iran (Op. Epic Fury); Hormuz effectively closes", "cite": "[DM slides 2026-05-11]"},
+    {"date": "2026-03-04", "event": "Iran formally declares Hormuz closed", "cite": "[DM slides 2026-05-11]"},
+    {"date": "2026-04-08", "event": "Ceasefire framework; Strait partially reopens", "cite": "[DM slides 2026-05-11]"},
+    {"date": "2026-05-04", "event": "Project Freedom naval escorts launched (paused May 6)", "cite": "[DM slides 2026-05-11]"},
+    {"date": "2026-05-12", "event": "April CPI 3.8%; 21Shares HYPE ETF (THYP) launches", "cite": "[DM slides 2026-05-18]"},
+    {"date": "2026-05-13", "event": "Warsh confirmed 54-45; BTC ETF -$635M single day", "cite": "[DM memo 2026-05-18]"},
+    {"date": "2026-05-15", "event": "Warsh becomes Fed Chair; Bitwise HYPE ETF (BHYP)", "cite": "[DM memo 2026-05-18]"},
+    {"date": "2026-05-26", "event": "$1.26B IBIT block sale at 2.3% discount to NAV", "cite": "[DM memo 2026-06-01]"},
+    {"date": "2026-06-02", "event": "HYPE ATH $75.52", "cite": "[DM memo 2026-06-15]"},
+    {"date": "2026-06-03", "event": "Grayscale HYPE ETF (HYPG)", "cite": "[DM memo 2026-06-15]"},
+    {"date": "2026-06-05", "event": "May NFP +172K; Nasdaq -4.18% (Broadcom); VIX +39.68%", "cite": "[DM memo 2026-06-08]"},
+    {"date": "2026-06-08", "event": "Humanity Protocol H exploit ~$1B", "cite": "[DM memo 2026-06-15]"},
+    {"date": "2026-06-10", "event": "May CPI 4.2% / core 2.9%; Solana RWA $2.7B ATH", "cite": "[DM memo 2026-06-15]"},
+    {"date": "2026-06-12", "event": "SpaceX IPO: $135, $75B raised, close $161.11", "cite": "[DM memo 2026-06-15]"},
+    {"date": "2026-06-16", "event": "FOMC (Warsh debut) holds 3.50-3.75% 12-0; hawkish dots", "cite": "[DM memo 2026-06-21]"},
+    {"date": "2026-06-17", "event": "ECB hikes to 2.25% (effective)", "cite": "[DM memo 2026-06-15]"},
+    {"date": "2026-06-19", "event": "Geneva US-Iran talks collapse", "cite": "[DM memo 2026-06-21]"},
+    {"date": "2026-06-25", "event": "BTC flush low $59,023; May PCE 4.1% / core 3.4%", "cite": "[DM slides 2026-06-29]"},
+    {"date": "2026-06-28", "event": "US-Iran halt attacks; Doha talks set for Jun 30", "cite": "[DM slides 2026-06-29]"},
+    {"date": "2026-07-02", "event": "June NFP +57K", "cite": "[DM memo 2026-07-13]"},
+    {"date": "2026-07-07", "event": "Iran strikes Qatari LNG tanker; BTC ETF inflows resume ($265M day)", "cite": "[DM memo 2026-07-13]"},
+    {"date": "2026-07-08", "event": "US strikes 80+ Iranian targets; Trump: ceasefire 'over'; June FOMC minutes 'no urgency'", "cite": "[DM memo 2026-07-13]"},
+    {"date": "2026-07-14", "event": "June CPI (3.5% YoY, -0.4% MoM); Warsh House testimony", "cite": "[DM slides 2026-08-03]"},
+    {"date": "2026-07-24", "event": "US pauses strikes after 13 nights; Brent peaked $102", "cite": "[DM slides 2026-07-27]"},
+    {"date": "2026-07-29", "event": "FOMC holds 9-3 (three hawkish dissents); Dow -1,153; 30Y 5.19%", "cite": "[DM memo 2026-08-03]"},
+    {"date": "2026-07-30", "event": "Coldcard exploit wave 1 (594 BTC)", "cite": "[DM memo 2026-08-03]"},
+    {"date": "2026-07-31", "event": "KOSPI +17.91% (largest day ever); Brent July close $87.93", "cite": "[DM memo 2026-08-03]"},
+    {"date": "2026-08-01", "event": "Coldcard patched firmware released", "cite": "[DM memo 2026-08-03]"},
+    {"date": "2026-08-07", "event": "July NFP -23K; Senate recess without CLARITY vote; BTC Aug high $65,300", "cite": "[DM memo 2026-08-10]"},
+    {"date": "2026-08-08", "event": "Thune files CLARITY cloture", "cite": "[DM memo 2026-08-17]"},
+    {"date": "2026-08-13", "event": "July CPI 3.4% / core 2.5%; S&P record 7,798", "cite": "[DM memo 2026-08-17]"},
+    {"date": "2026-08-17", "event": "Iran-US MOU expires in deadlock", "cite": "[DM memo 2026-08-17]"},
+    {"date": "2026-08-18", "event": "SEC proposes $75M crypto exemption; UAE cuts Iran transactions", "cite": "[DM slides 2026-08-20]"},
+    {"date": "2026-08-19", "event": "Bessent doubles long-bond buybacks; Iranian missiles hit UAE; BTC ETF +$517M; WH crypto meeting", "cite": "[DM slides 2026-08-20]"},
+    {"date": "2026-08-20", "event": "BTC breaks $65,600 -> $69,500; $2.7B short squeeze; Trump CLARITY push; SEC DeFi safe harbor; CFTC IAC", "cite": "[DM slides 2026-08-20]"},
+    {"date": "2026-08-22", "event": "BTC August peak $81,455", "cite": "[DM memo 2026-08-31]"},
+    {"date": "2026-08-26", "event": "July PCE 3.7% / core 3.3%; Nvidia Q2 FY27 (outcome not in corpus)", "cite": "[DM memo 2026-08-31]"},
+    {"date": "2026-08-28", "event": "Warsh Jackson Hole keynote; Sept hike odds 40%->57%", "cite": "[DM memo 2026-08-31]"},
+    {"date": "2026-09-06", "event": "HYPE ATH $89.54", "cite": "[DM memo 2026-09-21]"},
+    {"date": "2026-09-15", "event": "CLARITY Act cloture fails; Brent peak $108.75; 10Y 5.04%", "cite": "[DM memo 2026-09-21]"},
+    {"date": "2026-09-16", "event": "FOMC delivers first hike of the cycle", "cite": "[DM memo 2026-09-21]"},
+    {"date": "2026-09-18", "event": "BTC ETF +$433M; ZCSH +$37.67M", "cite": "[DM memo 2026-09-21]"},
+    {"date": "2026-09-21", "event": "BTC $86,200+ breakout; HYPE ATH $96", "cite": "[DM memo 2026-09-21]"}
+  ],
+
+  "upcoming": [
+    {"date": "2026-09-22", "event": "ETF flow data for Sep 21 session", "importance": "critical", "watch": ">$200M confirms institutional re-engagement", "cite": "[DM memo 2026-09-21]"},
+    {"date": "2026-09-23", "event": "Flash PMIs (9:45 ET)", "importance": "high", "watch": "services <50 = Dec hike off table; >56 = Dec live", "cite": "[DM memo 2026-09-21]"},
+    {"date": "2026-09-23", "event": "Xi arrives Washington (evening)", "importance": "high", "cite": "[DM memo 2026-09-21]"},
+    {"date": "2026-09-24", "event": "Trump-Xi summit, Washington", "importance": "critical", "watch": "tariff truce extension -> S&P +1-2%, BTC $88K+; failure -> risk-off", "cite": "[DM memo 2026-09-21]"},
+    {"date": "2026-09-28", "event": "2022-analog peak window / month-end weekly close (through Sep 30)", "importance": "high", "watch": "hold $82K+ = structural breakout", "cite": "[DM memo 2026-09-21]"},
+    {"date": "2026-09-30", "event": "ZEC NU7 feature deadline", "importance": "medium", "cite": "[DM slides 2026-09-21]"},
+    {"date": "2026-11-04", "event": "Treasury long-bond buyback program ends (started Sep 9)", "importance": "medium", "cite": "[DM slides 2026-08-20]"},
+    {"date": "2026-12", "event": "December FOMC: hike 'optional' if Sept Brent avg <$100", "importance": "high", "cite": "[DM memo 2026-09-21]"}
+  ],
+
+  "conflicts": [
+    {"id": "warsh_start", "topic": "Warsh start date as Fed Chair", "lines": [{"claim": "May 15, 2026", "cites": ["[DM memo 2026-05-18]", "[DM memo 2026-06-15]", "[DM memo 2026-06-21]"]}, {"claim": "June 18, 2026", "cites": ["[DM memo 2026-06-01]"]}], "weight_of_sources": "May 15"},
+    {"id": "sp500_jun21", "topic": "June 21 equity index levels", "lines": [{"claim": "S&P ~5,575 / Nasdaq ~18,100", "cites": ["[DM memo 2026-06-21]"]}, {"claim": "S&P ~7,4xx / Nasdaq ~25,9xx", "cites": ["[DM memo 2026-06-15]", "[DM memo 2026-07-13]"]}], "weight_of_sources": "June 21 memo levels are erroneous"},
+    {"id": "btc_ma_jun21", "topic": "BTC 50/200-day MA values", "lines": [{"claim": "200d $65,200 / 50d $65,750", "cites": ["[DM memo 2026-06-21]", "[DM memo 2026-07-13]", "[DM memo 2026-08-03]"]}, {"claim": "200d ~$77,500 / 50d ~$69,000", "cites": ["[DM slides 2026-06-21]"]}, {"claim": "200d $69,884", "cites": ["[DM slides 2026-08-20]"]}], "weight_of_sources": "~$65,200 / ~$65,750 through early August"},
+    {"id": "oil_peak", "topic": "War-period oil peak", "lines": [{"claim": "Brent $114 week high (May)", "cites": ["[DM memo 2026-05-11]"]}, {"claim": "Brent >$116 early May", "cites": ["[DM memo 2026-06-01]"]}, {"claim": "WTI $138 April peak", "cites": ["[DM memo 2026-06-08]"]}, {"claim": "Brent ~$120+ war peak", "cites": ["[DM slides 2026-06-21]", "[DM slides 2026-06-29]"]}, {"claim": "52-wk range $58-$126", "cites": ["[DM slides 2026-08-31]"]}], "weight_of_sources": "cite figure with its source; do not average"},
+    {"id": "hormuz_share", "topic": "Share of global oil through Hormuz", "lines": [{"claim": "~20%", "cites": ["[DM memo 2026-05-11]", "[DM slides 2026-06-15]"]}, {"claim": "~25% oil + 20% LNG", "cites": ["[DM memo 2026-06-01]"]}]},
+    {"id": "hormuz_flow", "topic": "Hormuz flow volume", "lines": [{"claim": "6-8M bbl/day (pre-conflict 22-24M)", "cites": ["[DM memo 2026-08-31]"]}, {"claim": "2.8M bbl/day 6-month high; 700K in August", "cites": ["[DM slides 2026-09-21]"]}]},
+    {"id": "btc_cycle_low", "topic": "BTC 2026 cycle low", "lines": [{"claim": "$59,023 (Jun 25)", "cites": ["[DM slides 2026-06-29]", "[DM memo 2026-08-03]"]}, {"claim": "~$59,100", "cites": ["[DM memo 2026-06-15]"]}, {"claim": "$57,700 (Jun 25)", "cites": ["[DM slides 2026-08-17]"]}], "weight_of_sources": "$59,023"},
+    {"id": "eth_levels_jun8", "topic": "ETH levels on June 8", "lines": [{"claim": "support $1,980 / resistance $2,135 with price ~$1,750", "cites": ["[DM slides 2026-06-08]"]}], "note": "internally inconsistent; likely stale"},
+    {"id": "iran_mou_date", "topic": "Iran-US MOU timeline", "lines": [{"claim": "MOU signed Jun 17, 60-day window to Aug 17", "cites": ["[DM slides 2026-08-20]"]}, {"claim": "Geneva talks collapsed Jun 19; ceasefire only Jun 28", "cites": ["[DM memo 2026-06-21]", "[DM slides 2026-06-29]"]}]}
+  ]
+}

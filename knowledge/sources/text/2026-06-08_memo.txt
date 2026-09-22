@@ -1,0 +1,141 @@
+
+===== PAGE 1 =====
+DM MARKET UPDATE
+RESEARCH MEMO
+Decentralized Masters
+Monday, June 8, 2026
+Tyler Hubbard, Head of Research
+BTC
+~$62,500
+-50% from ATH
+ETH
+~$1,750
+-29% in Q1 2026
+WTI CRUDE
+$90-94/bbl
+Down from $138 peak
+GOLD (XAU)
+$4,370/oz
+2026 YTD low
+S&P; 500
+7,383
+-2.64% Fri close
+FEAR & GREED
+13
+Extreme Fear / $1.67B
+out
+CRYPTO
+Bitcoin (BTC)
+BTC trades near $62,500, approximately 50% off the October
+2025 all-time high of $126,198. The $60,000 level is the critical
+support zone; below that, $55,000-$58,000 is the next reference
+area. The 200-day MA has been declining since early May,
+acting as overhead resistance alongside the 50-day MA.
+On-chain: funding rates on perpetuals are neutral to slightly
+negative, indicating leveraged speculation has partially flushed.
+MVRV has not yet reached historically reliable accumulation
+territory. ETF-driven outflows (largest of 2026 at $1.67B weekly)
+are creating direct sell pressure; a reversal of that flow would be
+a meaningful near-term catalyst.
+Ethereum (ETH)
+ETH is trading around $1,700-$1,800, down roughly 29% in Q1
+2026 alone and continuing to underperform BTC on this
+correction. Market cap is approximately $230-235B. The
+Glamsterdam upgrade is on the roadmap but subject to timeline
+adjustments; do not treat it as a near-term price catalyst without
+confirmation. Layer-2 adoption and DeFi fee revenues remain
+structurally intact.
+Hyperliquid (HYPE): Cycle Outlier
+HYPE recently printed an all-time high, one of the only assets to
+do so during a period of extreme fear. The decentralized
+perpetuals exchange is processing billions in daily open interest
+with real volume and fee revenue. ETF products from Bitwise,
+21Shares, and Grayscale have launched around the
+ecosystem.
+Current support: ~$56. Secondary accumulation zone: $38-$44
+if broader market pressure continues. ATH during extreme fear
+is a meaningful divergence signal.
+Altcoin Landscape
+Speculative altcoins broadly under pressure; capital
+concentrating in higher-quality assets. Notable watches: AI
+tokens (Bittensor, Render, Venice) approaching historical
+accumulation zones; RWA tokens (Ondo, Canton) holding
+relatively better on the tokenization thesis. Position sizing
+matters more than narrative selection in this environment.
+MACRO
+May NFP: 172K vs. 85K Expected
+Friday's nonfarm payrolls report was a blowout: 172,000 jobs added
+against a consensus of 85,000. Unemployment held at 4.3%; wage
+growth 3.4% YoY in line. A labor market this resilient, combined with
+elevated oil-driven inflation, removes any near-term justification for
+Fed rate cuts. June hold probability: 99.4%. The more significant
+shift: markets are now pricing a ~73% chance of a rate hike by
+year-end.
+Equities: Nasdaq -4.18% on Friday
+The Nasdaq fell 4.18% on Friday (worst day since April 2025); S&P;
+500 -2.64% to 7,383; Dow -695 points. Catalyst: semiconductor
+sector breakdown after Broadcom failed to raise its AI chip outlook
+Wednesday night. NFP-driven treasury yield spike accelerated the
+selloff. VIX +39.68%. The S&P; had briefly crossed 7,600 earlier in
+the week on chip/AI enthusiasm.
+Oil and Geopolitics
+WTI crude: ~$90-94/bbl. Brent: ~$96-97/bbl. Down from the April
+peak of $138 but still historically elevated. The near-closure of the
+Strait of Hormuz and ~10.5M b/d of forced Middle Eastern shut-ins in
+April created a supply shock the market is still absorbing. Saudi
+Aramco CEO: full normalization takes until 2027 even if the Strait
+reopens today.
+Geopolitical status: Iran launched missiles toward Israel over the
+weekend (all intercepted). Hezbollah rejected ceasefire. 60-day
+truce framework stalled. OPEC+ approved +188,000 b/d July quota
+increase. UAE departed OPEC May 1, reducing cartel spare
+capacity from 3.8M to 2.5M b/d. EIA STEO update due June 9.
+Gold and Dollar
+Gold dropped to $4,370/oz on Friday, the 2026 YTD low, on a -3.8%
+weekly decline. The NFP-driven treasury yield spike raised the
+opportunity cost of holding gold. Institutional year-end targets remain
+$5,400-$6,300 but near-term path is lower while rate hike
+expectations persist. USD Index at ~100, firm but range-bound. A
+stronger dollar creates direct headwinds for crypto and risk assets
+broadly.
+
+
+===== PAGE 2 =====
+Key Risks This Week: Hot CPI print accelerates rate-hike pricing
+and hits risk assets hard; further US-Iran escalation reignites oil
+spike and inflation narrative; continued ETF outflows push BTC
+below $60K support; semiconductor selloff extends into broader
+tech; HYPE faces correlation risk if BTC breaks support.
+Potential Catalysts: CPI surprise to the downside creates relief rally
+across crypto and equities; credible US-Iran diplomatic breakthrough
+sends oil lower and unlocks risk appetite; post-holiday ETF flow
+reversal provides near-term BTC support; Fed language stays cautious
+on hikes despite hot NFP, capping rate-hike expectations.
+WEEK AHEAD | KEY EVENTS
+DATE
+EVENT
+WHY IT MATTERS
+Tue Jun 9
+EIA Short-Term Energy Outlook
+Updated supply/demand forecasts; first official read post-latest Iran escalation.
+Inventory draw projections will move crude markets.
+Wed Jun 11
+May CPI Data
+The critical print of the week. Hot = rate-hike pricing accelerates, hits all risk
+assets including crypto. Soft = relief rally opportunity. Most direct path to BTC
+price impact.
+Jun 11-12
+Fed Meeting / Communications
+Hold is guaranteed at 99.4%. Language around 'further adjustments' and dot plot
+signals will indicate how seriously the board views the year-end hike scenario.
+Ongoing
+US-Iran Diplomatic Track
+The wildcard. Credible ceasefire = oil drops sharply, risk appetite returns.
+Escalation = oil spike, inflation concerns worsen. Moves fast; no calendar date.
+Ongoing
+Crypto ETF Flow Data (Weekly)
+Post-holiday institutional flow reversal would be the strongest near-term BTC
+signal. Watch Bitwise/21Shares HYPE ETF liquidity development.
+This memo is a supplement to the DM Market Update video recorded Monday, June 8, 2026. For educational purposes only. Not financial advice. Crypto assets
+involve significant risk. Past performance does not indicate future results. All figures are approximate; sourced from public market data as of market close June 6,
+2026.

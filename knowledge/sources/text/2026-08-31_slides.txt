@@ -1,0 +1,306 @@
+
+===== PAGE 1 =====
+Market Update
+Monday, August 31, 2026
+Tyler Hubbard
+Head of Research  |  Decentralized Masters
+Oil & Iran Pivot   |   Warsh at Jackson Hole   |   Inflation: PCE 3.7%   |   Debasement Trade   |   Bitcoin August Rally   |   CLARITY Act: Sept 15
+DM Market Update  |  August 31, 2026  |  Tyler Hubbard, Head of Research
+
+
+===== PAGE 2 =====
+Market Snapshot
+As of August 31, 2026
+Bitcoin (BTC)
+$78,173
+-3.9% wk  |  $81,455 Aug high
+Ethereum (ETH)
+$2,438
+-2.9% wk  |  ETF inflow streak
+Gold (XAU/USD)
+$4,491
+Best Aug since 1999  |  +15% mo
+Silver (XAG)
+$67.10
++16% August  |  +65% YoY
+Brent Crude
+$90.69
+-5% wk from $95 high
+DXY / 10Y Yield
+99.53 / 4.71%
+Warsh hawkish; USD sub-100
+S&P 500: 7,712  |  Fed Funds: 3.50-3.75% (on hold 5 meetings)  |  Warsh Jackson Hole: September hike odds now 57%  |  CLARITY Act cloture vote: September 15
+DM Market Update  |  August 31, 2026  |  Tyler Hubbard, Head of Research
+
+
+===== PAGE 3 =====
+Oil & Iran: From Strikes to Sanctions
+Macro | Energy Markets
+MACRO
+Brent Crude Today
+$90.69
+Off $95 Aug peak; 52-wk range $58-$126
+Hormuz Daily Flow
+6-8M bbl
+Up from 5-6M at March conflict low
+Pre-Conflict Baseline
+22-24M bbl
+Goldman est. current Persian Gulf: 15-16M bbl/day
+What the Market Is Pricing
+Last U.S. strike on Iran: late July. Washington has shifted to sanctions 
+pressure.
+Iranian official (Friday): resuming diplomacy "isn't impossible" via Qatar 
+mediation.
+Iran-Oman revenue-sharing corridor framework agreed -- no immediate 
+Hormuz reopening.
+Market now pricing "managed disruption" not a full supply shock: Brent $90 
+not $120.
+Risk: any new military escalation spikes Brent back toward $95-$100 fast.
+Problem for inflation: Brent near $90 + PCE at 3.7% = energy keeps inflation 
+elevated.
+Goldman Sachs: Gulf exports could recover further if Iran-Oman corridor 
+operationalized.
+DM Market Update  |  August 31, 2026  |  Tyler Hubbard, Head of Research
+
+
+===== PAGE 4 =====
+Warsh at Jackson Hole: Discipline, Not Decision
+Macro | Fed Policy
+MACRO
+"I stand here today committed to a discipline, not to a decision."
+Kevin Warsh -- 100th day as Fed Chair -- Jackson Hole, August 28, 2026
+Key Takeaways
+Rejected forward guidance: Fed should not let markets "look to 
+the Fed for their next trade."
+Inflation is still too high: "underlying trends have not meaningfully 
+improved" despite better summer readings.
+2% PCE is a "firm, fixed target" -- no goal creep.
+Financial conditions not currently restrictive -- a signal current 
+rate (3.50-3.75%) may be too low.
+Market Reaction
+September hike odds: jumped from ~40% to 57% immediately 
+after the speech.
+Three July FOMC dissenters already wanted a hike at the last 
+meeting.
+Economy "appears to have strengthened" -- AI capex and 
+consumer spending cited.
+No new forward guidance means September FOMC (Sept 16-17) is 
+live with no clear read.
+September hike probability: 57%  |  Next FOMC: September 16-17  |  August payrolls (Sept 5) and CPI (Sept 11) are the deciding data
+DM Market Update  |  August 31, 2026  |  Tyler Hubbard, Head of Research
+
+
+===== PAGE 5 =====
+Inflation: PCE 3.7%, Core Stuck at 3.3%
+Macro | Economic Data
+MACRO
+PCE Headline (July)
+3.7%
++0.1pp above consensus
+Core PCE (July)
+3.3%
+65 consecutive months > 2% target
+Monthly Pace
+0.2%
+Both headline and core m/m
+Real Spending Growth
+~0%
+Nominal up; real effectively flat
+What's Driving Core Higher
+Energy: Brent at $90+ keeps CPI energy component elevated above disinflation trend.
+AI infrastructure: Computer hardware and software price increases tied to data center buildout pushing core services higher.
+Portfolio management fees: Equity market gains are feeding into financial services CPI component.
+Structural: Core has been above 2% for 65 consecutive months. This is not a spike, it is a plateau.
+Stagflation signal: Real consumer spending flat m/m while nominal figures rise -- inflation is consuming the gains.
+Next: August CPI on Sept 11  |  Re-acceleration = September hike locked  |  Shelter + services are the key components to watch
+DM Market Update  |  August 31, 2026  |  Tyler Hubbard, Head of Research
+
+
+===== PAGE 6 =====
+Dollar & Metals: The Debasement Trade
+Macro | Hard Assets
+MACRO
+Gold
+XAU/USD
+$4,491
++15% August
+Best monthly gain since Sept 1999 (UOB). Treasury 
+buyback expansion and dollar weakness driving bid.
+Silver
+XAG/USD
+$67.10
++16% August  |  +65% YoY
+Dual driver: safe-haven demand + industrial (solar, AI chip 
+cooling). Not a pure fear trade.
+DXY
+Dollar Index
+99.53
+Sub-100 zone
+Warsh hawkishness gave brief bid. Debasement narrative 
+and Treasury buybacks keeping dollar pressured.
+The Debasement Thesis
+Treasury Secretary Bessent doubled long-bond buyback operations (Aug 20) -- suppresses long yields artificially.
+Market reads this as fiscal dominance: the government cannot afford to let yields run freely.
+Equities (S&P 7,712) and hard assets rising together = liquidity still loose enough to support both.
+The divergence between risk assets and metals comes IF the Fed follows through with multiple hikes.
+For now: gold at $4,400 support, debasement thesis intact while DXY stays sub-100.
+DM Market Update  |  August 31, 2026  |  Tyler Hubbard, Head of Research
+
+
+===== PAGE 7 =====
+Bitcoin: August's Massive Run
+Crypto | Bitcoin
+CRYPTO
+Aug 20
+Trump pushes 
+Clarity Act
+BTC +7.1% open; 
+ETH +17.5%
+Aug 20-21
+Treasury 
+doubles 
+buybacks
+Liquidity signal; 
+BTC breaks $75K
+Aug 20-21
+$2.7B Short 
+Squeeze
+Largest squeeze 
+of 2026
+Aug 22-23
+BTC peaks at 
+$81,455
+Highest since 
+May 2026
+Aug 24-28
+$924M ETF 
+inflows (week)
+Aug total: $3B+ 
+(2026 best)
+Aug 31
+BTC 
+consolidates at 
+$78,173
+Pullback; $77K 
+support holds
+Current State & Key Levels
+BTC today: $78,173 -- pullback from $81,455 peak.
+Key support: $77,000 (consolidation base). Below: $72,400.
+Key resistance: $81,500 (Aug high). Above: $85,000-$88,000.
+Fear/Greed: hit "extreme greed" first time since late 2024.
+Consolidation looks healthy given squeeze magnitude.
+ETF Flow Context
+August spot BTC ETF inflows: $3B+ -- strongest month of 2026.
+ETH ETFs: 10-session consecutive inflow streak.
+SOL and altcoin products also attracting capital.
+Institutional rotation within crypto, not full exit.
+Structural bid limits downside severity during corrections.
+DM Market Update  |  August 31, 2026  |  Tyler Hubbard, Head of Research
+
+
+===== PAGE 8 =====
+CLARITY Act: September 15 is the Real Test
+Crypto | Regulation
+CRYPTO
+House Passed (Jul 2025)
+294-134 vote
+>
+Senate: Cloture Filed (Aug 8)
+Vote: Sept 15 -- 60 votes needed
+>
+Senate Floor Vote (TBD)
+If cloture passes; timeline uncertain
+Sticking Points
+Ethics language: Democrats want Trump + officials barred from 
+profiting on crypto.
+Stablecoin yield: Banks lobbying hard against exchange yield on 
+stable balances.
+DeFi authority: CFTC vs. SEC jurisdiction still unresolved.
+Only 14 working Senate days after Sept 14 return before Oct 
+election recess.
+Market Implications
+Polymarket: ~17% odds it becomes law in 2026. Galaxy Research: 
+30%.
+The $2.7B Aug squeeze shows how much clarity is worth to the 
+market.
+Cloture FAILS: expect 10-15% crypto correction near-term.
+Cloture PASSES: opens path toward BTC $85K-$90K before 
+year-end.
+Republicans: 53 Senate seats  |  Need: 60 votes  |  Gap: 7 Democrats must cross over
+DM Market Update  |  August 31, 2026  |  Tyler Hubbard, Head of Research
+
+
+===== PAGE 9 =====
+Key Levels & Scenarios
+Macro + Crypto | Positioning
+BULL: Clarity Passes + Fed Holds
+BTC: Break above $81,500 --> $85K-$90K
+Gold holds $4,400 support; $4,700+ possible
+S&P stays bid above 7,500; narrative "soft landing"
+Probability: 25-30% (Polymarket/Galaxy avg)
+BASE: Hike + Clarity Uncertain
+BTC consolidates $75K-$81K through Sept
+Gold dips briefly on rate hike, then recovers
+S&P pressured at 7,500 on rate sensitivity
+Most likely 45-50% probability scenario
+BEAR: Clarity Fails + Hot CPI
+BTC corrects 10-15%, tests $72,400 zone
+Dollar rallies on hike; gold under pressure
+S&P tests 7,200 if earnings guidance softens
+Probability: 20-25% based on current odds
+TAIL: Iran Escalation + Oil $100+
+Brent re-accelerates past $95 toward $100
+Stagflation read: bonds sell, equities volatile
+Crypto: initial sell, then "inflation hedge" buy
+Low probability but nonzero given Hormuz dynamics
+DM Market Update  |  August 31, 2026  |  Tyler Hubbard, Head of Research
+
+
+===== PAGE 10 =====
+Week Ahead: September 1-5 + Forward Catalysts
+Calendar | September
+MACRO + CRYPTO
+TUE
+Sep 1
+HIGH
+JOLTS Job Openings
+ISM Manufacturing PMI
+Labor tightness + mfg inflation
+WED
+Sep 2
+HIGH
+ADP Employment
+Factory Orders
+Fed Beige Book
+Private payrolls + regional 
+inflation color
+THU
+Sep 3
+MED
+Jobless Claims
+ISM Services PMI
+Services = stickiest CPI 
+component
+FRI
+Sep 4
+CRITICAL
+Nonfarm Payrolls (Aug)
+Unemployment Rate
+>200K + wages >4% = hike locked
+MON
+Sep 7
+CLOSED
+Labor Day
+Markets Closed
+Full week returns Sep 8
+Forward Catalysts Beyond This Week
+Sep 11
+August CPI
+Final inflation read before FOMC blackout
+Sep 15
+CLARITY Act
+Senate cloture vote -- 60-vote threshold
+Sep 16-17
+FOMC Decision
+September rate decision; SEP projections
+DM Market Update  |  August 31, 2026  |  Back Thursday  |  Tyler Hubbard, Head of Research

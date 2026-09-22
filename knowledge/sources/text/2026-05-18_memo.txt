@@ -1,0 +1,119 @@
+
+===== PAGE 1 =====
+DECENTRALIZED MASTERS
+WEEKLY MARKET MEMO  —  MONDAY, MAY 18, 2026
+Page 1 of 2
+Decentralized Masters  |  Informational only. Not financial advice. No price action. Fundamentals only.  |  Data as of May 18, 2026.
+Risk assets are under pressure Monday as U.S.-Iran tensions escalate and oil pushes above $107/bbl. Back-to-back hot inflation prints (CPI 3.8%,
+PPI 6%) have pushed rate-hike odds to 45% for 2026. Kevin Warsh officially took the Fed chair role May 15. FOMC minutes drop Wednesday
+alongside Nvidia earnings.
+SNAPSHOT
+Market Levels at a Glance
+ASSET
+LEVEL
+24H MOVE
+SIGNAL
+BTC
+~$77,000
+-4.0%
+BEARISH
+ETH
+~$2,120
+-3.1%
+BEARISH
+WTI Crude
+>$107/bbl
++9%+ WoW
+WATCH
+Gold
+~$4,550
+-4% WoW
+NEUTRAL
+10Y UST
+4.55%
+Near 1Y high
+WATCH
+F&G; Index
+28
+Fear
+BEARISH
+Crypto MCap
+$2.56T
+-3.8%
+BEARISH
+MACRO
+Key Themes This Week
+Iran / Oil / Geopolitics: Strait of Hormuz remains near-closed. WTI above $107, up 9%+ week-over-week. Drone strikes targeted UAE energy
+infrastructure over the weekend. Trump posted Sunday night that Tehran's 'clock is ticking.' Iranian media says talks are deadlocked. U.S. + Israeli
+military action possible as early as this week. Oil is the primary inflation driver and the swing variable for all risk assets right now.
+Inflation + Fed Transition: CPI 3.8% YoY (highest since Sept 2023). PPI 6% YoY. Rate cut probability: 0%. Rate hike probability this year: ~45%
+(was 1% a month ago). 10Y yield at 4.55%, near a one-year high. Kevin Warsh confirmed 54-45 (May 13) -- most partisan Fed chair vote in history.
+Powell stays on the board as governor. Warsh's first FOMC as chair: June 16-17. This week: Powell's final meeting minutes drop Wednesday.
+Gold Pullback: Gold fell ~4% last week to ~$4,550. Counterintuitive given the geopolitical backdrop, but explained by surging yields and a stronger
+dollar raising opportunity cost. WGC Q1 data showed record global demand -- bar/coin buying up 42% YoY, led by Asian investors. Long-term
+structural demand is intact; the short-term ceiling holds as long as real yields stay elevated.
+CALENDAR
+Week Ahead: May 18-22
+DATE
+EVENT
+TODAY Mon 18
+G7 Finance Ministers + Central Bank Governors meeting (thru Tue 19). YZY token unlock ~$6.2M.
+Tue 19
+Google I/O Developer Conference opens (thru Wed 20). PYTH unlock: ~37% of supply, ~$95.5M.
+Wed 20
+NVIDIA earnings after close (consensus: $78B rev, +78% YoY; $1.77 EPS). FOMC minutes released. Meta stablecoin Senate
+deadline (Sen. Warren). ZRO unlock ~$33.4M. KAITO unlock ~$7.9M.
+Thu 21
+Initial jobless claims. PMI data (manufacturing + services). Housing data.
+Thu 22
+Japan April CPI released. Key read for BoJ June rate hike expectations.
+
+
+===== PAGE 2 =====
+DECENTRALIZED MASTERS
+WEEKLY MARKET MEMO  —  MONDAY, MAY 18, 2026
+Page 2 of 2
+Decentralized Masters  |  Informational only. Not financial advice. No price action. Fundamentals only.  |  Data as of May 18, 2026.
+CRYPTO
+Bitcoin + Ethereum
+BTC (~$77,000): Down 4%+ today on macro risk-off after Trump's Sunday Iran post. Third consecutive daily decline. $661M+ liquidated in 24 hours --
+95% from longs. Total crypto market cap: $2.56T (-3.8%). Fear and Greed: 28. Higher-timeframe structure intact. Support: ~$73,700. Resistance:
+~$84,500. This looks like a macro-driven correction, not a structural breakdown.
+ETH (~$2,120): ETH/BTC on its fourth consecutive daily loss. Altcoin dominance near 39.2%, signaling continued risk tightening. ETH ETFs recorded
+$255M outflows last week.
+BTC ETF Flows: $1B net outflow for the week ending May 15 -- largest in months, ends a 6-week inflow streak. May 13 alone: $635M out, largest
+single day since late January. Cumulative net inflows since Jan 2024 still ~$58.3B; AUM ~$104B. Institutional caution, not capitulation.
+WATCH LIST
+Key Developing Situations
+TOPIC
+BIAS
+DETAIL
+HYPE / Hyperliquid
+BULLISH
+Trade.xyz launched a synthetic SpaceX pre-IPO perp (SPCX-USDC) on Hyperliquid today, sending HYPE +7%
+while BTC is -4%. Platform: $8.4T cumulative volume. 21Shares HYPE ETF (ticker $THYP) live with $1.2M
+day-1 inflows; Bitwise + Grayscale products pending. Risk: CME/ICE raising regulatory concerns about
+synthetic pre-IPO instruments.
+BNB ETF Pipeline
+WATCH
+VanEck and Grayscale both filed revised BNB ETF applications on the same day last week. Bloomberg ETF
+analyst Seyffart flagged potential near-term approval. Sets meaningful precedent for the broader altcoin ETF
+pipeline.
+Strategic BTC Reserve
+WATCH
+White House advisor Witt said at Consensus Miami (May 6) a major SBR update is coming 'in the next few
+weeks.' No third-party verification the reserve is operational, but no seized BTC has been sold. A concrete
+positive announcement is the key near-term upside catalyst for BTC back toward six figures.
+Aave + Bridge Risk
+NEUTRAL
+Aave restored ETH borrowing limits across 6 networks after April's $292M exploit -- contagion risk easing.
+Separately, an $11M cross-chain bridge hack reported this week. Bridge infrastructure remains one of DeFi's
+most persistent weak links.
+Token Unlocks
+BEARISH
+PYTH: ~37% of circulating supply (~$95.5M) unlocks Tuesday. ZRO: ~5% (~$33.4M) Wednesday. KAITO: ~5%
+(~$7.9M) Wednesday. Adds meaningful sell pressure to an already-weak altcoin market this week.
+Tyler's Bottom Line: Iran is the variable that determines everything else. Oil stays elevated, inflation stays sticky, and the Fed stays boxed in.
+Warsh inherited a mess -- his first real test comes Wednesday with FOMC minutes and Nvidia earnings. For crypto: BTC is in a macro-driven
+correction, not a structural breakdown. Watch $73-74K as the key support band. ETF outflows signal institutional caution, not capitulation. HYPE is
+the standout this week -- real products, real volume, real narrative. The SBR update is the near-term wildcard upside catalyst.

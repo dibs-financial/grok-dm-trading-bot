@@ -1,0 +1,246 @@
+
+===== PAGE 1 =====
+DM MARKET UPDATE
+June 1, 2026
+Tyler Hubbard   |   Head of Research   |   Decentralized Masters
+
+
+===== PAGE 2 =====
+Market Snapshot
+BTC & ETH post red May  |  Equities at all-time highs  |  Fear & Greed: 28 (Fear)
+BTC
+~$72,000
+-4.0%
+wk/wk
+ETH
+~$2,020
+-5.2%
+wk/wk
+S&P 500
+7,580
++1.4%
+wk/wk
+NASDAQ
+26,972
++2.1%
+wk/wk
+GOLD
+$4,502
+-0.6%
+wk/wk
+BRENT
+$93.37
+-9.7%
+wk/wk
+DXY
+99.1
++0.4%
+wk/wk
+
+
+===== PAGE 3 =====
+Bitcoin — The ETF Outflow Story
+10
+Consecutive
+Outflow Days
+Historic streak for 2026
+$104B→$94B
+ETF AUM
+Two-week contraction
+$1.26B
+IBIT Block Sale
+May 26 — 2.3% discount to NAV
+NYDIG: This was a large investor seeking a rapid exit — not a basis-trade unwind. On-chain divergence: whales added ~270,000 BTC (Apr-May). 
+Exchange supply declining. YTD ETF inflows still positive at $1.2B. Burden of proof has shifted to bulls.
+DM Market Update  |  June 1, 2026
+3 / 10
+
+
+===== PAGE 4 =====
+Bitcoin — Key Levels & Structure
+CURRENT RANGE
+$73,000 – $77,000
+Consolidation after three-week correction
+Support Zone
+$73,000 – $75,000
+50-Day MA (Resistance)
+Above price & declining
+200-Day MA
+Declining since May 1
+Break Risk Level
+Below $73K = next leg
+FEAR & GREED INDEX
+28  FEAR
+Compressed sentiment — positive catalyst = outsized move
+CATALYSTS TO WATCH
+Iran ceasefire reduces oil price & inflation pressure
+Weaker NFP Friday reopens rate cut conversation
+Bitcoin ETF inflow day breaks the 10-day outflow streak
+DM Market Update  |  June 1, 2026
+4 / 10
+
+
+===== PAGE 5 =====
+Ethereum
+~$2,000
+Current Price
+RSI 33
+Daily — Oversold
+$2,133
+50d EMA Resistance
+GLAMSTERDAM UPGRADE — H1 2026
+EIP-7928: Block-level access lists, parallel tx processing
+EIP-7732: Enshrined Proposer-Builder Separation (ePBS)
+Gas limit target: beyond 100M — direct throughput increase
+Substantive infra work — medium-term fundamental driver
+PRICE SCENARIOS
+BULL
+$2,500+
+Whale-driven short squeeze on catalyst
+BASE
+~$2,000
+Consolidation — waiting for macro relief
+BEAR
+$1,850
+Next technical support if conditions worsen
+Relative strength: HYPE (Hyperliquid) and XLM gaining while BTC/ETH are red — signals where real demand is concentrated
+DM Market Update  |  June 1, 2026
+5 / 10
+
+
+===== PAGE 6 =====
+Iran, Oil & the Strait of Hormuz
+~25% of global seaborne oil  +  20% of LNG flows through the Strait
+BRENT PEAK
+$116
+Early May 2026
+→
+BRENT TODAY
+$93
+June 1, 2026
+LAST WEEK
+THU:
+Tentative MoU framework reached — oil fell, risk-on rally.
+FRI:
+Trump demands: full Strait reopening + nuclear halt + asset unfreeze. Tehran 
+pushed back.
+FRI:
+Treasury Secretary Bessent: U.S. seized ~$1B in Iranian cryptocurrency.
+DEAL SCENARIO
+Brent $80-85
+Eases PCE. Rate cut conversation reopens.
+BREAKDOWN SCENARIO
+Brent $100+
+Rate hike probability rises. ~46% Dec hike priced.
+Treat as binary event risk — single headlines can swing Brent $15-20
+DM Market Update  |  June 1, 2026
+6 / 10
+
+
+===== PAGE 7 =====
+Gold
+$4,500+
+Holding above key level this morning
+DXY ~99   |   PCE 3.8% YoY
+STRUCTURAL SUPPORTS
+0
+1
+Central bank accumulation globally has not slowed
+0
+2
+PCE at 3.8% YoY actively supports hard asset demand
+0
+3
+DXY at 99 — not a meaningful headwind at this level
+0
+4
+Geopolitical uncertainty (Iran) is not going away
+PRIMARY RISK:
+A durable comprehensive Iran peace deal that takes oil below $80 and materially improves the inflation outlook. In that scenario gold likely gives 
+back some gains. The bar for that outcome is high given the current state of negotiations — until then, the structural case holds.
+DM Market Update  |  June 1, 2026
+7 / 10
+
+
+===== PAGE 8 =====
+The Dollar & The Fed
+99.1
+DXY
+Dollar Index
+3.8%
+PCE (Headline)
+YoY — 3-year high (Core: 3.3%)
+3.50-3.75%
+Fed Funds Rate
+Held at May meeting
+8-4
+FOMC Vote
+Largest dissent since Oct 1992
+WARSH TRANSITION — JUNE 18, 2026
+Kevin Warsh takes over as Fed Chair June 18. Significantly more hawkish than his predecessor. BofA and Goldman Sachs have pushed rate cut 
+expectations to H2 2027. Markets currently assign ~46% probability to a rate hike by December 2026.
+CRYPTO IMPLICATION:
+The historical correlation between loose monetary conditions and crypto outperformance is well documented. A restrictive Fed with a hawkish 
+incoming chair is a structural headwind. Price this into position sizing and timeframe expectations.
+DM Market Update  |  June 1, 2026
+8 / 10
+
+
+===== PAGE 9 =====
+Equities — All-Time Highs, Thin Breadth
+S&P 500
+7,580
++5% in May
+NASDAQ
+26,972
++8% in May
+DOW
+51,000
+First-ever close
+AI CAPEX DRIVER
+$670B
+Goldman: projected AI capex 2026
+~45% of S&P 500 market cap is 
+AI-related names
+RISK SIGNALS
+›
+RSI 73 entering this week — overbought
+›
+Rally concentrated in AI mega-caps, breadth thin
+›
+9-week streaks historically break in week 10
+KEY EVENTS THIS WEEK
+WED AMC
+Broadcom (AVGO) Earnings
+AI infrastructure confirmation — most critical print of the week
+FRI AM
+Nonfarm Payrolls (NFP)
+Primary Fed catalyst | Goldilocks: 125-175K
+DM Market Update  |  June 1, 2026
+9 / 10
+
+
+===== PAGE 10 =====
+Week Ahead — June 1-5, 2026
+DATE
+EVENT
+WHY IT MATTERS
+MON 6/1
+ISM Manufacturing PMI, Construction Spending
+Factory health under high rates + Hormuz supply stress
+WED 6/3
+ADP Employment, ISM Services, Fed Beige Book
+Labor preview; first qualitative Fed read under incoming Warsh
+WED AMC
+Broadcom (AVGO) Earnings
+AI confirmation event — most critical earnings of the week
+THU 6/4
+Jobless Claims, Nonfarm Productivity
+Labor health check ahead of the main event Friday
+FRI 6/5
+Nonfarm Payrolls + Unemployment Rate
+Primary Fed catalyst | Goldilocks: 125-175K | >200K = rate hike 
+risk
+TWO VARIABLES THAT SET THE TONE FOR JUNE
+01  Iran/Oil: Ceasefire MoU unresolved. Single headlines swing Brent $15-20.  02  NFP Friday: 125-175K is goldilocks. Below 125K = recession fear. Above 200K = 
+rate hike ammo.

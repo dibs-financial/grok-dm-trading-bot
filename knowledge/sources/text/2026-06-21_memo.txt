@@ -1,0 +1,192 @@
+
+===== PAGE 1 =====
+DM MARKET UPDATE
+Weekly Research Supplement — June 21, 2026
+Tyler Hubbard | Head of Research, Decentralized Masters
+Mon
+Jun 21
+2026
+MARKET SNAPSHOT
+ASSET
+PRICE
+WK CHG
+NOTE
+Bitcoin (BTC)
+$63,800
+-4.2%
+Near 200-day MA; extreme fear (F&G;: 23)
+Ethereum (ETH)
+$1,760
+-3.8%
+ETH/BTC 0.027; Glamsterdam devnet live
+S&P; 500
+~5,575
++0.93%
+Narrow rally; AI/energy leading; breadth weak
+Nasdaq
+~18,100
++2.43%
+Outperforming; concentrated in AI names
+DXY (Dollar)
+~100.85
++1.1%
+1-year high post-hawkish FOMC signal
+Gold (spot)
+$4,150/oz
+-2.8%
+3rd consec. weekly decline; GS cut target to $4,900
+WTI Crude
+~$77/bbl
+-1.4%
+Down from war peak; Iran talks collapsed Friday
+10-yr Treasury
+~4.45%
++12bps
+Jumped on Warsh dot-plot hawkish shift
+MACRO THEMES
+1. Fed Turns Hawkish Under Warsh
+Rates held at 3.5%-3.75% at June 16-17 FOMC (Warsh's debut).
+9 of 18 officials now project a 2026 rate hike. Markets pricing
+~50% probability of 25bp hike in September. Rate cut thesis is
+dead for now.
+2. Dollar at 1-Year Highs
+DXY hit ~101 — strongest since May 2025. Driven by rate-hike
+repricing and safe-haven demand as Iran talks stalled. Dollar
+strength is a direct headwind for commodities and risk assets.
+3. Gold Correcting, Bull Case Intact
+3rd consecutive weekly decline. ~25% below Jan 2026 ATH of
+$5,589. Goldman cut year-end target to $4,900. Structural thesis
+(CB buying, $37T US debt, dollar debasement) unchanged —
+short-term pressure from higher real yields is the driver.
+4. Oil: Iran Talks Are the Swing Factor
+WTI ~$77. Down from $120+ war peak. Friday's Geneva talks
+collapsed. Oil ticking higher this morning. Strait of Hormuz still
+below pre-war traffic. Energy-driven inflation (CPI 4.2% YoY May)
+keeps rate cuts suppressed.
+CRYPTO THEMES
+1. BTC: ETF Outflows + Leverage Flush
+May ETF outflows: $2.3B (largest of 2026). June 5 saw $1.5B
+long liquidations as BTC broke $62K. Now grinding back near
+200-day MA at ~$63,800. RSI neutral (49.74). MACD negative.
+Key line: $62K support.
+2. On-Chain: Cautious But Not Broken
+Long-term holders began distributing in late May. Funding rates
+normalized post-flush (crowded longs removed). MVRV in neutral
+zone for BTC. Not screaming buy — not freefall either.
+3. ETH: Fundamentals vs. Price Divergence
+ETH/BTC at 0.027 (lowest since early 2023). Q1 users +53.5%
+QoQ. Glamsterdam (largest upgrade since Merge) in final devnet.
+BitMine holds 5.62M ETH (4.66% of supply). 500K ETH left
+exchanges last week. MVRV below 0.8 (accumulation zone).
+None of this is priced in yet.
+4. Crypto is Macro-Correlated
+Thursday PCE drives near-term direction. Hot print (core PCE
+>3.4%) = dollar strength = $62K BTC re-test. Soft print = potential
+relief rally for risk assets including crypto.
+
+
+===== PAGE 2 =====
+DM MARKET UPDATE — Page 2
+June 21, 2026
+ECONOMIC CALENDAR — WEEK OF JUNE 22-26, 2026
+DATE
+EVENT
+PRIOR
+ESTIMA
+TE
+SIGNAL
+Mon Jun 22
+No major scheduled releases
+--
+--
+Low
+Tue Jun 23
+Conference Board Consumer Confidence
+--
+--
+Medium
+Wed Jun 24
+Q1 GDP Final Revision (BEA)
+--
+--
+Medium
+Thu Jun 25
+May PCE Price Index (MoM)
++0.4%
++0.5%
+HIGH
+Thu Jun 25
+May Core PCE Price Index (YoY)
+3.3%
+3.4%
+HIGH
+Thu Jun 25
+Initial Jobless Claims
+--
+--
+Medium
+Fri Jun 26
+Micron Technology (MU) Earnings
+--
+--
+Watch
+Fri Jun 26
+FedEx (FDX) Earnings
+--
+--
+Watch
+KEY LEVELS TO WATCH
+ASSET
+CURRENT
+SUPPORT
+RESISTANCE
+BIAS
+Bitcoin (BTC)
+$63,800
+$62,000 / $60,000
+$65,200 (200d MA) / $65,750 (50d MA)
+Cautious
+Ethereum (ETH)
+$1,760
+$1,700 / $1,500
+$1,800 / $2,000
+Cautious
+Gold (spot)
+$4,150
+$4,000
+$4,300 / $4,500
+Neutral
+WTI Crude
+~$77
+$72 / $68
+$82 / $90
+Uncertain
+DXY
+~100.85
+100.0 / 98.5
+102 / 103.5
+Bullish
+S&P; 500
+~5,575
+5,450 / 5,300
+5,650 / 5,800
+Neutral
+RISKS & OUTLOOK
+BEARS WATCH
+BULLS WATCH
+May PCE hot print Thursday — if 4.1%+ YoY materializes,
+expect dollar strength, rate hike odds spike, $62K BTC re-test,
+gold below $4,000. Iran talks collapse — Strait of Hormuz
+re-closure drives oil back toward $90, refueling sticky inflation.
+Equity breadth deteriorates — if AI/energy concentration
+reverses, the narrow market leaders could drag the index lower
+fast.
+PCE soft print Thursday — at or below 3.4% core sends rate
+hike odds lower, DXY weakens, risk assets get relief. Hormuz
+reopens — meaningful reopening accelerates, oil drops below
+$72, inflation expectations fall, giving the Fed room. ETH
+Glamsterdam catalyst — positive testnet news + BTC
+stabilization narrows ETH/BTC ratio; any sustained ETF inflows
+would be powerful.
+Prepared by Tyler Hubbard, Head of Research, Decentralized Masters. For educational and informational purposes only. Not financial advice. All
+figures as of June 21, 2026 market open unless otherwise stated.

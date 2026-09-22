@@ -1,0 +1,258 @@
+
+===== PAGE 1 =====
+DM MARKET UPDATE
+Weekly Research Supplement — August 10, 2026
+Tyler Hubbard | Head of Research, Decentralized Masters
+MARKET SNAPSHOT — AUGUST 10, 2026
+ASSET
+PRICE
+CHG
+NOTE
+Bitcoin (BTC)
+~$64,858
++2.8%
+wk
+Hit $65,300 Aug high on NFP; off that now
+Ethereum (ETH)
+~$1,940
++3.1%
+wk
+Risk-on NFP bid; recovering from lows
+S&P; 500
+~7,785
+Best wk
+Apr
+S&P; +3.58% last wk; near ATH; futures mixed
+WTI / Brent
+~$80/$84
++today
+Iran FM ruled out direct US talks Sunday
+Gold
+~$4,244
++4.92%
+wk
+7-week high; dollar weakness + geopolit. bid
+10-yr Treasury
+~4.65%
+-20bps
+wk
+Fell after NFP; CPI Wednesday is key test
+Sept Hike Odds
+~44% hike
+FLIPPED
+Was 57% before NFP; now 56% hold majority
+July CPI
+Wed Aug 13
+8:30am
+This week's defining print for BTC + stocks
+MACRO THEMES
+July NFP: -23K — September Hike Flipped to
+Minority
+-23K vs +80K consensus. May +63K, June +20K (-103K
+combined). Wages 3.2% (below 3.5%). Sept hike now 44%;
+hold is 56% majority.
+Stocks Best Week Since April: S&P; +3.58%, Nasdaq
++5.19%
+Atlassian +34%, Cloudflare +10%, Airbnb +12% on earnings.
+Gold to $4,244 (7-wk high). 10-yr to 4.65%. S&P; at ATH 7,757.
+Iran: Deal Still Not Done — Oil Back Up to $84 Today
+FM ruled out direct US talks Sunday; restrictive Hormuz draft.
+Brent $84 today from $82 last week. Geopolitical premium on
+pause.
+July CPI Wednesday 8:30am — The Week's Decisive
+Print
+Built on $80-95 Brent in July. Below 3.9% = September hold
+stays. 4.0%+ = hike back to 60%+; all NFP relief erased.
+CRYPTO THEMES
+Bitcoin $64,858 — Off August Highs, Waiting on CPI
+Hit $65,300 Friday on NFP. Sept hike at 44% vs 57% Thursday.
+Soft CPI opens $65,600 (50-mo EMA). Hot CPI = back to
+$62-63K.
+ETF Flows: Check Weekly Data Today — Week 4
+Building
+$626M 3-day inflow last week; IBIT 80% = institutional. If Aug
+3-7 week positive, that's 4 consecutive positive weeks.
+CLARITY Act: Senate Recess — September at
+Earliest
+No cloture filed; Senate recessed Aug 7. Next: Sept 8 return vs
+appropriations. Year-end appropriations rider most likely.
+Jackson Hole Aug 27-29 — 17 Days
+Theme: 'Financial Innovation + Payments + Policy.' NFP
+cooling widens Warsh's range. Digital assets language = crypto
+catalyst.
+
+
+===== PAGE 2 =====
+DM MARKET UPDATE — Page 2
+August 10, 2026
+JULY NFP DETAIL — -23,000 JOBS VS +80,000 EXPECTED
+METRIC
+ACTUAL
+EST
+PRIOR
+NOTE
+Nonfarm Payrolls
+-23,000
++80K
++20K
+Miss below all Bloomberg forecasts
+Unemployment
+Rate
+4.1%
+4.2%
+4.2%
+Fell due to participation drop
+Avg Hourly
+Earnings
+3.2% YoY
+3.5%
+3.5%
+Wages cooling: disinflationary
+Combined
+Revisions
+-103K
+—
+—
+May -66K + June -37K: 3-mo avg
+~20K
+Govt Education
+-50K
+—
+—
+Seasonal; likely reverses Aug
+Note: -50K in local government education is a seasonal timing anomaly; private sector payrolls actually increased modestly. The
+structural weakness is the revisions (-103K combined) and the falling participation rate (61.4%), not the headline alone.
+ECONOMIC CALENDAR — AUG 10-14, 2026 + AHEAD
+DATE
+EVENT
+DETAIL
+SIG
+Mon Aug 10
+Oil up; Iran FM rules out US talks
+Brent ~$84; wait for CPI
+LOW
+Wed Aug 13
+July CPI (8:30am)
+Built on $80-95 Brent avg in July
+HIGH
+Wed Aug 13 AH
+Cisco Q4 Earnings
+AI infrastructure demand signal
+Earn.
+Thu Aug 14
+July PPI (8:30am)
+Corroborates or contradicts CPI
+High
+Thu Aug 14 AH
+Applied Materials Earnings
+Semiconductor; AI chip demand
+Earn.
+Aug 27-29
+Jackson Hole — Warsh keynote
+Financial Innovation + Payments
+Jackson
+Sep 4
+August NFP
+Final labor data before Sept FOMC
+HIGH
+KEY TECHNICAL LEVELS
+ASSET
+CURRENT
+SUPPORT
+RESISTANCE
+BIAS
+Bitcoin
+~$64,858
+$62,500 / $60,000
+$65,600 (50-mo EMA) / $67,300
+Watch CPI
+Ethereum
+~$1,940
+$1,800 / $1,700
+$2,000 / $2,200
+Cautious
+S&P; 500
+~7,785
+7,700 / 7,600
+7,800 / ATH
+Recovering
+WTI / Brent
+~$80/$84
+$75 / $72
+$87 / $90
+Uncertain
+Gold
+~$4,244
+$4,100 / $4,000
+$4,350 / $4,400
+Neutral
+10-yr Yield
+~4.65%
+4.5% / 4.3%
+4.85% / 5.0%
+Watch CPI
+
+
+===== PAGE 3 =====
+DM MARKET UPDATE — Page 3
+August 10, 2026
+RISKS & OUTLOOK
+BEARS WATCH
+BULLS WATCH
+CPI hot Wednesday (4.0%+) — Sept hike back to
+60%+; NFP relief erased; BTC re-tests $62,500; stock
+rally stalls. Iran deal collapses — oil above $88;
+August CPI also re-accelerates; FOMC cornered.
+August seasonal BTC weakness: -6.5% to -14%
+historically; macro tailwind may not overcome seasonal
+pattern even if CPI soft.
+CPI soft Wednesday (3.7-3.9%) — Sept hold to 65%+;
+BTC breaks $65,600 EMA for first time this year; dollar
+falls; ETF inflows accelerate. Iran-Oman Hormuz deal
+formal — oil to $75-78; August CPI improves. ETF
+week 4 confirmed today — 4 consecutive positive
+weeks = structural institutional re-entry signal; $1B+
+weekly target in sight.
+JULY CPI WEDNESDAY — BITCOIN SCENARIO TABLE
+CPI PRINT
+SEPT FOMC
+BTC MOVE
+SEQUENCE
+Below 3.7%
+Hold ~70%+
++$65,600 → $67K
+NFP + CPI both soft = clear hold; JH tone balanced
+3.7-3.9% (base)
+Hold ~60-65%
++$65,600 test
+Oil-driven but manageable; hold stays majority
+4.0-4.2%
+50/50 split
+Flat / -$63K
+Hike back in play; October becomes the live
+meeting
+4.2%+
+Hike ~60%+
+-$62,500 test
+NFP relief fully reversed; dollar bid; ETF outflows
+BITCOIN $65,600 LEVEL + JACKSON HOLE COUNTDOWN
+$65,600 — The Line That Matters: Every rally this year
+has failed at or near the 50-month EMA at $65,600.
+Bitcoin tagged $65,300 on Friday and pulled back.
+155,000 BTC accumulated $62-65K. Soft CPI = those
+holders profitable = reflexive bid above the EMA. Hot
+CPI = underwater = selling pressure. A sustained close
+above $65,600 would be the most significant technical
+development Bitcoin has seen this entire cycle.
+Jackson Hole Aug 27-29 (17 days): With NFP soft and
+September hike at 44%, Warsh has room to be
+balanced at the podium rather than explicitly hawkish.
+The theme 'Financial Innovation: Implications for
+Payments and Policy' is a direct invitation for him to
+address digital assets, stablecoins, and CBDC
+frameworks. Any Warsh language on Bitcoin's role in the
+payment ecosystem would be historically significant —
+the first time a Fed Chair has addressed it from the
+Jackson Hole stage.
+Prepared by Tyler Hubbard, Head of Research, Decentralized Masters. For educational and informational purposes only. Not financial advice. All
+figures as of August 10, 2026 market open unless otherwise stated.
