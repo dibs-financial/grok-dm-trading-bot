@@ -12,6 +12,7 @@ Ground rules that apply to every box:
 
 | # | Box | Specialty (one job) | Input | Output | Success criterion |
 |---|---|---|---|---|---|
+| 0 | **Scope-Definer** | Frame each run: the sub-questions (one per knowledge label plus "what changed since `current_as_of`"), success criteria, source-priority list | operator request; current `knowledge.json` meta | run brief with sub-questions, thresholds, priority list; no research | every downstream output cites the sub-question it answers |
 | 1 | **Gatekeeper** | Log in to Circle once, keep the session alive, enforce rate limits and ToS | credentials from env; robots/ToS policy | authenticated read-only fetch handle; session health log | zero credential exposure; session uptime ≥ 99%; no rate-limit bans |
 | 2 | **Scout** | Enumerate what exists: spaces, posts, events, attachments, newest first; detect changes since the last watermark | fetch handle; last watermark | change manifest (new / edited / deleted items with ids, dates, authors, URLs) | 100% of new items found within one scan; no re-listing of unchanged items |
 | 3 | **Capturer** | Download raw items exactly once: post body, attachments (PDF/PPTX), recordings, transcripts | change manifest | `sources/original/` files + MD5 + capture receipt | dedupe by content hash (the June 8 deck uploaded seven times counts once); byte-exact originals |
@@ -26,10 +27,29 @@ Ground rules that apply to every box:
 
 Existing code that already implements a box: Capturer and Reader are `scripts/extract_sources.py`; Publisher is `scripts/build_manifest.py` plus the desk's `KnowledgeDrive`; Number-Miner, Cross-Checker and Synthesizer outputs are the current `knowledge.json` and `state_card.md` schemas; the Auditor's cite check is the loader's `source_text()` resolution.
 
-## Coordination flow
+## Mapping to the six-role blueprint
+
+The operator's generic six-role team (Scope-Definer → Source-Hunter → Extractor → Fact-Checker → Gap-Analyst → Synthesizer) is the same pipeline at a higher altitude. The Circle boxes are the concrete versions; nothing here adds a duty the six-role design lacks, it only splits the Circle-specific mechanics out so no box touches two things.
+
+| Six-role blueprint | Circle box(es) | What the split buys |
+|---|---|---|
+| Scope-Definer | **Scope-Definer** (new, box 0) | fixed sub-questions per run: the 15 knowledge labels + "what changed since `current_as_of`"; source-priority list: memo > slides > call transcript > author comment > other |
+| Source-Hunter | Gatekeeper + Scout | login and rate limits kept away from discovery |
+| Extractor | Capturer + Transcriber + Reader + Number-Miner | byte-exact capture, transcript fidelity, faithful digest, and atomic numeric rows are four different failure modes |
+| Fact-Checker | Cross-Checker + Amendment-Miner | the Cross-Checker owns truth adjudication and confidence; the Amendment-Miner only supplies author corrections as evidence |
+| Gap-Analyst | Auditor (gap and contradiction report) | surfaces missing weeks, unresolved rows, unresolvable cites; never resolves |
+| Synthesizer | Synthesizer + Publisher | merge is separated from commit so a failed audit cannot publish |
+
+Rules adopted from the six-role blueprint, now binding on every box:
+- **Reject-and-return.** A receiver rejects an incomplete or ill-formed package and returns it upstream with a one-line defect note. It never patches it.
+- **One truth owner.** The Cross-Checker adjudicates every disagreement and assigns a confidence score 0–1 to each atomic claim. The Auditor surfaces gaps and contradictions but never resolves them. The Synthesizer drops anything still unresolved or below the confidence threshold (default 0.8; an author correction in Circle scores 1.0 against the memo it corrects).
+- **Atomic claims.** Number-Miner rows are `claim | exact quote or page/slide locator | source cite`, nothing interpretive. Interpretation lives only in the Reader's digest and is labeled as the author's framing.
+- **No specialty crossing.** A box that needs another box's output waits for it; it does not do the work itself.
+
+
 
 ```
-Gatekeeper ─(fetch handle)─> Scout ─(change manifest)─> Capturer ─(originals + receipts)─┬─> Transcriber ─┐
+Scope-Definer ─(run brief)─> Gatekeeper ─(fetch handle)─> Scout ─(change manifest)─> Capturer ─(originals + receipts)─┬─> Transcriber ─┐
                                                                                         └────────────────┴─> Reader
 Reader ─(text + digests)─> Number-Miner ─┐
 Reader ─(comments/Q&A)──> Amendment-Miner ┴─> Cross-Checker ─(rows + resolved conflicts)─> Synthesizer ─> Auditor ─> Publisher ─> dm_desk scan
@@ -52,6 +72,10 @@ Only Auditor-passed items reach `state_card.md` and `knowledge.json`. The Synthe
 | Metric | Target |
 |---|---|
 | Coverage: distinct Circle sources captured / sources posted | 100% per scan |
+| Scope: sub-questions answered or explicitly marked unresolvable | all 15 labels + "what changed" every run |
+| Precision: state-card lines that map to a Cross-Checker-verified claim ≥ 0.8 | ≥ 90% (target 100%) |
+| Density: state card + JSON size vs raw extracted text | ≤ 40% of raw text, no loss of verified numbers |
+| Zero overlap: audit finds a box doing another box's job | 0 findings |
 | Dedupe: duplicate uploads stored | 0 |
 | Cite resolution: claims whose cite opens a source file | 100% |
 | Freshness: post time on Circle → visible to desk | ≤ one 4h scan |
