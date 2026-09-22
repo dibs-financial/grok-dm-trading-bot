@@ -9,43 +9,28 @@ The bot's market context lives in [`knowledge/`](knowledge/README.md): a structu
 - Load it from code with `knowledge/loader.py` (`from knowledge.loader import Knowledge`), which reads `knowledge/knowledge.json`.
 - Add a new week with `scripts/extract_sources.py` then `scripts/build_manifest.py` (see the knowledge README for the full procedure).
 
-## DM desk (advisory)
+## The four desks
 
-`dm_desk/` implements [`docs/DM_DAILY_PLAN_v2.md`](docs/DM_DAILY_PLAN_v2.md): the Decentralized Masters research desk. Advisory only. It never places trades, never ARMs LIVE, never APPLYs, and never rewrites CrashForge hard locks (VIX22 / CII0.08 / SPY5d−4% / ARM LIVE≠ADD / lag>20=STALE / front-run invalid).
+See [`docs/DESKS.md`](docs/DESKS.md). One system, one clock (America/Chicago), one lock set, one ledger, one CLI: `python3 -m dm_desk <desk> <command>`.
 
-- **Loop.** `scan` every 4 hours (silent unless a trigger fires; heartbeat to the desk log), weekday **6:45** `gameplan` (packet only if it clears the 13-item gate, else `PACKET: NONE — <reason>`), weekday **16:00** `eod` (12-line review, no new strategy). `run` drives all three on the wall clock in America/Chicago; holidays keep the 4h loop.
-- **Drive.** The knowledge base in `knowledge/` is the indexed Drive folder (`--drive knowledge`, default). `--drive folder PATH` watches a synced folder and ingests new memos first.
-- **Tape.** `--tape coinbase` (public, no key) or `--tape file --tape-file examples/tape.json` for offline runs.
-- **Locks.** `--locks examples/locks.json` supplies VIX / CII / SPY 5d. Unknown inputs fail closed.
-- **Advisor.** Candidates come from `--advisor null` (default, proposes nothing), `--advisor file --candidates PATH`, or `--advisor grok` (xAI, needs `XAI_API_KEY`). The gate decides; the advisor only proposes.
-- **Outputs** land in `dm_desk/data/`: `user_thread.log` (READY / PROBLEM / SCHEDULED only), `desk.log` (heartbeats, P1/P2), `crashforge_handoff.log` (full packets only), `ledger.jsonl` (novelty and misses read this first).
+| Desk | What it does | Commands |
+|---|---|---|
+| `knowledge` | the box: ingest (Circle or files), extract, index `knowledge/` | `status`, `ingest PATH`, `sync --spaces "A,B"` |
+| `research` | DM desk (Daily Plan v2): 4h scan, 6:45 game plan, 16:00 EOD; advisory only | `scan`, `gameplan`, `eod`, `run`, `ledger`, `outcome ID X`, `check FILE` |
+| `engine` | pattern atlas → QUBO selection → uniqueness guard → candidates for the research gate | `scan`, `mine`, `solve`, `links` |
+| `execution` | CrashForge: operator-armed rows fire at 08:25 with zero per-trade clicks; locks outrank EV | `rows`, `arm`, `cancel ID`, `fire`, `manage`, `resolve` |
+| `status` | one line per desk | |
 
 ```bash
-python3 -m dm_desk scan     --tape file --tape-file examples/tape.json --locks examples/locks.json
-python3 -m dm_desk gameplan --tape file --tape-file examples/tape.json --locks examples/locks.json --advisor file --candidates examples/candidates.json --force
-python3 -m dm_desk eod      --tape file --tape-file examples/tape.json --locks examples/locks.json --force
-python3 -m dm_desk check examples/candidates.json      # dry-run the gate
-python3 -m dm_desk outcome DM-20260922-01 applied-by-user
+python3 -m dm_desk status
+python3 -m dm_desk knowledge status
+python3 -m dm_desk research gameplan --advisor engine --candidates examples/venues.json --tape file --tape-file examples/tape.json --locks examples/locks.json --force
+python3 -m dm_desk execution arm --from-packet DM-20260922-01 --size 5
+python3 -m dm_desk execution fire --tape file --tape-file examples/tape.json --locks examples/locks.json --force
+python3 -m dm_desk execution resolve --issue "venue lag 18s" --edge 50 --locks examples/locks.json
 python3 -m unittest discover -s tests
 ```
 
-## KB strategy engine
+Operating prompts: [`docs/DM_DAILY_PLAN_v2.md`](docs/DM_DAILY_PLAN_v2.md), [`docs/KB_STRATEGY_ENGINE.md`](docs/KB_STRATEGY_ENGINE.md), [`docs/DM_CIRCLE_BOT_TEAM.md`](docs/DM_CIRCLE_BOT_TEAM.md), [`docs/CRASHFORGE_EXECUTION.md`](docs/CRASHFORGE_EXECUTION.md).
 
-`dm_desk/engine/` implements [`docs/KB_STRATEGY_ENGINE.md`](docs/KB_STRATEGY_ENGINE.md): KB-Scanner (hash-diff of `knowledge/`, triple store), Pattern-Miner (level recurrence and hold rates, regime motifs, extreme-fear forward returns, catalyst outcomes), Hybrid-Solver (classical candidates → QUBO → quantum-inspired simulated annealing → desk packets), Uniqueness-Guard (fingerprint, body hash, near-duplicate, at most one emission per day), Strategy-Emitter (daily template around the packet), Ledger-Keeper (fingerprints on the ledger). The engine only proposes; the desk gate decides, and `PACKET: NONE` remains a valid day.
-
-```bash
-python3 -m dm_desk engine mine  --data-dir /tmp/dm                       # scan + pattern atlas
-python3 -m dm_desk engine solve --data-dir /tmp/dm --candidates examples/venues.json
-python3 -m dm_desk gameplan --advisor engine --candidates examples/venues.json --tape file --tape-file examples/tape.json --locks examples/locks.json --force
-```
-`examples/venues.json` is operator-maintained; a rail missing from it leaves the DeFi checklist unknown and the gate fails it closed.
-
-## Circle access (Gatekeeper / Scout / Capturer)
-
-`dm_desk/circle.py` is the only code that touches Circle credentials. It reads `CIRCLE_API_TOKEN` and optional `CIRCLE_BASE_URL` from the environment, lists spaces, walks posts newest first, downloads memo/slide attachments once, and hands them to the knowledge pipeline. It is untested against a live community from the build sandbox (no token, network policy blocks circle.so); the transport is injectable and the logic is covered by fake-transport tests.
-
-```bash
-export CIRCLE_API_TOKEN=...                                  # never commit it
-python3 -m dm_desk.circle spaces --profile v2                # list spaces (v2 = Admin API, v1 = Data API)
-python3 -m dm_desk.circle sync --spaces "Market Updates" --out dm_desk/data/drive
-```
+Adapters: tape `coinbase` (public) or `file`; Drive `knowledge` (default) or `folder`; advisor `null` | `file` | `grok` (needs `XAI_API_KEY`) | `engine`; broker `paper` (default) or `robinhood` (stub, refuses without an approved integration). Circle access needs `CIRCLE_API_TOKEN` in the environment; see `dm_desk/circle.py`. Runtime outputs land in `dm_desk/data/` (git-ignored).

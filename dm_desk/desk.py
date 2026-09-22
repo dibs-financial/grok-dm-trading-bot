@@ -370,6 +370,13 @@ class Desk:
             self.sinks.log(text)
             return text
         todays = [e for e in self.ledger.entries if e.date == day.replace("-", "")]
+        # research <- execution handoff: a FIRED receipt for today's packet means the operator armed it
+        rp = os.path.join(self.data_dir, "fire_receipts.jsonl")
+        if todays and os.path.exists(rp):
+            fired = {json.loads(l).get("packet_id") for l in open(rp) if l.strip() and '"FIRED"' in l}
+            for e in todays:
+                if e.id in fired and e.status == "posted":
+                    self.ledger.update(e.id, status="applied-by-user")
         if todays:
             e = todays[-1]
             packet = e.status if e.status in ("applied-by-user", "ignored") else "posted"
