@@ -39,3 +39,13 @@ python3 -m dm_desk engine solve --data-dir /tmp/dm --candidates examples/venues.
 python3 -m dm_desk gameplan --advisor engine --candidates examples/venues.json --tape file --tape-file examples/tape.json --locks examples/locks.json --force
 ```
 `examples/venues.json` is operator-maintained; a rail missing from it leaves the DeFi checklist unknown and the gate fails it closed.
+
+## Circle access (Gatekeeper / Scout / Capturer)
+
+`dm_desk/circle.py` is the only code that touches Circle credentials. It reads `CIRCLE_API_TOKEN` and optional `CIRCLE_BASE_URL` from the environment, lists spaces, walks posts newest first, downloads memo/slide attachments once, and hands them to the knowledge pipeline. It is untested against a live community from the build sandbox (no token, network policy blocks circle.so); the transport is injectable and the logic is covered by fake-transport tests.
+
+```bash
+export CIRCLE_API_TOKEN=...                                  # never commit it
+python3 -m dm_desk.circle spaces --profile v2                # list spaces (v2 = Admin API, v1 = Data API)
+python3 -m dm_desk.circle sync --spaces "Market Updates" --out dm_desk/data/drive
+```
