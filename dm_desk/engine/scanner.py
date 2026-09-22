@@ -67,7 +67,11 @@ class Scanner:
             store = self.normalize()
             json.dump(store.to_json(), open(self.store_path, "w"))
             json.dump(cur, open(self.ckpt_path, "w"))
-            self.bus.emit("kb.delta", {"delta": delta, "as_of": store.as_of, "triples": len(store.triples)})
+            from . import links as _links
+            nodes = _links.build(os.path.join(self.root, "sources", "text"))
+            _links.save(nodes, os.path.join(self.dir, "links.json"))
+            self.bus.emit("kb.delta", {"delta": delta, "as_of": store.as_of, "triples": len(store.triples),
+                                       "top_priority": [n.cite for n in sorted(nodes, key=lambda n: -n.priority)[:3]]})
         else:
             store = Store.from_json(json.load(open(self.store_path)))
         return {"delta": delta, "changed": changed, "store": store}

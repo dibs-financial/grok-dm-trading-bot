@@ -18,6 +18,7 @@ class LevelPattern:
     cites: list[str]
     held: int = 0
     failed: int = 0
+    aliases: list[float] = field(default_factory=list)   # raw level values collapsed into this canonical entry
 
     @property
     def recurrence(self) -> int:
@@ -76,6 +77,8 @@ def mine(store: Store, level_tolerance: float = 0.004) -> Atlas:
                 g = groups[r["asset"]]
                 match = next((p for p in g if abs(p.level - lv) / lv <= level_tolerance), None)
                 if match:
+                    if float(lv) != match.level and float(lv) not in match.aliases:
+                        match.aliases.append(float(lv))
                     match.role_counts[role] = match.role_counts.get(role, 0) + 1
                     if r["date"] not in match.dates:
                         match.dates.append(r["date"]); match.cites.append(r["cite"])

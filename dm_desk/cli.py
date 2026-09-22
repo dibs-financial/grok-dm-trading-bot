@@ -8,7 +8,7 @@ Commands:
   ledger      print the packet ledger
   outcome ID STATUS|OUTCOME   update a ledger row, e.g. outcome DM-20260922-01 applied-by-user
   check FILE  qualify candidate packets in a JSON file without posting (dry run)
-  engine scan|mine|solve   run the KB strategy engine stages standalone (writes dm_desk/data/engine/)
+  engine scan|mine|solve|links   run the KB strategy engine stages standalone (writes dm_desk/data/engine/)
 
 Options:
   --tape coinbase|file  --tape-file PATH      (default coinbase)
@@ -76,6 +76,10 @@ def main(argv: list[str] | None = None) -> int:
         eng_dir = os.path.join(a.data_dir, "engine")
         res = Scanner(data_dir=eng_dir).scan()
         print(f"scan: changed={res['changed']} delta={ {k: len(v) for k, v in res['delta'].items()} } triples={len(res['store'].triples)}")
+        if stage == "links":
+            from .engine.links import build
+            for n in sorted(build(), key=lambda n: -n.priority)[:10]:
+                print(f"{n.cite} priority={n.priority:.3f} novelty={n.novelty:.2f} linkage={n.linkage:.2f} links={n.links} aliases={n.aliases}")
         if stage in ("mine", "solve"):
             atlas = mine(res["store"]); save(atlas, os.path.join(eng_dir, "atlas.json"))
             print(f"atlas: as_of={atlas.as_of} levels={len(atlas.levels)} motifs={len(atlas.motifs)} catalysts={len(atlas.catalyst_outcomes)} last={atlas.last_price}")
